@@ -1,0 +1,66 @@
+[
+  {
+    "listing": "/tooluser.html",
+    "items": [
+      "/W4M_datasets/GCMSIdealg.html",
+      "/W4M_datasets/NMRMusmusculus.html",
+      "/W4M_datasets/sacurine.html"
+    ]
+  },
+  {
+    "listing": "/listing_team.html",
+    "items": [
+      "/people/W4Mteam/Binta_Diémé.html",
+      "/people/W4Mteam/Charlotte_Joly.html",
+      "/people/W4Mteam/Cécile_Canlet.html",
+      "/people/W4Mteam/Cédric_Delporte.html",
+      "/people/W4Mteam/Céline_Dalle.html",
+      "/people/W4Mteam/Etienne_Thévenot.html",
+      "/people/W4Mteam/Florence_Souard.html",
+      "/people/W4Mteam/Franck_Giacomoni.html",
+      "/people/W4Mteam/Gildas_LeCorguillé.html",
+      "/people/W4Mteam/Isabelle_Schmitz.html",
+      "/people/W4Mteam/Julien_Saint-Vanne.html",
+      "/people/W4Mteam/Loic_Legregam.html",
+      "/people/W4Mteam/Marie_Tremblay-Franco.html",
+      "/people/W4Mteam/Mélanie_Pétéra.html",
+      "/people/W4Mteam/Nils_Paulhe.html",
+      "/people/W4Mteam/Ralf_Weber.html",
+      "/people/W4Mteam/Sylvain_Chéreau.html",
+      "/people/W4Mteam/Sylvain_Dechaumet.html",
+      "/people/W4Mteam/Yann_Guitton.html",
+      "/people/old_w4m/Christophe_Duperier.html",
+      "/people/old_w4m/Eric_Venot.html",
+      "/people/old_w4m/JeanFrançois_Martin.html",
+      "/people/old_w4m/Lain_Pavot.html",
+      "/people/old_w4m/Marion_Landi.html",
+      "/people/old_w4m/Misharl_Monsoor.html",
+      "/people/old_w4m/Natacha_Lenuzza.html",
+      "/people/old_w4m/Pierre_Pericard.html",
+      "/people/old_w4m/Pierrick_Roge_Mele.html",
+      "/people/old_w4m/Romain_Dallet.html",
+      "/people/old_w4m/Sophie_Goulitquer.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "W4E/w4e2025.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/W4E/w4e2025.html",
+      "/W4E/w4e2024.html",
+      "/W4E/w4e2023.html",
+      "/W4E/w4e2021.html",
+      "/W4E/w4e2020.html",
+      "/W4E/w4e2018.html",
+      "/W4E/w4e2017.html",
+      "/W4E/w4e2016.html",
+      "/W4E/w4e2015.html",
+      "/W4E/w4e2014.html"
+    ]
+  }
+]
