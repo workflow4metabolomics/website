@@ -1,94 +1,4 @@
-[![Docker Automated buil](https://img.shields.io/docker/automated/workflow4metabolomics/galaxy-workflow4metabolomics.svg?maxAge=2592000)](https://cloud.docker.com/u/workflow4metabolomics/repository/docker/workflow4metabolomics/galaxy-workflow4metabolomics)
-[![Docker Pulls](https://img.shields.io/docker/pulls/workflow4metabolomics/galaxy-workflow4metabolomics.svg?maxAge=2592000)](https://cloud.docker.com/u/workflow4metabolomics/repository/docker/workflow4metabolomics/galaxy-workflow4metabolomics)
-[![Docker Stars](https://img.shields.io/docker/stars/workflow4metabolomics/galaxy-workflow4metabolomics.svg?maxAge=2592000)](https://cloud.docker.com/u/workflow4metabolomics/repository/docker/workflow4metabolomics/galaxy-workflow4metabolomics)
-[![bioconda-badge](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io)
-[![Build Status](https://travis-ci.org/workflow4metabolomics/xcms.svg?branch=master)](https://travis-ci.org/workflow4metabolomics/xcms)
-[![example workflow](https://github.com/jsaintvanne/workflow4metabolomics/actions/workflows/publish.yml/badge.svg)](https://github.com/jsaintvanne/workflow4metabolomics/actions/workflows/publish.yml/badge.svg)
-
-![workflow](/images/logo/logo-ifb-mono-metabohub_2.1_SD_150px.png)
-
-Our project
------------
-The [Workflow4Metabolomics](http://workflow4metabolomics.org), W4M in short, is a French infrastructure offering software tool processing, analyzing and annotating metabolomics data. It is based on the Galaxy platform.
-
-In the context of collaboration between metabolomics ([MetaboHUB French infrastructure](http://www.metabohub.fr/index.php?lang=fr)) and bioinformatics platforms ([IFB: Institut Français de Bioinformatique](http://www.france-bioinformatique.fr/en)), we have developed full LC/MS, GC/MS and NMR pipelines using Galaxy framework for data analysis including preprocessing, normalization, quality control, statistical analysis and annotation steps. Those modular and extensible workflows are composed with existing components (XCMS and CAMERA packages, etc.) but also a whole suite of complementary homemade tools. This implementation is accessible through a web interface, which guarantees the parameters completeness. The advanced features of Galaxy have made possible the integration of components from different sources and of different types. Thus, an extensible Virtual Research Environment (VRE) is offered to metabolomics communities (platforms, end users, etc.), and enables preconfigured workflows sharing for new users, but also experts in the field.
-
-Citation
---------
-Giacomoni F., Le Corguillé G., Monsoor M., Landi M., Pericard P., Pétéra M., Duperier C., Tremblay-Franco M., Martin J.-F., Jacob D., Goulitquer S., Thévenot E.A. and Caron C. (2014). Workflow4Metabolomics: A collaborative research infrastructure for computational metabolomics. Bioinformatics, [http://dx.doi.org/10.1093/bioinformatics/btu813](http://dx.doi.org/10.1093/bioinformatics/btu813)
-
-Galaxy
-------
-Galaxy is an open, web-based platform for data intensive biomedical research. Whether on the free public server or your own instance, you can perform, reproduce, and share complete analyses. 
-
-Homepage: [https://galaxyproject.org/](https://galaxyproject.org/)
-
-
-![workflow](/images/workflow/bigpicture.png)
-
-How to contribute
------------------
-
-### Get our tools
-All our tools are publicly available in [GitHub](https://github.com/workflow4metabolomics) and freely installable through the [Galaxy ToolShed](https://toolshed.g2.bx.psu.edu/groups#/175812cd7caaf439)
-
-However, we will be glad to have [good] feedbacks on their usage in order to motivate us (and our funders).
-
-It will also be great if you can cite our papers:
-
-> Franck Giacomoni, Gildas Le Corguillé, Misharl Monsoor, Marion Landi, Pierre Pericard, Mélanie Pétéra, Christophe Duperier, Marie Tremblay-Franco, Jean-François Martin, Daniel Jacob, Sophie Goulitquer, Etienne A. Thévenot and Christophe Caron (2014). **Workflow4Metabolomics: A collaborative research infrastructure for computational metabolomics**. Bioinformatics 
-
-[doi:10.1093/bioinformatics/btu813](https://doi.org/10.1093/bioinformatics/btu813)
-
-### Push your tools / W4M as a Showcase
-Your tools can be installed, integrated and hosted within the [main W4M instance Tools](https://galaxy.workflow4metabolomics.org/).
-
-#### Quality standards
-However, the tools must stick to the IUC standards in order to be easily integrated:
-- [ ] Available in a GitHub repository
-- [ ] [Conda](https://docs.galaxyproject.org/en/master/admin/conda_faq.html) dependencies
-- [ ] Functional tests using [Planemo](https://planemo.readthedocs.io/en/latest/#)
-- [ ] Available in the [Main ToolShed](https://toolshed.g2.bx.psu.edu/)
-
-In the first place, your tools will be displayed in the `Contribution` section of the tool panel. And eventually, it should be promoted among the other tools.
-
-#### Advanced mode
-In order to be fully integrated in our reference workflows, your tools must follow your exchange formats between tools (for more information, contact us).
-
-A collaboration should be established if help is needed!
-
-#### Support / HelpDesk
-In all cases, the tools must be maintained by the developers themselves. A tool can be removed if this after sales service isn't done.
-
-Guidelines
-----------
-
-- [Writing a tool](GUIDELINES.md#writing-a-tool)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[![example workflow](https://github.com/jsaintvanne/workflow4metabolomics/actions/workflows/publish.yml/badge.svg)](https://github.com/jsaintvanne/workflow4metabolomics/actions/workflows/publish.yml/badge.svg)
+[![example workflow](https://github.com/jsaintvanne/workflow4metabolomics/actions/workflows/publish.yml/badge.svg)](https://github.com/workflow4metabolomics/website/actions/workflows/publish.yml/badge.svg)
 
 
 ![workflow](/images/logo/logo-ifb-mono-metabohub_2.1_SD_150px.png)
@@ -131,3 +41,24 @@ Then in the file named `_quarto.yml` find the good part and add it with these in
 
 As you can see, you now need to create your new `mynewtool.qmd` file. In this file you can write all you want (in accordance with where it will be in the website of course!).
 After all this is completed, as in the previous tip, just save and open the pull request explaining what you want to add for us to be able to evaluate its accordance to the website.
+
+
+# Understand the website building
+
+
+
+## The `publish.yml` file for deploying the website
+
+The `publish.yml` file is a configuration file for GitHub Actions that automates the deployment of the Workflow4Metabolomics website. It is located in the `.github/workflows` directory of the GitHub repository. This file contains instructions on how to build and deploy the website whenever there is a change in the repository.
+
+### Why set the target to the `gh-pages` branch?
+
+The `gh-pages` target (defined in `target: gh-pages`) is used to specify the branch where the content generated by Quarto will be deployed. Here’s why this is important:
+
+1. **Dedicated deployment branch**: The `gh-pages` branch is a convention used by GitHub Pages to host the static files of a website. By configuring this branch as the target, you indicate to GitHub Pages where to find the files to serve.
+
+2. **Separation of source code and deployed content**: The source code of your project (e.g., Quarto, R files, etc.) remains in the main branch (`main`), while the generated files (HTML, CSS, JS, etc.) are deployed to `gh-pages`. This helps keep the repository clean and organized.
+
+3. **Compatibility with GitHub Pages**: GitHub Pages is configured to automatically serve content from the `gh-pages` branch (or another branch specified in the repository settings). By using this branch, you ensure that the site will be correctly published.
+
+In summary, the `target: gh-pages` directive is essential to indicate where the generated files should be deployed so that GitHub Pages can serve them as a website.
