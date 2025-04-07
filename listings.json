@@ -1,8 +1,10 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/tooluser.html",
     "items": [
-      "/W4E/w4e2025.html"
+      "/W4M_datasets/GCMSIdealg.html",
+      "/W4M_datasets/NMRMusmusculus.html",
+      "/W4M_datasets/sacurine.html"
     ]
   },
   {
@@ -41,6 +43,12 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": [
+      "W4E/w4e2025.html"
+    ]
+  },
+  {
     "listing": "/news.html",
     "items": [
       "/W4E/w4e2025.html",
@@ -53,14 +61,6 @@
       "/W4E/w4e2016.html",
       "/W4E/w4e2015.html",
       "/W4E/w4e2014.html"
-    ]
-  },
-  {
-    "listing": "/tooluser.html",
-    "items": [
-      "/W4M_datasets/GCMSIdealg.html",
-      "/W4M_datasets/NMRMusmusculus.html",
-      "/W4M_datasets/sacurine.html"
     ]
   }
 ]
