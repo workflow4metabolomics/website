@@ -1,17 +1,276 @@
 [
   {
-    "objectID": "W4M_datasets/sacurine.html",
-    "href": "W4M_datasets/sacurine.html",
-    "title": "Sacurine",
+    "objectID": "resources2.html",
+    "href": "resources2.html",
+    "title": "Want to learn",
     "section": "",
-    "text": "Study: Characterization of the physiological variations of the metabolome in biofluids is critical to understand human physiology and to avoid confounding effects in cohort studies aiming at biomarker discovery.\nDataset: In this study conducted by the MetaboHUB French Infrastructure for Metabolomics, urine samples from 184 volunteers were analyzed by reversed-phase (C18) ultrahigh performance liquid chromatography (UPLC) coupled to high-resolution mass spectrometry (LTQ-Orbitrap). A total of 258 metabolites were identified at confidence levels provided by the metabolomics standards initiative (MSI) levels 1 or 2.\nWorkflow: This history describes the statistical analysis of the data set from the negative ionization mode (113 identified metabolites at MSI levels 1 or 2): correction of signal drift (loess model built on QC pools) and batch effects (two batches), variable filtering (QC coefficent of variation &lt; 30%), normalization by the sample osmolality, log10 transformation, sample filtering (Hotelling, decile and missing pvalues &gt; 0.001) resulting in the HU_096 sample being discarded, univariate hypothesis testing of significant variations with age, BMI, or between genders (FDR &lt; 0.05), and OPLS(-DA) modeling of age, BMI and gender.\nComments: The ‘sacurine’ data set (after normalization and filtering) is also available in the ropls R package from the Bioconductor repository."
+    "text": "I want to learn how to process metabolomics data, you can either:\n\nGo to our teaching school event  section\nConsult our user page here\nOr directly go to our official Galaxy training guides"
   },
   {
-    "objectID": "W4M_datasets/sacurine.html#description",
-    "href": "W4M_datasets/sacurine.html#description",
-    "title": "Sacurine",
+    "objectID": "resources3.html",
+    "href": "resources3.html",
+    "title": "Contributers",
     "section": "",
-    "text": "Study: Characterization of the physiological variations of the metabolome in biofluids is critical to understand human physiology and to avoid confounding effects in cohort studies aiming at biomarker discovery.\nDataset: In this study conducted by the MetaboHUB French Infrastructure for Metabolomics, urine samples from 184 volunteers were analyzed by reversed-phase (C18) ultrahigh performance liquid chromatography (UPLC) coupled to high-resolution mass spectrometry (LTQ-Orbitrap). A total of 258 metabolites were identified at confidence levels provided by the metabolomics standards initiative (MSI) levels 1 or 2.\nWorkflow: This history describes the statistical analysis of the data set from the negative ionization mode (113 identified metabolites at MSI levels 1 or 2): correction of signal drift (loess model built on QC pools) and batch effects (two batches), variable filtering (QC coefficent of variation &lt; 30%), normalization by the sample osmolality, log10 transformation, sample filtering (Hotelling, decile and missing pvalues &gt; 0.001) resulting in the HU_096 sample being discarded, univariate hypothesis testing of significant variations with age, BMI, or between genders (FDR &lt; 0.05), and OPLS(-DA) modeling of age, BMI and gender.\nComments: The ‘sacurine’ data set (after normalization and filtering) is also available in the ropls R package from the Bioconductor repository."
+    "text": "I want to contribute as:\n\nA tutor to help people understand how to process metabolomics data: contact here\n\nA developper to propose or add new tools to the community:\n\nCheck our guides and how-to here\n\nI need help contact here\n\n\nI don’t know but I want to help: contact here"
+  },
+  {
+    "objectID": "W4E/w4e2018.html",
+    "href": "W4E/w4e2018.html",
+    "title": "Workflow4Experimenters 2018",
+    "section": "",
+    "text": "Overview Processing, statistical analysis, and annotation of metabolomics data is a complex task for experimenters since it involves many steps and requires a good knowledge of both the methodology and software tools. The Workflow4metabolomics.org (W4M) online infrastructure provides a user-friendly and high-performance environment with advanced computational modules for building, running, and sharing complete workflows for LC-MS, GC-MS, and NMR analysis. Such features are of major values for teaching computational metabolomics to experimenters, and previous courses using W4M since 2014 have been very successful.\nPre-Registration are closed now !! Goals: During this one-week course, participants will learn how to use the W4M infrastructure to analyze their own dataset. Morning sessions will be dedicated to methodology and tools. Afternoon sessions will be devoted to tutoring.\nDate: Monday 8th to Friday October 12th 2018\nCosts: 900 € for academic and 2000 € for private institution to cover expenses for trainers (12), organization, materials and meals\nIncluding : Lunch, coffee break, pedagogic support and the Thursday social event\nNot included : travel expenses, accomodation and 3 diners (Monday, Tuesday, Wednesday)\nTarget audience: LC-MS, GC-MS, NMR, FIA-MS and DI-MS experimenters (e.g. biologists, chemists).\nMaterials: Participants will use their laptop to perform the analysis on their W4M account. All presentations, reference datasets and workflows will be available online.\nTutors: Each participant will be paired with a tutor who will help him/her prepare the data and assist him/her during each analysis step.\nLocation : Pasteur Institute - Paris\nLanguage: English\nNumber of attendees: 25 max.\nKeynote speakers: Julien Boccad (University of Geneva, Switzerland), Christoph Steinbeck (Friedrich Schiller University, Jena, Germany)\nSponsors: ELIXIR, French Bioinformatics Institute (IFB), French Infrastructure for Metabolomics and Fluxomics (MetaboHUB), Francophone Network for Metabolomics and Fluxomics (RFMF)\nProgram\n\n\n\nPlanning 2018\n\n\nOrganizing committee ELIXIR-France (IFB) : Christophe Caron, Gildas Le Corguillé\nMetaboHUB : Etienne Thévenot, Franck Giacomoni, Marie Tremblay-Franco\nLABERCA : Yann Guitton\nInstitut Pasteur : Fabien Mareuil\nConference Lodging We provide a list of hotel near to the school location (Pasteur Institute). There is also many other hotels in Paris!\nKorner** 4 minutes) / 54 rue Falguière - 75015 Paris Aberotel*** (9 minutes) / 24 rue Blomet - 75015 Paris Hotel Lecourbe*** (11 minutes) / 28 rue Lecourbe - 75015 Paris\nHosted by Pasteur Institute\nInstitut Pasteur"
+  },
+  {
+    "objectID": "W4E/w4e2024.html",
+    "href": "W4E/w4e2024.html",
+    "title": "Workflow4Experimenters 2024",
+    "section": "",
+    "text": "Analyze your data with Galaxy and the Workflow4metabolomics infrastructure!\nThe next Workflow4Experimenters session (W4E2024) will take place from 8 to 12 April 2024. During this one-week course (entirely in English), you will learn how to use the W4M infrastructure and analyze your own LC-MS, GC-MS, or NMR data.\nThis year an online pre-session is organised from Monday 25 to Friday 29 March from 10 to 12 am.\nAgenda and preregistration: registration form (Deadline 21/01/2024)\n\nFrom March, 25th to 29th (10am to 12pm): online theoretical sessions (methods and tools)\nFrom April 8th to 12th : tutoring on your own data, at (Archamps). Practical information (more soon) - access map\n\n\n\n\nMap of Archamps, Genève and its airport\n\n\nInvited speaker: TBD\nScientific comitee: C. Delporte (ULB, Bruxelles), C. Dalle (U.DAB IRBA, Brétigny-sur-Orge), J. Saint-Vanne, Y. Guitton (Laberca, Nantes), C. Joly, M. Pétéra, F. Giacomoni (PFEM INRA, Clermont-Ferrand), G. Le Corguillé, (Abims, Roscoff), B. Diémé (PFEM Université Clermont Auvergne), F. Souard (ULB, Bruxelles & Université de Grenoble), C. Canlet, M. Tremblay-Franco (Toxalim INRA, Toulouse), Ralf Weber (University of Birmingham)\nProgram:\n\n\n\n\nW4E Webinar: Monday 25th 2024\n\n\n\n\n\n\n10:00 - 10:30\n\n\nINTRODUCTION\n\n\nWelcome and presentation of the webinar and the speakers\n\n\n\n\n\n10:30 - 12:00\n\n\nPRESENTATION\n\n\nGalaxy session: Initiation and data management M. Pétéra, Y. Guitton and G. Le Corguillé\n\n\n\n\n\n\nW4E Webinar: Tuesday 26th 2024\n\n\n\n\n\n\n10:00 - 11:30\n\n\nPRESENTATION\n\n\n[MS] Data Preprocessing M. Pétéra, Y. Guitton\n\n\n\n\n10:00 - 11:30\n\n\nPRESENTATION\n\n\n[NMR] Data Preprocessing C. Canlet, M. Tremblay-Franco\n\n\n\n\n11:30 - 12:00\n\n\nPRESENTATION\n\n\nSignal Drift and Batch-Effect Correction M. Pétéra\n\n\n\n\n\n\nW4E Webinar: Wednesday 27th 2024\n\n\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\nStatistical analysis M. Pétéra, M. Tremblay-Franco\n\n\n\n\n\n\nW4E Webinar: Thursday 28th 2024\n\n\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\n[MS] Annotation Y. Guitton, R. Weber\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\n[NMR] Annotation C. Canlet\n\n\n\n\n\n\nW4E Webinar: Friday 29th 2024\n\n\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\nReal-Time Insights: Focusing on Your Key Topics\n\n\n\n\nContact: w4e-organisation@groupes.renater.fr"
+  },
+  {
+    "objectID": "resources4.html",
+    "href": "resources4.html",
+    "title": "Reporter",
+    "section": "",
+    "text": "I want to report a problem on:\n\nthe galaxy instance, post an issue on the IFB Communit Support\non this website, post an issue on lien repo"
+  },
+  {
+    "objectID": "resources1.html",
+    "href": "resources1.html",
+    "title": "Newcomer",
+    "section": "",
+    "text": "I’m a newcomer and I want to know more about , visit our about us section"
+  },
+  {
+    "objectID": "tool2.html",
+    "href": "tool2.html",
+    "title": "Description of tool 2",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "people/W4Mteam/Binta_Diémé.html",
+    "href": "people/W4Mteam/Binta_Diémé.html",
+    "title": "Binta Diémé",
+    "section": "",
+    "text": "I am a research engineer on the metabolism platform exploration (PFEM). I am in charge of environmental project management. We are interested in the metabolic adaptations of microorganism’s communities in different ecosystems. I contribute to the development of experimental design for metabolomics studies and I am responsible for the statistical analysis and biological interpretation of results. For that, I work in the networking of metabolic/protein biomarkers in relation to the research problematic."
+  },
+  {
+    "objectID": "people/W4Mteam/Binta_Diémé.html#education",
+    "href": "people/W4Mteam/Binta_Diémé.html#education",
+    "title": "Binta Diémé",
+    "section": "Education",
+    "text": "Education\nMaster degree in Biology in 2012\nPhD in Metabolomics in 2016"
+  },
+  {
+    "objectID": "people/W4Mteam/Binta_Diémé.html#experience",
+    "href": "people/W4Mteam/Binta_Diémé.html#experience",
+    "title": "Binta Diémé",
+    "section": "Experience",
+    "text": "Experience\nUniversité Aix-Marseille in Marseille as a project leader in Metabolomics (from 2016 to 2017)\nUCA in Clermont-Ferrand as a data processing biologist since 2017"
+  },
+  {
+    "objectID": "people/W4Mteam/Loic_Legregam.html#experience",
+    "href": "people/W4Mteam/Loic_Legregam.html#experience",
+    "title": "Loïc Legregam",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/W4Mteam/Isabelle_Schmitz.html",
+    "href": "people/W4Mteam/Isabelle_Schmitz.html",
+    "title": "Isabelle Schmitz",
+    "section": "",
+    "text": "Research Engineer in Mass spectrometry working on research and development projects in metabolomics based on coupling liquid chromatography / ion mobility / high resolution mass spectrometry and mass spectrometry imaging. I also swim and manage a swimming association during my free time !"
+  },
+  {
+    "objectID": "people/W4Mteam/Isabelle_Schmitz.html#education",
+    "href": "people/W4Mteam/Isabelle_Schmitz.html#education",
+    "title": "Isabelle Schmitz",
+    "section": "Education",
+    "text": "Education\nEngineer in chemistry in 1997"
+  },
+  {
+    "objectID": "people/W4Mteam/Isabelle_Schmitz.html#experience",
+    "href": "people/W4Mteam/Isabelle_Schmitz.html#experience",
+    "title": "Isabelle Schmitz",
+    "section": "Experience",
+    "text": "Experience\nCNRS – PBS Laboratory in Mont-Saint-Aignan (76) as Research Engineer in Mass Spectrometry for Metabolomics (2024 – present)\nCNRS – COBRA Laboratory in Mont-Saint-Aignan (76) as Research Engineer in Mass Spectrometry for Metabolomics. Operational manager of FTICR 12T (2014-2023)\nCNRS – ICSN Laboratory in Gif-sur-Yvette (91) as Research Engineer in Mass Spectrometry for Metabolomics of natural plant extracts. (2002-2014)\nUSDA – Agricultural Research Service Beltsville (USA) as Research Chemist for development of LCMS methods of environmental pollutants in biological tissues. (2000-2002)"
+  },
+  {
+    "objectID": "people/W4Mteam/Yann_Guitton.html",
+    "href": "people/W4Mteam/Yann_Guitton.html",
+    "title": "Yann Guitton",
+    "section": "",
+    "text": "I am an agronomist that felt into mass spectrometry based metabolomics and even worth into bioinformatics. I am a technology lover and do think that by fully understanding how our mass spectrometers work we can achieve more. I see in Galaxy W4M a great opportunity to exchange with colleagues and create with them better basis for FAIR Science. I am also the happy father of 2 and a big fan of cuisine"
+  },
+  {
+    "objectID": "people/W4Mteam/Yann_Guitton.html#education",
+    "href": "people/W4Mteam/Yann_Guitton.html#education",
+    "title": "Yann Guitton",
+    "section": "Education",
+    "text": "Education\nPhD in plant physiology 2010\nEngineer Degree in agronomy 2004"
+  },
+  {
+    "objectID": "people/W4Mteam/Yann_Guitton.html#experience",
+    "href": "people/W4Mteam/Yann_Guitton.html#experience",
+    "title": "Yann Guitton",
+    "section": "Experience",
+    "text": "Experience\nLABERCA – UMR1329 ONIRIS/INRAE in Nantes as a metabolomics facility manager since 2015\nUniversity Labs Between 2006 and 2015 on the road from Saint-Etienne, Villeneuve d’Ascq, Nantes, Rennes as a PhD, a Post-Doct, an engineer to develop easy to use, user friendly methods and bioinformatics tools for the metabolomics community. Helping colleagues to achieve their goals in the wet and dry lab\nAgronomist in Bretagne with environment protection in mind."
+  },
+  {
+    "objectID": "people/W4Mteam/Yann_Guitton.html#networks",
+    "href": "people/W4Mteam/Yann_Guitton.html#networks",
+    "title": "Yann Guitton",
+    "section": "Networks",
+    "text": "Networks\nRFMF board from 2015 to 2023\nMetaboHUB Head of the Grand-Ouest facilities node since 2022"
+  },
+  {
+    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html",
+    "href": "people/W4Mteam/Julien_Saint-Vanne.html",
+    "title": "Julien Saint-Vanne",
+    "section": "",
+    "text": "Young bioinformatician (yet) working on development of Shiny applications as principal activity. I love the development part of a tool because it is always a new challenge to share with diferent biologist and send them the tool that they need.\nI also play a lot of volley-ball and snow volley-ball during my free time ! I’m also the happy father of a little boy since 3 months and don’t sleep a lot since but I’m full of love."
+  },
+  {
+    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html#education",
+    "href": "people/W4Mteam/Julien_Saint-Vanne.html#education",
+    "title": "Julien Saint-Vanne",
+    "section": "Education",
+    "text": "Education\nTechnical certificate in laboratory analysis in 2012\nMaster degree in BioInfomatic in 2017"
+  },
+  {
+    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html#experience",
+    "href": "people/W4Mteam/Julien_Saint-Vanne.html#experience",
+    "title": "Julien Saint-Vanne",
+    "section": "Experience",
+    "text": "Experience\nCNRS in Roscoff as a developper of Galaxy W4M tools for MSMS analysis (from 2018 to 2019)\nONIRIS - LABERCA in Nantes as a reasearch engineer in development of Shiny application for specific compounds (2020)\nEFS - UMR1236 in Rennes as a reasearch engineer to develop application to analyze multiparametric data in cytometry\nONIRIS - LABERCA in Nantes as a research engineer to develop Shiny application, add a visualisation part in Galaxy and make some geek things in my lab."
+  },
+  {
+    "objectID": "people/W4Mteam/Sylvain_Dechaumet.html#experience",
+    "href": "people/W4Mteam/Sylvain_Dechaumet.html#experience",
+    "title": "Sylvain Dechaumet",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/W4Mteam/Mélanie_Pétéra.html",
+    "href": "people/W4Mteam/Mélanie_Pétéra.html",
+    "title": "Mélanie Pétéra",
+    "section": "",
+    "text": "Currently working at the ‘Metabolism Exploration Platform’ (PFEM), I am involved in routine MS-based untargeted metabolomic analyses as data analyst and/or data treatment supervisor. I also develop Galaxy tools and workflows for my team’s internal data analysis procedures, having my heart set on making theses tools also available to the Metabolomics’ community.\nConvinced that nice things and knowledge should be widely shared, I try to keep spending some time providing training and feedback insofar as my skills and schedule enable me to do so."
+  },
+  {
+    "objectID": "people/W4Mteam/Mélanie_Pétéra.html#education",
+    "href": "people/W4Mteam/Mélanie_Pétéra.html#education",
+    "title": "Mélanie Pétéra",
+    "section": "Education",
+    "text": "Education\nMaster degree (MSc) in Statistics and data processing in 2012 (University of Clermont Auvergne - France)"
+  },
+  {
+    "objectID": "people/W4Mteam/Mélanie_Pétéra.html#experience",
+    "href": "people/W4Mteam/Mélanie_Pétéra.html#experience",
+    "title": "Mélanie Pétéra",
+    "section": "Experience",
+    "text": "Experience\nBiogemma in Chappes (France) as a research engineer (2012 - 2013)\nINRAE – PFEM – MetaboHUB-Clermont in Theix (France) as a study engineer in Statistics (2013 – present day)"
+  },
+  {
+    "objectID": "people/W4Mteam/Marie_Tremblay-Franco.html",
+    "href": "people/W4Mteam/Marie_Tremblay-Franco.html",
+    "title": "Marie Tremblay-Franco",
+    "section": "",
+    "text": "Research engineer in Statistics working on development of methods for metabolomic data statistical analysis (uni or multi blocks) as principal activity. I also develop NMR processing and statistical tools for W4M."
+  },
+  {
+    "objectID": "people/W4Mteam/Marie_Tremblay-Franco.html#education",
+    "href": "people/W4Mteam/Marie_Tremblay-Franco.html#education",
+    "title": "Marie Tremblay-Franco",
+    "section": "Education",
+    "text": "Education\nPh.D. degree in Statistics in 2004"
+  },
+  {
+    "objectID": "people/W4Mteam/Marie_Tremblay-Franco.html#experience",
+    "href": "people/W4Mteam/Marie_Tremblay-Franco.html#experience",
+    "title": "Marie Tremblay-Franco",
+    "section": "Experience",
+    "text": "Experience\nINRAE in Toulouse as research engineer in development of statistical methods and tools for (multimodal) metabolomic data from 2010, October 1st\nC.H.U. in Montpellier as engineer to analyze data from PMSI (Programme de Médicalisation des Systèmes d’Information)."
+  },
+  {
+    "objectID": "people/W4Mteam/Gildas_LeCorguillé.html#experience",
+    "href": "people/W4Mteam/Gildas_LeCorguillé.html#experience",
+    "title": "Gildas Le Corguillé",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/W4Mteam/Florence_Souard.html#experience",
+    "href": "people/W4Mteam/Florence_Souard.html#experience",
+    "title": "Florence Souard",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/old_w4m/Natacha_Lenuzza.html#experience",
+    "href": "people/old_w4m/Natacha_Lenuzza.html#experience",
+    "title": "Natacha Lenuzza",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/old_w4m/Pierrick_Roge_Mele.html#experience",
+    "href": "people/old_w4m/Pierrick_Roge_Mele.html#experience",
+    "title": "Pierrick Roge-Mele",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/old_w4m/Sophie_Goulitquer.html#experience",
+    "href": "people/old_w4m/Sophie_Goulitquer.html#experience",
+    "title": "Sophie Goulitquer",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/old_w4m/Eric_Venot.html#experience",
+    "href": "people/old_w4m/Eric_Venot.html#experience",
+    "title": "Eric Venot",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/old_w4m/Romain_Dallet.html#experience",
+    "href": "people/old_w4m/Romain_Dallet.html#experience",
+    "title": "Romain Dallet",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "contribute.html",
+    "href": "contribute.html",
+    "title": "How to contribute for W4M ?",
+    "section": "",
+    "text": "Push your tools / W4M as a Showcase Your tools can be installed, integrated and hosted within the main W4M instance Tools.\nQuality standards However, the tools must stick to the IUC standards in order to be easily integrated:\nAvailable in a GitHub repository Conda dependencies Functional tests using Planemo Available in the Main ToolShed In the first place, your tools will be displayed in the Contribution section of the tool panel. And eventually, it should be promoted among the other tools.\nAdvanced mode In order to be fully integrated in our reference workflows, your tools must follow your exchange formats between tools (for more information, contact us).\nA collaboration should be established if help is needed!\nSupport / HelpDesk In all cases, the tools must be maintained by the developers themselves. A tool can be removed if this after sales service isn’t done.\nGuidelines Writing a tool"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Workflow4Metabolomics",
+    "section": "",
+    "text": "Important\n\n\n\nWorkflow4experimenters () course 2025 : Registration are now closed !\n\n\nWelcome to the collaborative portal of  dedicated to metabolomics data processing, analysis and annotation for the Metabolomics community. On this website you will find information on our main missions as well as users and developpers guides.\n\nKeep in touch\nYou can subscribe to our newsletter to get updated on new events !\n\n\nFast access\n\n\n\n\n\n\n\n\n\n\nGalaxy instance\n\n\nHere is the Galaxy workflow4metabolomics website\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching school\n\n\nLet’s check the teaching school of W4M\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nResources\n\n\n  \n    \n    \n      Newcomer\n      I'm a newcomer and I want to know more about , visit our Introduction section and Guide for Users\n    \n  \n  \n    \n    \n      Want to learn\n      \n      \n        Go to our teaching school event  section\n        Consult our user page here\n        Or directly go to our official Galaxy training guides \n      \n      \n    \n  \n\n\n  \n    \n    \n      Contributers\n      \n      \n        A tutor to help people understand how to process metabolomics data see here\n        A developper to propose or add new tools to the community:\n          \n            Check our Guides and how-to\n            I need help:  create an issue\n          \n        \n        \n        I don't know but I want to help: workflow4metabolomics@proton.me\n      \n      \n    \n  \n  \n    \n    \n      Reporters\n      \n        \n          The galaxy instance, post an issue on the IFB Communit Support\n          On this website, post an issue on Github website\n        \n      \n    \n  \n\n\n\nI want to know who is behind all of these, go to our team member section.\n\n\nOur sponsors\n\n\n\n\n\n\n\n\n\n\nMetaboHub\n\n\nThe National Infrastructure of Metabolomics and Fluxomics\n\n\n\n\n\n\n\n\n\n\n\n\n\nIFB\n\n\nThe French Institute of Bioinformatics\n\n\n\n\n\n\n\n\n\n\n\n\n\nRFMF\n\n\nThe French Network of Metabolomic and Fluxomic\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nWhere are we working ?"
+  },
+  {
+    "objectID": "W4M_datasets/NMRMusmusculus.html",
+    "href": "W4M_datasets/NMRMusmusculus.html",
+    "title": "NMR Mus musculus dataset",
+    "section": "",
+    "text": "Study: This study used metabolomics—a method for determining metabolic changes in response to nutritional, pharmacological, or toxic stimuli—to examine metabolic shifts induced in vivo by perinatal exposure to low doses of BPA in CD-1 mice (see Cabaton et al. (2013)).\nDataset: The dataset contains brain samples from 24 mice pups:\n- Mothers exposed to BPA (25 or 250 ng / kg body weight / day)\n- Pups sacrificed at 21 days: brain collection\nNMR analysis was performed on a Bruker DRX-600-Avance spectrometer using an inverse detection 5mm cryoprobe attached to a cryoplatform; CPMG spin-echo pulse sequence. Fourier transformation was applied, then all spectra were phased and baseline corrected using TopSpin."
+  },
+  {
+    "objectID": "W4M_datasets/NMRMusmusculus.html#description",
+    "href": "W4M_datasets/NMRMusmusculus.html#description",
+    "title": "NMR Mus musculus dataset",
+    "section": "",
+    "text": "Study: This study used metabolomics—a method for determining metabolic changes in response to nutritional, pharmacological, or toxic stimuli—to examine metabolic shifts induced in vivo by perinatal exposure to low doses of BPA in CD-1 mice (see Cabaton et al. (2013)).\nDataset: The dataset contains brain samples from 24 mice pups:\n- Mothers exposed to BPA (25 or 250 ng / kg body weight / day)\n- Pups sacrificed at 21 days: brain collection\nNMR analysis was performed on a Bruker DRX-600-Avance spectrometer using an inverse detection 5mm cryoprobe attached to a cryoplatform; CPMG spin-echo pulse sequence. Fourier transformation was applied, then all spectra were phased and baseline corrected using TopSpin."
   },
   {
     "objectID": "W4M_datasets/GCMSIdealg.html",
@@ -28,11 +287,284 @@
     "text": "Background: Colonizations of freshwater by marine species are rare events, and little information is known about the underlying mechanisms. Brown algae are an independent lineage of photosynthetic and multicellular organisms from which few species inhabit freshwater. As a marine alga that is also found in freshwater, Ectocarpus is of particular interest for studying the transition between these habitats.\nObjective: To gain insights into mechanisms of the transition, we examined salinity tolerance and adaptations to low salinities in a freshwater strain of Ectocarpus on physiological and molecular levels.\nResults: We show that this isolate belongs to a widely distributed and highly stress-resistant clade, and differed from the genome-sequenced marine strain in its tolerance of low salinities. It also exhibited profound, but reversible, morphological, physiological, and transcriptomic changes when transferred to seawater. Although gene expression profiles were similar in both strains under identical conditions, metabolite and ion profiles differed strongly, the freshwater strain exhibiting e.g. higher cellular contents of amino acids and nitrate, higher contents of n-3 fatty acids, and lower intracellular mannitol and sodium concentrations. Moreover, several stress markers were noted in the freshwater isolate in seawater.\nConclusion: This finding suggests that, while high stress tolerance and plasticity may be prerequisites for the colonization of freshwater, genomic alterations have occurred that produced permanent changes in the metabolite profiles to stabilize the transition.\nDataset:\nThe dataset contains 12 GC-MS injection of Ectocarpus sp. (Ectocarpales, Phaeophyceae) samples.\nWorkflow:\nThe W4M workflow use XCMS Matched Filter method for peak detection."
   },
   {
-    "objectID": "W4E/w4e2024.html",
-    "href": "W4E/w4e2024.html",
-    "title": "Workflow4Experimenters 2024",
+    "objectID": "W4M_datasets/sacurine.html",
+    "href": "W4M_datasets/sacurine.html",
+    "title": "Sacurine",
     "section": "",
-    "text": "Analyze your data with Galaxy and the Workflow4metabolomics infrastructure!\nThe next Workflow4Experimenters session (W4E2024) will take place from 8 to 12 April 2024. During this one-week course (entirely in English), you will learn how to use the W4M infrastructure and analyze your own LC-MS, GC-MS, or NMR data.\nThis year an online pre-session is organised from Monday 25 to Friday 29 March from 10 to 12 am.\nAgenda and preregistration: registration form (Deadline 21/01/2024)\n\nFrom March, 25th to 29th (10am to 12pm): online theoretical sessions (methods and tools)\nFrom April 8th to 12th : tutoring on your own data, at (Archamps). Practical information (more soon) - access map\n\n\n\n\nMap of Archamps, Genève and its airport\n\n\nInvited speaker: TBD\nScientific comitee: C. Delporte (ULB, Bruxelles), C. Dalle (U.DAB IRBA, Brétigny-sur-Orge), J. Saint-Vanne, Y. Guitton (Laberca, Nantes), C. Joly, M. Pétéra, F. Giacomoni (PFEM INRA, Clermont-Ferrand), G. Le Corguillé, (Abims, Roscoff), B. Diémé (PFEM Université Clermont Auvergne), F. Souard (ULB, Bruxelles & Université de Grenoble), C. Canlet, M. Tremblay-Franco (Toxalim INRA, Toulouse), Ralf Weber (University of Birmingham)\nProgram:\n\n\n\n\nW4E Webinar: Monday 25th 2024\n\n\n\n\n\n\n10:00 - 10:30\n\n\nINTRODUCTION\n\n\nWelcome and presentation of the webinar and the speakers\n\n\n\n\n\n10:30 - 12:00\n\n\nPRESENTATION\n\n\nGalaxy session: Initiation and data management M. Pétéra, Y. Guitton and G. Le Corguillé\n\n\n\n\n\n\nW4E Webinar: Tuesday 26th 2024\n\n\n\n\n\n\n10:00 - 11:30\n\n\nPRESENTATION\n\n\n[MS] Data Preprocessing M. Pétéra, Y. Guitton\n\n\n\n\n10:00 - 11:30\n\n\nPRESENTATION\n\n\n[NMR] Data Preprocessing C. Canlet, M. Tremblay-Franco\n\n\n\n\n11:30 - 12:00\n\n\nPRESENTATION\n\n\nSignal Drift and Batch-Effect Correction M. Pétéra\n\n\n\n\n\n\nW4E Webinar: Wednesday 27th 2024\n\n\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\nStatistical analysis M. Pétéra, M. Tremblay-Franco\n\n\n\n\n\n\nW4E Webinar: Thursday 28th 2024\n\n\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\n[MS] Annotation Y. Guitton, R. Weber\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\n[NMR] Annotation C. Canlet\n\n\n\n\n\n\nW4E Webinar: Friday 29th 2024\n\n\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\nReal-Time Insights: Focusing on Your Key Topics\n\n\n\n\nContact: w4e-organisation@groupes.renater.fr"
+    "text": "Study: Characterization of the physiological variations of the metabolome in biofluids is critical to understand human physiology and to avoid confounding effects in cohort studies aiming at biomarker discovery.\nDataset: In this study conducted by the MetaboHUB French Infrastructure for Metabolomics, urine samples from 184 volunteers were analyzed by reversed-phase (C18) ultrahigh performance liquid chromatography (UPLC) coupled to high-resolution mass spectrometry (LTQ-Orbitrap). A total of 258 metabolites were identified at confidence levels provided by the metabolomics standards initiative (MSI) levels 1 or 2.\nWorkflow: This history describes the statistical analysis of the data set from the negative ionization mode (113 identified metabolites at MSI levels 1 or 2): correction of signal drift (loess model built on QC pools) and batch effects (two batches), variable filtering (QC coefficent of variation &lt; 30%), normalization by the sample osmolality, log10 transformation, sample filtering (Hotelling, decile and missing pvalues &gt; 0.001) resulting in the HU_096 sample being discarded, univariate hypothesis testing of significant variations with age, BMI, or between genders (FDR &lt; 0.05), and OPLS(-DA) modeling of age, BMI and gender.\nComments: The ‘sacurine’ data set (after normalization and filtering) is also available in the ropls R package from the Bioconductor repository."
+  },
+  {
+    "objectID": "W4M_datasets/sacurine.html#description",
+    "href": "W4M_datasets/sacurine.html#description",
+    "title": "Sacurine",
+    "section": "",
+    "text": "Study: Characterization of the physiological variations of the metabolome in biofluids is critical to understand human physiology and to avoid confounding effects in cohort studies aiming at biomarker discovery.\nDataset: In this study conducted by the MetaboHUB French Infrastructure for Metabolomics, urine samples from 184 volunteers were analyzed by reversed-phase (C18) ultrahigh performance liquid chromatography (UPLC) coupled to high-resolution mass spectrometry (LTQ-Orbitrap). A total of 258 metabolites were identified at confidence levels provided by the metabolomics standards initiative (MSI) levels 1 or 2.\nWorkflow: This history describes the statistical analysis of the data set from the negative ionization mode (113 identified metabolites at MSI levels 1 or 2): correction of signal drift (loess model built on QC pools) and batch effects (two batches), variable filtering (QC coefficent of variation &lt; 30%), normalization by the sample osmolality, log10 transformation, sample filtering (Hotelling, decile and missing pvalues &gt; 0.001) resulting in the HU_096 sample being discarded, univariate hypothesis testing of significant variations with age, BMI, or between genders (FDR &lt; 0.05), and OPLS(-DA) modeling of age, BMI and gender.\nComments: The ‘sacurine’ data set (after normalization and filtering) is also available in the ropls R package from the Bioconductor repository."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The ,  in short, is a French infrastructure offering software tool processing, analyzing and annotating metabolomics data. It is based on the Galaxy platform. It was created in 2012 by Metabomer and Abims labs in order to provide an integrated analysis environment for Metabolomics. Since, other contributors joins us and now we are actually an international team of dozen of peoples from several Labs.\nIn a collaborative efforts between metabolomics (  French infrastructure ) and bioinformatics platforms (  Institut Français de Bioinformatique ), we’ve crafted comprehensive LC/MS, GC/MS, and NMR pipelines using the robust  framework. Our pipelines cover the entire spectrum of data analysis, encompassing preprocessing, normalization, quality control, statistical analysis, and annotation steps.\nThese modular and adaptable workflows are carefully assembled with a combination of established components (such as XCMS and CAMERA packages) and a suite of tools developed by the  team members. Our implementation, accessible through a user-friendly web interface, ensures the completeness of parameter settings and reproducibility. Leveraging the advanced capabilities of  , we seamlessly integrate components from diverse sources and types.\nThis integration has facilitated the creation of an extensible Virtual Research Environment (VRE) tailored for metabolomics communities, including platforms and end-users. Our VRE offers preconfigured workflows for newcomers while catering to experts in the field. This collaborative approach not only ensures accessibility but also encourages knowledge-sharing and enhances the overall research experience."
+  },
+  {
+    "objectID": "about.html#our-project",
+    "href": "about.html#our-project",
+    "title": "About",
+    "section": "",
+    "text": "The ,  in short, is a French infrastructure offering software tool processing, analyzing and annotating metabolomics data. It is based on the Galaxy platform. It was created in 2012 by Metabomer and Abims labs in order to provide an integrated analysis environment for Metabolomics. Since, other contributors joins us and now we are actually an international team of dozen of peoples from several Labs.\nIn a collaborative efforts between metabolomics (  French infrastructure ) and bioinformatics platforms (  Institut Français de Bioinformatique ), we’ve crafted comprehensive LC/MS, GC/MS, and NMR pipelines using the robust  framework. Our pipelines cover the entire spectrum of data analysis, encompassing preprocessing, normalization, quality control, statistical analysis, and annotation steps.\nThese modular and adaptable workflows are carefully assembled with a combination of established components (such as XCMS and CAMERA packages) and a suite of tools developed by the  team members. Our implementation, accessible through a user-friendly web interface, ensures the completeness of parameter settings and reproducibility. Leveraging the advanced capabilities of  , we seamlessly integrate components from diverse sources and types.\nThis integration has facilitated the creation of an extensible Virtual Research Environment (VRE) tailored for metabolomics communities, including platforms and end-users. Our VRE offers preconfigured workflows for newcomers while catering to experts in the field. This collaborative approach not only ensures accessibility but also encourages knowledge-sharing and enhances the overall research experience."
+  },
+  {
+    "objectID": "about.html#galaxy",
+    "href": "about.html#galaxy",
+    "title": "About",
+    "section": "Galaxy",
+    "text": "Galaxy\n is an open, web-based platform for data intensive biomedical research. Whether on the free public server or your own instance, you can perform, reproduce, and share complete analyses.\nThe main features of this platform are:\n\nA real benefit to users with results traceability and storage\nThe ability to share results between users/labs/platforms\nThe possibility to use a complete analysis workflow managing environment\nInteractive step-by-step tutorials called  Galaxy training"
+  },
+  {
+    "objectID": "about.html#citation",
+    "href": "about.html#citation",
+    "title": "About",
+    "section": "Citation",
+    "text": "Citation\nGuitton et al. (2017)\nGiacomoni et al. (2014)"
+  },
+  {
+    "objectID": "people/old_w4m/Christophe_Duperier.html#experience",
+    "href": "people/old_w4m/Christophe_Duperier.html#experience",
+    "title": "Christophe Duperier",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/old_w4m/Pierre_Pericard.html#experience",
+    "href": "people/old_w4m/Pierre_Pericard.html#experience",
+    "title": "Pierre Péricard",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/old_w4m/Marion_Landi.html#experience",
+    "href": "people/old_w4m/Marion_Landi.html#experience",
+    "title": "Marion Landi",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/old_w4m/JeanFrançois_Martin.html#experience",
+    "href": "people/old_w4m/JeanFrançois_Martin.html#experience",
+    "title": "Jean-François Martin",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/old_w4m/Misharl_Monsoor.html#experience",
+    "href": "people/old_w4m/Misharl_Monsoor.html#experience",
+    "title": "Misharl Monsoor",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/old_w4m/Lain_Pavot.html#experience",
+    "href": "people/old_w4m/Lain_Pavot.html#experience",
+    "title": "Lain Pavot",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/W4Mteam/Nils_Paulhe.html#experience",
+    "href": "people/W4Mteam/Nils_Paulhe.html#experience",
+    "title": "Nils Paulhe",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/W4Mteam/Franck_Giacomoni.html#experience",
+    "href": "people/W4Mteam/Franck_Giacomoni.html#experience",
+    "title": "Franck Giacomoni",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/W4Mteam/Cécile_Canlet.html#experience",
+    "href": "people/W4Mteam/Cécile_Canlet.html#experience",
+    "title": "Cécile Canlet",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/W4Mteam/Sylvain_Chéreau.html",
+    "href": "people/W4Mteam/Sylvain_Chéreau.html",
+    "title": "Sylvain Chéreau",
+    "section": "",
+    "text": "I am involved in metabolomic projects (from sample collection to statistics) since the begining of my carreer and specialized in mass spectrometry. I had the chance to work on many differents matrices (from biofluids to bees, oysters, and now plants) this is one of the strenght of mass spectrometry & metabolomics approaches, so versatiles ! Engineer in chemical ecology at INRAE (Rennes), I am now trying to decipher metabolic interactions in the tryptic plant – pathogen – microbiota !"
+  },
+  {
+    "objectID": "people/W4Mteam/Sylvain_Chéreau.html#education",
+    "href": "people/W4Mteam/Sylvain_Chéreau.html#education",
+    "title": "Sylvain Chéreau",
+    "section": "Education",
+    "text": "Education\nMaster degree in Analytical Chemistry in 2009"
+  },
+  {
+    "objectID": "people/W4Mteam/Sylvain_Chéreau.html#experience",
+    "href": "people/W4Mteam/Sylvain_Chéreau.html#experience",
+    "title": "Sylvain Chéreau",
+    "section": "Experience",
+    "text": "Experience\nONIRIS - LABERCA in Nantes. Development of metabolomics workflows based on LC-HRMS (2009-2014).\nINRAE – UR1264 – MycSA in Bordeaux. Responsible of the analytical plateform of the laboratory, development of metabolomic approaches to decipher the determinism of fusarium’s mycotoxins contamination in cereales. (2014-2021).\nINRAE – UR1349 – IGEPP in Rennes. Engineer in chemical ecology. Metabolomics to decipher the “chemical dialog” in the soil between plants, pathogens & microbiota."
+  },
+  {
+    "objectID": "people/W4Mteam/Etienne_Thévenot.html#experience",
+    "href": "people/W4Mteam/Etienne_Thévenot.html#experience",
+    "title": "Etienne Thévenot",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/W4Mteam/Charlotte_Joly.html",
+    "href": "people/W4Mteam/Charlotte_Joly.html",
+    "title": "Charlotte Joly",
+    "section": "",
+    "text": "Assistant Engineer in mass spectrometry applied to metabolomics. I carry out metabolomics studies including : sample preparation, analyte extraction, LC-MS acquisition and data processing. Biomarker annotation and quantification is a motivating challenge that I am trying to answer. On my free time I play handball and I’m also a firefighter."
+  },
+  {
+    "objectID": "people/W4Mteam/Charlotte_Joly.html#education",
+    "href": "people/W4Mteam/Charlotte_Joly.html#education",
+    "title": "Charlotte Joly",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "people/W4Mteam/Charlotte_Joly.html#experience",
+    "href": "people/W4Mteam/Charlotte_Joly.html#experience",
+    "title": "Charlotte Joly",
+    "section": "Experience",
+    "text": "Experience\nINRAE - UNH  in Theix (France) as Analytical Chemist Techincian (2006-2007)\nINRAE - UNH - PFEM - MetaboHUB-Clermont  in Theix (France) as Assistant engineer in biomolecule analysis (from 2007)"
+  },
+  {
+    "objectID": "people/W4Mteam/Céline_Dalle.html",
+    "href": "people/W4Mteam/Céline_Dalle.html",
+    "title": "Céline Dalle",
+    "section": "",
+    "text": "Since the end of my master, I work in metabolomics. In my laboratory (Analytical Development and Bioanalysis Unit), I can both be in the lab to prepare and realize samples analysis by UHPLC-HRMS and work on data processing, statistical analysis and annotation. I use Galaxy-W4M for the processing of my data since a long time ago. Participate each year to the Workflow4Experimenters training session, as tutor, is a great opportunity to share scientific and human experiences."
+  },
+  {
+    "objectID": "people/W4Mteam/Céline_Dalle.html#education",
+    "href": "people/W4Mteam/Céline_Dalle.html#education",
+    "title": "Céline Dalle",
+    "section": "Education",
+    "text": "Education\nMaster degree in Biochemistry - Metabolomics in 2013 (University of Toulouse – France)\nPh. D. in Biology & Health in 2021 (University of Clermont Auvergne – France)"
+  },
+  {
+    "objectID": "people/W4Mteam/Céline_Dalle.html#experience",
+    "href": "people/W4Mteam/Céline_Dalle.html#experience",
+    "title": "Céline Dalle",
+    "section": "Experience",
+    "text": "Experience\nINRAE – PFEM – UNH in Theix as a study engineer in metabolomics data treatment (from 2015 to 2017)\nINRAE – UNH in Theix as a PhD student and working on lipidomics profiling of oxylipins to identify candidate biomarkers of metabolic syndrome and its relationships with diet (from 2017 to 2021)\nIRBA – UDAB in Brétigny-sur-Orge as a research engineer in metabolomics analysis (from 2021)"
+  },
+  {
+    "objectID": "people/W4Mteam/Ralf_Weber.html#experience",
+    "href": "people/W4Mteam/Ralf_Weber.html#experience",
+    "title": "Ralf Weber",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/W4Mteam/Cédric_Delporte.html",
+    "href": "people/W4Mteam/Cédric_Delporte.html",
+    "title": "Cédric Deplorte",
+    "section": "",
+    "text": "Associate professor at the Faculty of Pharmacy at ULB in Brussels, in analytical chemistry and biological therapeutics. I’m specialized in metabolomics based on LC-MS(/MS) but also un glycosylation analysis of glycoproteins, including pharmaceutical biotherapeutics."
+  },
+  {
+    "objectID": "people/W4Mteam/Cédric_Delporte.html#education",
+    "href": "people/W4Mteam/Cédric_Delporte.html#education",
+    "title": "Cédric Deplorte",
+    "section": "Education",
+    "text": "Education\nMaster degree in Pharmacy in 2008 (ULB, Belgium)\nPh D in Pharmaceutical Sciences in 2012 (ULB, Belgium)"
+  },
+  {
+    "objectID": "people/W4Mteam/Cédric_Delporte.html#experience",
+    "href": "people/W4Mteam/Cédric_Delporte.html#experience",
+    "title": "Cédric Deplorte",
+    "section": "Experience",
+    "text": "Experience\nULB PhD on posttranslational modification analysis by LC-MSMS in Brussels, Faculty of Pharmacy, (2008-2012).\nNIBRT in Dublin, Postdoc on glycomics (2012-2013).\nULB postdoc on glycomics in Brussels, Faculty of Pharmacy (2013-2017.)\nLille postdoc on glycomics (2014).\nULB premier assistant (2017-2022) and then associate professor (2022- now), at ULB, Phaculty of Pharmacy."
+  },
+  {
+    "objectID": "tooladmin.html",
+    "href": "tooladmin.html",
+    "title": "Tool administration",
+    "section": "",
+    "text": "As Workflow4Metabolomics, we provide and support a range of tools that are made available at workflow4metabolomics.usegalaxy.fr, but that are also available on the Main Galaxy Toolshed. Thus, it is possible to install them in a variety of Galaxy instances (some are already available elsewhere), including locally-administrated ones.\nWant to have the W4M workflows on your favorite Galaxy instance or one on your own? Bellow are the steps to follow.\n\n\nWe, at W4M, do not provide support in Galaxy instance building and management. Consequently, if you want to use our supported Galaxy workflows elsewhere than at usegalaxy.fr, you need to have access to another already existing Galaxy instance.\nIn case you want to use your own Galaxy instance, you will need to have the required administration skills to deploy it (or somebody around you available to deploy it for you). Not sure what is needed to deploy such a Galaxy instance? Check the Galaxy Training Network online materials: plenty of tutorials with hands-on to learn how to do so.\n\n\n\nIf you want to use W4M workflows on a Galaxy instance you do not manage yourself, you need to identify whether there is a procedure to ask for additional tool installation. In some cases, you have specific chanels (forum, contact e-mail) where to address your installation request. Always follow the recommanded procedure of the Galaxy instance you want to use!\nIf you want to use your own Galaxy instance but do not have the corresponding administration skills, you will need to find someone arround you that have such skills to help you with the tool installation. We, at W4M, do not provide such assistance, as we have limited human ressources.\n\n\n\nAs we deploy the Galaxy tools we support and use on usegalaxy.fr, and since this Galaxy instance implementation is publicly available, you will find the list of all the tools we include in our W4M subdomain on Usegalaxy.fr’s GitLab repository.\nIn particular, you will find this yml file where …"
+  },
+  {
+    "objectID": "tooladmin.html#how-to-include-the-tools-supported-by-w4m-in-ones-galaxy-instance",
+    "href": "tooladmin.html#how-to-include-the-tools-supported-by-w4m-in-ones-galaxy-instance",
+    "title": "Tool administration",
+    "section": "",
+    "text": "As Workflow4Metabolomics, we provide and support a range of tools that are made available at workflow4metabolomics.usegalaxy.fr, but that are also available on the Main Galaxy Toolshed. Thus, it is possible to install them in a variety of Galaxy instances (some are already available elsewhere), including locally-administrated ones.\nWant to have the W4M workflows on your favorite Galaxy instance or one on your own? Bellow are the steps to follow.\n\n\nWe, at W4M, do not provide support in Galaxy instance building and management. Consequently, if you want to use our supported Galaxy workflows elsewhere than at usegalaxy.fr, you need to have access to another already existing Galaxy instance.\nIn case you want to use your own Galaxy instance, you will need to have the required administration skills to deploy it (or somebody around you available to deploy it for you). Not sure what is needed to deploy such a Galaxy instance? Check the Galaxy Training Network online materials: plenty of tutorials with hands-on to learn how to do so.\n\n\n\nIf you want to use W4M workflows on a Galaxy instance you do not manage yourself, you need to identify whether there is a procedure to ask for additional tool installation. In some cases, you have specific chanels (forum, contact e-mail) where to address your installation request. Always follow the recommanded procedure of the Galaxy instance you want to use!\nIf you want to use your own Galaxy instance but do not have the corresponding administration skills, you will need to find someone arround you that have such skills to help you with the tool installation. We, at W4M, do not provide such assistance, as we have limited human ressources.\n\n\n\nAs we deploy the Galaxy tools we support and use on usegalaxy.fr, and since this Galaxy instance implementation is publicly available, you will find the list of all the tools we include in our W4M subdomain on Usegalaxy.fr’s GitLab repository.\nIn particular, you will find this yml file where …"
+  },
+  {
+    "objectID": "tool1.html",
+    "href": "tool1.html",
+    "title": "Description of tool 1",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "listing_team.html",
+    "href": "listing_team.html",
+    "title": "W4M team",
+    "section": "",
+    "text": "Here are all the participants for the development of a beautiful and usefull W4M Galaxy.\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\nData processing biologist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nGalaxy\n\n\nPeakForest\n\n\n\nAssistant engineer in biomolecule analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\n\nAssociate Professor (ULB, Belgium)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nStatistics\n\n\n\nMetabolomics Research Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\n\nResearch Engineer in Mass Spectrometry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nBioinformatic Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nFluxomics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\nStatistics\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nStatistics\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\n\nEngineer in chemical ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\n\n??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\nMetabolomics facility manager\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "listing_team.html#current-w4m-team",
+    "href": "listing_team.html#current-w4m-team",
+    "title": "W4M team",
+    "section": "",
+    "text": "Here are all the participants for the development of a beautiful and usefull W4M Galaxy.\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\nData processing biologist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nGalaxy\n\n\nPeakForest\n\n\n\nAssistant engineer in biomolecule analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\n\nAssociate Professor (ULB, Belgium)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nStatistics\n\n\n\nMetabolomics Research Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\n\nResearch Engineer in Mass Spectrometry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nBioinformatic Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nFluxomics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\nStatistics\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nStatistics\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\n\nEngineer in chemical ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\n\n??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\nMetabolomics facility manager\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "listing_team.html#previous-collaborators",
+    "href": "listing_team.html#previous-collaborators",
+    "title": "W4M team",
+    "section": "Previous collaborators",
+    "text": "Previous collaborators\nHere are all the previous collaborators we had the chance to share with\n\n\n\n\n\n\n\n\n\n\nChristophe Duperier\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEric Venot\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJean-François Martin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLain Pavot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarion Landi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMisharl Monsoor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNatacha Lenuzza\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPierre Péricard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPierrick Roge-Mele\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRomain Dallet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSophie Goulitquer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "listing_team.html#contributors",
+    "href": "listing_team.html#contributors",
+    "title": "W4M team",
+    "section": "Contributors",
+    "text": "Contributors\nThanks to all these people that contributed to the workflow4metabolomics experience."
+  },
+  {
+    "objectID": "W4E/w4e2020.html",
+    "href": "W4E/w4e2020.html",
+    "title": "Workflow4Experimenters 2020",
+    "section": "",
+    "text": "Overview Processing, statistical analysis, and annotation of metabolomics data is a complex task for experimenters since it involves many steps and requires a good knowledge of both the methodology and software tools. The Workflow4metabolomics.org (W4M) online infrastructure provides a user-friendly and high-performance environment with advanced computational modules for building, running, and sharing complete workflows for LC-MS, GC-MS, FIA and NMR analysis. Such features are of major values for teaching computational metabolomics to experimenters, and previous courses using W4M since 2014 have been very successful.\nPre-Registration are closed now - Don’t hesitate to contact us if you have any questions or requests (contact AT workflow4metabolomics.org)\n\n\n\nW4E 2020 affiche\n\n\nGoals: During this one-week course, participants will learn how to use the W4M infrastructure to analyze their own dataset. Morning sessions will be dedicated to methodology and tools. Afternoon sessions will be devoted to tutoring.\nDate: from Monday 3th, (lunch time) to Friday Febrary 7th (lunch time) 2020\nCosts: 900 € for academic and 2000 € for private institution (to cover expenses for trainers, organization, materials and meals)\nIncluding : Lunch, coffee break, pedagogic support and the Thursday social event\nNot included : travel expenses, accomodation and 3 diners (Monday, Tuesday, Wednesday)\nTarget audience: LC-MS, GC-MS, NMR, FIA-MS and DI-MS experimenters (e.g. biologists, chemists).\nMaterials: Participants will use their laptop to perform the analysis on their W4M account. All presentations, reference datasets and workflows will be available online.\nTutors: Each participant will be paired with a duo of tutors (preprocessing / statistics experts) who will help him/her preparing data and assist him/her during each analysis step.\nLocation : Centre For Fine Arts (BOZAR), rue Royale n°10 to 1000 - Brussels (Belgium)\nLanguage: English\nNumber of attendees: 25 max.\nKeynote speakers: Dr S. Marr (Leibniz Institute of Plant Biochemistry, Germany), Dr R. Weber (Phenome Centre Birmingham, Great Britain) and Dr N. Poupin (Unité Toxalim, INRA Toulouse, France)\nSponsors: ELIXIR, French Bioinformatics Institute (IFB), French Infrastructure for Metabolomics and Fluxomics (MetaboHUB), Francophone Network for Metabolomics and Fluxomics (RFMF), Université Libre de Bruxelles (ULB) and Fonds de la Recherche Scientifique (FNRS)\nProgram\n\n\n\nPlanning 2020\n\n\nScientific committee Université Libre de Bruxelles: Cédric Delporte, K. Triqueneaux (organization)\nUniversité de Liège: Pascal De Tullio\nELIXIR-France (IFB): Gildas Le Corguillé, Valentin Saint-Leger (organization)\nMetaboHUB: Marie Tremblay-Franco, Mélanie Pétéra, Cécile Canlet, Binta Diemé, Franck Giacomoni and the W4M coreteam\nINRA Unité de Nutrition Humaine: Céline Dalle\nLABERCA Nantes: Yann Guitton\nConference Lodging We will provide a list of hotels near to the school location (Centre For Fine Arts). There is also many other hotels in Brussels!\nHosted by Université Libre de Bruxelles and Centre For Fine Arts"
+  },
+  {
+    "objectID": "W4E/w4e2023.html",
+    "href": "W4E/w4e2023.html",
+    "title": "Workflow4Experimenters 2023",
+    "section": "",
+    "text": "Since 2014, Workflow4Metabolomics organizes its own school during one week. It aims to analyze your data with Galaxy and the Workflow4metabolomics infrastructure! The 2023 Workflow4Experimenters session (W4E2023) took place in March 2023. During this one-week course (entirely in English), you learned how to use the W4M infrastructure and analyzed your own LC-MS, GC-MS, or NMR data.\nFor this 2023 new session, format changed:\n• From March, 6th to 10th (10am to 12pm): online theoretical sessions (methods and tools)\n\n\n\nW4E2023 first week\n\n\nInvited online speaker: Callum Martin (EMBL-EBI Metabolights, United Kingdom), ‘MetaboLights: the home for metabolomics experiments and derived information’.\n• From March, 20th to 24th: tutoring on your own data, at Institut des systèmes complexes (Paris). Practical information - access map\n\n\n\nW4E2023 second week\n\n\nInvited speaker: Helge Hecht (Masaryk University, République Tchèque)\nScientific comitee: C. Delporte (ULB, Bruxelles), C. Dalle (U.DAB IRBA, Brétigny-sur-Orge), Y. Guitton (Laberca, Nantes), C. Joly, M. Pétéra, F. Giacomoni (PFEM INRA, Clermont-Ferrand), G. Le Corguillé, (Abims, Roscoff), B. Diémé (PFEM Université Clermont Auvergne), F. Souard (ULB, Bruxelles & Université de Grenoble), C. Canlet, M. Tremblay-Franco (Toxalim INRA, Toulouse), Ralf Weber (University of Birmingham)\nContact: contact@workflow4metabolomics.org\nCosts: 1200€ for academic and 2500 € for private institution (to cover expenses for trainers, organization, materials and meals). Including: Lunch, coffee break, pedagogic support and the Thursday social event. Not included: travel expenses, accommodation and 3 diners (Monday, Tuesday, Wednesday).\nTarget audience: LC-MS, GC-MS, NMR, FIA-MS and DI-MS experimenters (e.g. biologists, chemists).\nMaterials: Participants will use their own laptop to perform the analysis on their W4M account. All presentations, reference datasets and workflows will be available online.\nTutors: Each participant will be paired with a duo of tutors (preprocessing / statistics experts) who will help him/her preparing data and assist him/her during each analysis step.\nLocation: Institute of Complex Systems, Paris (France) Language: English Number of attendees: 25 max.\nSponsor : W4M est conjointement développé et maintenu par l’Institut Français de Bioinformatique (IFB, nœud Elixir) et l’Infrastructure pour la Métabolomique et la Fluxomique (MetaboHUB).\nFinancial support: this course received the support of the Francophone Network of Metabolomics and Fluxomics (RFMF) and of Institut des Systèmes Complexes\nRFMF\nSee you soon in Paris!\nProgram (updated 22/02/2023)\nWebinars\nOn-site training\nFor any requests, please contact the team: support * AT * workflow4metabolomics.org\nPrivacy policy"
+  },
+  {
+    "objectID": "W4E/w4e2016.html",
+    "href": "W4E/w4e2016.html",
+    "title": "Workflow4Experimenters 2016",
+    "section": "",
+    "text": "W4E 2016 options de configuration Ouvert\nWorkflow4Experimenters (W4E) course 2016\nUsing Galaxy and the Workflow4metabolomics infrastructureto analyse metabolomics data\nOverview: Pre-processing, statistical analysis, and annotation of metabolomics data is a complex task. The Workflow4metabolomics online infrastructure provides a user-friendly and high-performance environment with advanced computational modules for building, running, and sharing complete workflows for LC-MS, GC-MS, and NMR analysis (Giacomoni et al, 2015).\nGoals: During this one-week course, participants will learn how to use the W4M infrastructure to analyze their own dataset.Morning sessions will be dedicated to methodology and tools. Afternoon sessions will be devoted to tutoring.\nTarget audience: LC-MS, GC-MS and NMR experimenters (e.g. biologists, chemists)\nDate: Monday 28th November 2016 to Friday 2nd December, 2016\nLocation: ABiMS platform (Roscoff, France)\nLes cours auront lieu à l’Hôtel de France :\nPlace Georges Teissier, Roscoff, 29680 Google Maps Hôtels : Vous serez logé dans un des deux hôtels suivants. Nous vous enverrons les codes d’accès quelques jours avant la formation.\nGulf Stream : 400, rue Marquise de Kergariou, Roscoff, 29680 Google Maps Hôtel de France: Place Georges Teissier, Roscoff, 29680 Google Maps Plans Plan de Roscoff Roscoff sur maps.google.fr Venir à la station biologique de Roscoff\nContact: contact@workflow4metabolomics.org"
+  },
+  {
+    "objectID": "W4E/w4e2025.html",
+    "href": "W4E/w4e2025.html",
+    "title": "Workflow4Experimenters 2025",
+    "section": "",
+    "text": "Analyze your data with  and the  infrastructure!\nThe next Workflow4Experimenters session (2025) will take place from in May 2025. During this one-week course (entirely in English), you will learn how to use the  infrastructure and analyze your own LC-MS, GC-MS, or NMR data.\nFor this new session, format changed:\n\nFrom April, 28th to 30th: online theoreticalsessions (methods and tools). This session is only accessible to person who will be present in Rouen for the onsite session.\nFrom May, 12th to 16th: tutoring on your own data, PBS Laboratory Rouen (Rouen University, Campus de Mont Saint-Aignan, France, close to Paris).\n\n\n\n\n\n\n\nImportant\n\n\n\nPreregistration are now closed !! Thanks to all ! We are now selecting participants…\n\n\nCosts: 1300€ for academic and 2500 € for private institution (to cover expenses for trainers, organization, materials and meals). A special discount of 100€ is offered for  members 2025.\nInvited speaker:\nUltra-high resolution mass spectrometry and metabolomics, by Hélène Lavanant (COBRA, Univ Rouen) & Isabelle Schmitz (PBS, CNRS, Rouen)\n\n\n\nMap of Rouen\n\n\nProgram:\n\n\n\n\nW4E Webinar: from 28th to 30th of April\n\n\n\n\n\n\nW4E Webinar: Monday 28th April 2025\n\n\n\n\n\n\n10:00 - 10:30\n\n\nINTRODUCTION\n\n\nWelcome and presentation of the webinar and the speakers\n\n\n\n\n\n\n10:30 - 12:00\n\n\nPRESENTATION\n\n\nGalaxy session: Initiation and data management M. Pétéra, Y. Guitton and G. Le Corguillé\n\n\n\n\n\n\n14:00 - 16:00\n\n\nPRESENTATION\n\n\n[MS] Data Preprocessing M. Pétéra, Y. Guitton\n\n\n\n\n14:00 - 16:00\n\n\nPRESENTATION\n\n\n[NMR] Data Preprocessing C. Canlet, M. Tremblay-Franco\n\n\n\n\n16:00 - 16:30\n\n\nPRESENTATION\n\n\nSignal Drift and Batch-Effect Correction M. Pétéra\n\n\n\n\n\n\nW4E Webinar: Tuesday 29th April 2025\n\n\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\nStatistical analysis M. Pétéra, M. Tremblay-Franco\n\n\n\n\n\n\n14:00 - 16:00\n\n\nPRESENTATION\n\n\n[MS] Annotation Y. Guitton, R. Weber\n\n\n\n\n14:00 - 16:00\n\n\nPRESENTATION\n\n\n[NMR] Annotation C. Canlet\n\n\n\n\n\n\nW4E Webinar: Wednesday 30th 2025\n\n\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\nReal-Time Insights: Focusing on Your Key Topics\n\n\n\n\n \n\n\n\n\nW4E School: from 12th to 16th of May\n\n\n\n\n\n\n\n\n\n\n\nScientific comitee: C. Delporte (ULB, Bruxelles), C. Dalle (U.DAB IRBA, Brétigny-sur-Orge), Y. Guitton & J. Saint Vanne (Laberca Oniris/INRAE, Nantes), C. Joly & M. Pétéra (PFEM INRAE, Clermont-Ferrand), G. Le Corguillé (Abims, Roscoff), B. Diémé (PFEM Université Clermont Auvergne), F. Souard (ULB, Bruxelles & Université de Grenoble), C. Canlet, M. Tremblay-Franco (Toxalim INRAE, Toulouse), I. Schmitz (PBS, CNRS, Rouen), S. Chéreau (INRAE, Rennes), H. Hecht (RECETOX, Brno), R.Weber (University of Birmingham), S. Dechaumet (CEA, Saclay)\nContact: workflow4metabolomics@proton.me\nSponsor:  is jointly developed and maintained by the French Bioinformatics Infrastructure (IFB, Elixir), the French Infrastructure for Metabolomics and Fluxomics (MetaboHUB) and the Réseau Français de Métabolomique et Fluxomique (RFMF).\nSee you soon in Rouen!"
   },
   {
     "objectID": "W4E/w4e2021.html",
@@ -42,18 +574,39 @@
     "text": "W4E 2021 affiche\n\n\nProcessing, statistical analysis, and annotation of metabolomics data is a complex task for experimenters since it involves many steps and requires a good knowledge of both the methodology and software tools. The Workflow4Metabolomics.org (W4M) online infrastructure provides a user-friendly and high-performance environment with advanced computational modules for building, running, and sharing complete workflows for LC-MS, GC-MS, FIA and NMR analysis. Such features are of major values for teaching computational metabolomics to experimenters, and previous courses using W4M since 2014 have been very successful.\nPre-Registration: - CLOSED -\nGoals: During this one-week course, participants will learn how to use the W4M infrastructure to analyze their own dataset. Morning sessions will be dedicated to methodology and tools. Afternoon sessions will be devoted to tutoring.\nDate: from Monday 11th, (lunch time) to Friday October 15th (lunch time) 2021\nCosts: 900 € for academic and 2000 € for private institution (to cover expenses for trainers, organization, materials and meals)\nIncluding : Lunch, coffee break, pedagogic support and the Thursday social eventNot included : travel expenses, accomodation and 3 diners (Monday, Tuesday, Wednesday)\nTarget audience: LC-MS, GC-MS, NMR, FIA-MS and DI-MS  experimenters (e.g. biologists, chemists).\nMaterials: Participants will use their laptop to perform the analysis on their W4M account. All presentations, reference datasets and workflows will be available online.\nTutors: Each participant will be paired with a duo of tutors (preprocessing / statistics experts) who will help him/her preparing data and assist him/her during each analysis step.\nLocation: UMR Toxalim INRAE, 180 chemin de Tournefeuille – Toulouse (France)\nLanguage: English\nNumber of attendees: 20 max.\nKeynote speakers: L. Mervant (Ph.D. student, UMR Toxalim, INRAE Toulouse, France), Dr D. Touboul (Institute of Natural Substances Chemistry ICSN, Gif-sur-Yvette, France), Dr F. Jourdan (UMR Toxalim, INRAE Toulouse, France)\nSponsors:ELIXIR, French Bioinformatics Institute (IFB), French Infrastructure for Metabolomics and Fluxomics (MetaboHUB), Francophone Network for Metabolomics and Fluxomics (RFMF), Genotoul\nProgram\nScientific committee\nUniversité Libre de Bruxelles: Cédric DelporteELIXIR-France (IFB): Gildas Le Corguillé, Valentin Saint-Leger (organization)MetaboHUB: Marie Tremblay-Franco, Mélanie Pétéra, Cécile Canlet, Binta Diemé, Franck Giacomoni and the W4M coreteamU DAB IRBA(Institut de Recherche Biomédicale des Armées): Céline DalleLABERCA Nantes: Yann Guitton\nConference Lodging\nWe will provide a list of hotels near to the school location.\nHosted by UMR Toxalim INRAE\nFor any requests, please contact the team: support@workflow4metabolomics.org\nPrivacy policy"
   },
   {
-    "objectID": "W4E/w4e2018.html",
-    "href": "W4E/w4e2018.html",
-    "title": "Workflow4Experimenters 2018",
+    "objectID": "tooldev.html",
+    "href": "tooldev.html",
+    "title": "Tool development",
     "section": "",
-    "text": "Overview Processing, statistical analysis, and annotation of metabolomics data is a complex task for experimenters since it involves many steps and requires a good knowledge of both the methodology and software tools. The Workflow4metabolomics.org (W4M) online infrastructure provides a user-friendly and high-performance environment with advanced computational modules for building, running, and sharing complete workflows for LC-MS, GC-MS, and NMR analysis. Such features are of major values for teaching computational metabolomics to experimenters, and previous courses using W4M since 2014 have been very successful.\nPre-Registration are closed now !! Goals: During this one-week course, participants will learn how to use the W4M infrastructure to analyze their own dataset. Morning sessions will be dedicated to methodology and tools. Afternoon sessions will be devoted to tutoring.\nDate: Monday 8th to Friday October 12th 2018\nCosts: 900 € for academic and 2000 € for private institution to cover expenses for trainers (12), organization, materials and meals\nIncluding : Lunch, coffee break, pedagogic support and the Thursday social event\nNot included : travel expenses, accomodation and 3 diners (Monday, Tuesday, Wednesday)\nTarget audience: LC-MS, GC-MS, NMR, FIA-MS and DI-MS experimenters (e.g. biologists, chemists).\nMaterials: Participants will use their laptop to perform the analysis on their W4M account. All presentations, reference datasets and workflows will be available online.\nTutors: Each participant will be paired with a tutor who will help him/her prepare the data and assist him/her during each analysis step.\nLocation : Pasteur Institute - Paris\nLanguage: English\nNumber of attendees: 25 max.\nKeynote speakers: Julien Boccad (University of Geneva, Switzerland), Christoph Steinbeck (Friedrich Schiller University, Jena, Germany)\nSponsors: ELIXIR, French Bioinformatics Institute (IFB), French Infrastructure for Metabolomics and Fluxomics (MetaboHUB), Francophone Network for Metabolomics and Fluxomics (RFMF)\nProgram\n\n\n\nPlanning 2018\n\n\nOrganizing committee ELIXIR-France (IFB) : Christophe Caron, Gildas Le Corguillé\nMetaboHUB : Etienne Thévenot, Franck Giacomoni, Marie Tremblay-Franco\nLABERCA : Yann Guitton\nInstitut Pasteur : Fabien Mareuil\nConference Lodging We provide a list of hotel near to the school location (Pasteur Institute). There is also many other hotels in Paris!\nKorner** 4 minutes) / 54 rue Falguière - 75015 Paris Aberotel*** (9 minutes) / 24 rue Blomet - 75015 Paris Hotel Lecourbe*** (11 minutes) / 28 rue Lecourbe - 75015 Paris\nHosted by Pasteur Institute\nInstitut Pasteur"
+    "text": "In case you are not familiar with Galaxy tool development, there is plenty of supports to help you beginning and improving.\nDon’t know where to start? There are very cool and easy-to-handle tutorials hosted by the Galaxy Training Network. You can also have a look at the contribution guidelines we wrote for our W4M contributors and collaborators.\nPlease note that W4M also hosts a GitHub repository aiming to gather tools and contributors from the metabolomics world. More information available in the associated Readme"
   },
   {
-    "objectID": "W4E/w4e2016.html",
-    "href": "W4E/w4e2016.html",
-    "title": "Workflow4Experimenters 2016",
+    "objectID": "tooldev.html#developing-galaxy-tools-in-general",
+    "href": "tooldev.html#developing-galaxy-tools-in-general",
+    "title": "Tool development",
     "section": "",
-    "text": "W4E 2016 options de configuration Ouvert\nWorkflow4Experimenters (W4E) course 2016\nUsing Galaxy and the Workflow4metabolomics infrastructureto analyse metabolomics data\nOverview: Pre-processing, statistical analysis, and annotation of metabolomics data is a complex task. The Workflow4metabolomics online infrastructure provides a user-friendly and high-performance environment with advanced computational modules for building, running, and sharing complete workflows for LC-MS, GC-MS, and NMR analysis (Giacomoni et al, 2015).\nGoals: During this one-week course, participants will learn how to use the W4M infrastructure to analyze their own dataset.Morning sessions will be dedicated to methodology and tools. Afternoon sessions will be devoted to tutoring.\nTarget audience: LC-MS, GC-MS and NMR experimenters (e.g. biologists, chemists)\nDate: Monday 28th November 2016 to Friday 2nd December, 2016\nLocation: ABiMS platform (Roscoff, France)\nLes cours auront lieu à l’Hôtel de France :\nPlace Georges Teissier, Roscoff, 29680 Google Maps Hôtels : Vous serez logé dans un des deux hôtels suivants. Nous vous enverrons les codes d’accès quelques jours avant la formation.\nGulf Stream : 400, rue Marquise de Kergariou, Roscoff, 29680 Google Maps Hôtel de France: Place Georges Teissier, Roscoff, 29680 Google Maps Plans Plan de Roscoff Roscoff sur maps.google.fr Venir à la station biologique de Roscoff\nContact: contact@workflow4metabolomics.org"
+    "text": "In case you are not familiar with Galaxy tool development, there is plenty of supports to help you beginning and improving.\nDon’t know where to start? There are very cool and easy-to-handle tutorials hosted by the Galaxy Training Network. You can also have a look at the contribution guidelines we wrote for our W4M contributors and collaborators.\nPlease note that W4M also hosts a GitHub repository aiming to gather tools and contributors from the metabolomics world. More information available in the associated Readme"
+  },
+  {
+    "objectID": "tooldev.html#developing-tools-compatible-with-w4m-inputoutput-datasets",
+    "href": "tooldev.html#developing-tools-compatible-with-w4m-inputoutput-datasets",
+    "title": "Tool development",
+    "section": "Developing tools compatible with W4M input/output datasets",
+    "text": "Developing tools compatible with W4M input/output datasets\nDue to the diversity of tools needed to construct comprehensive metabolomic workflows, W4M chose to adopt common standards across its tools, in particular regarding data table formats.\n\nAbout the W4M standardised 3-tables format\nAs W4M provides a large variety of tools, we set a common way to handle data, in order to enable easy links between the tools, limiting format switches and ensuring users can easily find the information they seek inside their data sets.\nFor any extracted data (i.e. a single intensity value per {analytical variable; sample} pair), we settled for a standardised 3-tables format, in the form of ‘tabular’ files (as defined in Galaxy, i.e. plain text files (.txt, .tsv, .tabular) containing tables with columns separated by tabulations). One file is dedicated to the intensity values measured for each analytical variable and each sample, a second file gathers the meta-data concerning the samples, and a third file is about the meta-data of the analytical variables.\nDetailed information about this W4M 3-tables format is available here.\nFamiliar with Biobase formating from Bioconductor? The W4M 3-tables format is very similar to the ExpressionSets organisation of data, the main difference being that the dataMatrix table is a transposition of the assay data table:\n\n\n\nW4M format\nExpressionSets\n\n\n\n\ndataMatrix\ntransposed assay data (assayData)\n\n\nsampleMetadata\nphenotypic data (phenoData)\n\n\nvariableMetadata\nannotations and feature data (annotation)"
+  },
+  {
+    "objectID": "tooldev.html#developing-tools-in-a-w4m-approuved-format",
+    "href": "tooldev.html#developing-tools-in-a-w4m-approuved-format",
+    "title": "Tool development",
+    "section": "Developing tools in a W4M-approuved format",
+    "text": "Developing tools in a W4M-approuved format\nTODO blabla intro\n\nThe tool being wrapped\nTODO topo sur le user experience\nTODO Ajout de la ref à W4MRUtils dans le cas de codes en R.\n\n\nThe Galaxy XML wrapper\nAmong the possible variations for functional XML wrappers, W4M is willing to garantee […]\nTODO les reco W4M du XML\n\n\nDocumenting the Galaxy tool\nDocumentation in vital to any tool. Among the many advantages it provides, it enables potential users as well as already initiated ones to understand what the tool is meant for and how it can be relevantly used.\nAs you may already know, there are two distinct targets for documentation, that are equally important: - the developers’ community: people that may evaluate your tool in a ‘code and structure’ perspective, that may deploy it for others or themselves to use it, and that may also contribute to its development in the future - the users’ community: people that may test your tool in order to obtain results, that may use it for their routine or R&D works, and that may even use it for learning purpose.\nW4M supports Galaxy tools that combine these two aspects of documentation. Consequently, we highly recommend that any tool you share with our community is provided with at least basic documentation for both these target publics.\n\nDocumentation for developers\nTODO Mentionner les BP (comm etc) + dire que minimum un ReadMe mais aussi les tests pour exemple a rejouer\n\n\nDocumentation for users\nThere is a large variety of ways to provide user documentations, including embedded help files, online content and even live trainings’ supports.\nAs one of Galaxy’s goals is to provide a user-friendly environment and easy access to ressources, several channels exists that are especially designed to be efficient for users (easily found, convenient to use…).\nAs W4M, we highly recommend to consider at least the three following options.\n\nThe Galaxy tool Help section\nTODO Presenter les section mandatory et facultative\nAbout the format, you can find here a template of Help tag to help you initiating your writing with the recommanded sections and formats.\n\n\nOther Galaxy tool’s XML information usefull for users\nTODO les balises recommandees\n\n\nMaterials to provide through the Galaxy Training Network\nTODO Le fait que bon moyen de mettre en ontexte un outil + Lien vers GTN et howto GTN-build + le fait que ça apparaitra direct en bas de l’outil"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Workflow4ExperimentersTrainings\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nyear\n\n\nplace\n\n\nTitle\n\n\n\n\n\n\n2025\n\n\nRouen, France\n\n\nWorkflow4Experimenters 2025\n\n\n\n\n2024\n\n\nGrenoble, France\n\n\nWorkflow4Experimenters 2024\n\n\n\n\n2023\n\n\nParis, France\n\n\nWorkflow4Experimenters 2023\n\n\n\n\n2021\n\n\nToulouse, France\n\n\nWorkflow4Experimenters 2021\n\n\n\n\n2020\n\n\nBrussels, Belgium\n\n\nWorkflow4Experimenters 2020\n\n\n\n\n2018\n\n\nParis, France\n\n\nWorkflow4Experimenters 2018\n\n\n\n\n2017\n\n\nParis, France\n\n\nWorkflow4Experimenters 2017\n\n\n\n\n2016\n\n\nRoscoff, France\n\n\nWorkflow4Experimenters 2016\n\n\n\n\n2015\n\n\nRoscoff, France\n\n\nWorkflow4Experimenters 2015\n\n\n\n\n2014\n\n\nLyon, France\n\n\nWorkflow4Experimenters 2014\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYear\nPlace\nDate\nEvent\nTraining\nSpeaker\n\n\n\n\n2024\nSt Malo, France\n3-6 June\nRFMF\nAtelier\n\n\n\n2022\nSète, France\n17-20 October\nChemomics\n3rd School =&gt; Bar camp ChemFlow / W4M\n\n\n\n2021\nOnline Session\n15-19 March\nChemomics\n2nd School =&gt; Bar camp ChemFlow / W4M\n\n\n\n2020\nBreda, NDL\n5-6 November\nAvans Galaxy workshop\nIntroduction of to XCMS, Analyzing LC-MS data with Galaxy by XCMS functions\nYann Guitton\n\n\n2020\nToulouse, France\n21 January\nRFMF\nInteractive tutorial, How to process LC-MS data with workflow4metabolomics.org\nY Guitton, M. Tremblay-Franco, F. Giacomoni\n\n\n2019\nSète, France\n18-22 November\nChemomics\n1st =&gt; Bar camp ChemFlow / W4M\n\n\n\n2019\nSt Etienne, France\n16-21 June\nETEC\nApproches “Omiques” en ecologie chimique - Atelier Metabolomique avec W4M\nBinta Dieme\n\n\n2018\nEBI, UK\n21-23 March\nEMBL-EBI Training\nIntroduction to Metabolomics Analysis\nEtienne Thevenot\n\n\n2017\nPula, Italy\n11-15 September\nCloudMET\n1st scientific school on Cloud-based Metabolomics Data Analysis and Collaboration\n\n\n\n2017\nLausanne, Switzerland\n12-15 June\nMetabolomics : from data to publication\nLC-MS data pre-processing/MS data processing\nYann Guitton\n\n\n2017\nParis, France\n6-9 June\nApplications de R pour l’analyse de données spectroscopiques\nSM et RMN : XCMS et Batman\nAlain PARIS\n\n\n2016\nToulouse, France\n8 November\nMaster in Structural and Functional Biology\nIntroduction to Statistics for Metabolomics and Proteomics\nMarie Tremblay-Franco\n\n\n2016\nSardenia, Italy\n12-16 September\n2nd Metabolomics Sardinian Scientific School: How to bridge metabolomics and genomics\nThe Workflow4Metabolomics (W4M) online infrastructure for omics analysis with Galaxy\n\n\n\n2015\nTours, France\n27 November\nworkshop Pharmaco-métabolomique et recherche de nouveaux biomarqueurs en onco-pharmacologie\nAtelier Analyses multivariées des données métabolomiques\n\n\n\n2014\nLyon, France\n19 May\nRFMF\nInitiation au traitement et à l’Analyse des données métabolomiques\n\n\n\n2014\nClermont-Ferrand, France\n19-20 March\n\nGalaxy pour l’analyse de données métabolomique\n\n\n\n2014\nRoscoff, France\n12-14 March\n\nGalaxy for developper\n\n\n\n2014\nRoscoff, France\n28 January\n\nGalaxy pour l’analyse de données métabolomique"
   },
   {
     "objectID": "tooluser.html",
@@ -89,558 +642,5 @@
     "title": "User guide",
     "section": "Datasets examples",
     "text": "Datasets examples\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nW4M\n\n\nRespository\n\n\ndoi-link\n\n\n\n\n\n\nGC-MS Idealg dataset\n\n\nDittami et al., 2012\n\n\nW4M00004\n\n\n \n\n\ndoi link\n\n\n\n\nNMR Mus musculus dataset\n\n\nCabaton et al., 2013\n\n\nW4M00006\n\n\n \n\n\ndoi link\n\n\n\n\nSacurine\n\n\nThevenot et al., 2015\n\n\nW4M00001\n\n\nMTBLS404\n\n\ndoi link\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "tooladmin.html",
-    "href": "tooladmin.html",
-    "title": "Tool administration",
-    "section": "",
-    "text": "As Workflow4Metabolomics, we provide and support a range of tools that are made available at workflow4metabolomics.usegalaxy.fr, but that are also available on the Main Galaxy Toolshed. Thus, it is possible to install them in a variety of Galaxy instances (some are already available elsewhere), including locally-administrated ones.\nWant to have the W4M workflows on your favorite Galaxy instance or one on your own? Bellow are the steps to follow.\n\n\nWe, at W4M, do not provide support in Galaxy instance building and management. Consequently, if you want to use our supported Galaxy workflows elsewhere than at usegalaxy.fr, you need to have access to another already existing Galaxy instance.\nIn case you want to use your own Galaxy instance, you will need to have the required administration skills to deploy it (or somebody around you available to deploy it for you). Not sure what is needed to deploy such a Galaxy instance? Check the Galaxy Training Network online materials: plenty of tutorials with hands-on to learn how to do so.\n\n\n\nIf you want to use W4M workflows on a Galaxy instance you do not manage yourself, you need to identify whether there is a procedure to ask for additional tool installation. In some cases, you have specific chanels (forum, contact e-mail) where to address your installation request. Always follow the recommanded procedure of the Galaxy instance you want to use!\nIf you want to use your own Galaxy instance but do not have the corresponding administration skills, you will need to find someone arround you that have such skills to help you with the tool installation. We, at W4M, do not provide such assistance, as we have limited human ressources.\n\n\n\nAs we deploy the Galaxy tools we support and use on usegalaxy.fr, and since this Galaxy instance implementation is publicly available, you will find the list of all the tools we include in our W4M subdomain on Usegalaxy.fr’s GitLab repository.\nIn particular, you will find this yml file where …"
-  },
-  {
-    "objectID": "tooladmin.html#how-to-include-the-tools-supported-by-w4m-in-ones-galaxy-instance",
-    "href": "tooladmin.html#how-to-include-the-tools-supported-by-w4m-in-ones-galaxy-instance",
-    "title": "Tool administration",
-    "section": "",
-    "text": "As Workflow4Metabolomics, we provide and support a range of tools that are made available at workflow4metabolomics.usegalaxy.fr, but that are also available on the Main Galaxy Toolshed. Thus, it is possible to install them in a variety of Galaxy instances (some are already available elsewhere), including locally-administrated ones.\nWant to have the W4M workflows on your favorite Galaxy instance or one on your own? Bellow are the steps to follow.\n\n\nWe, at W4M, do not provide support in Galaxy instance building and management. Consequently, if you want to use our supported Galaxy workflows elsewhere than at usegalaxy.fr, you need to have access to another already existing Galaxy instance.\nIn case you want to use your own Galaxy instance, you will need to have the required administration skills to deploy it (or somebody around you available to deploy it for you). Not sure what is needed to deploy such a Galaxy instance? Check the Galaxy Training Network online materials: plenty of tutorials with hands-on to learn how to do so.\n\n\n\nIf you want to use W4M workflows on a Galaxy instance you do not manage yourself, you need to identify whether there is a procedure to ask for additional tool installation. In some cases, you have specific chanels (forum, contact e-mail) where to address your installation request. Always follow the recommanded procedure of the Galaxy instance you want to use!\nIf you want to use your own Galaxy instance but do not have the corresponding administration skills, you will need to find someone arround you that have such skills to help you with the tool installation. We, at W4M, do not provide such assistance, as we have limited human ressources.\n\n\n\nAs we deploy the Galaxy tools we support and use on usegalaxy.fr, and since this Galaxy instance implementation is publicly available, you will find the list of all the tools we include in our W4M subdomain on Usegalaxy.fr’s GitLab repository.\nIn particular, you will find this yml file where …"
-  },
-  {
-    "objectID": "tool1.html",
-    "href": "tool1.html",
-    "title": "Description of tool 1",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "resources3.html",
-    "href": "resources3.html",
-    "title": "Contributers",
-    "section": "",
-    "text": "I want to contribute as:\n\nA tutor to help people understand how to process metabolomics data: contact here\n\nA developper to propose or add new tools to the community:\n\nCheck our guides and how-to here\n\nI need help contact here\n\n\nI don’t know but I want to help: contact here"
-  },
-  {
-    "objectID": "resources1.html",
-    "href": "resources1.html",
-    "title": "Newcomer",
-    "section": "",
-    "text": "I’m a newcomer and I want to know more about , visit our about us section"
-  },
-  {
-    "objectID": "people/W4Mteam/Sylvain_Dechaumet.html#experience",
-    "href": "people/W4Mteam/Sylvain_Dechaumet.html#experience",
-    "title": "Sylvain Dechaumet",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/W4Mteam/Ralf_Weber.html#experience",
-    "href": "people/W4Mteam/Ralf_Weber.html#experience",
-    "title": "Ralf Weber",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/W4Mteam/Mélanie_Pétéra.html",
-    "href": "people/W4Mteam/Mélanie_Pétéra.html",
-    "title": "Mélanie Pétéra",
-    "section": "",
-    "text": "Currently working at the ‘Metabolism Exploration Platform’ (PFEM), I am involved in routine MS-based untargeted metabolomic analyses as data analyst and/or data treatment supervisor. I also develop Galaxy tools and workflows for my team’s internal data analysis procedures, having my heart set on making theses tools also available to the Metabolomics’ community.\nConvinced that nice things and knowledge should be widely shared, I try to keep spending some time providing training and feedback insofar as my skills and schedule enable me to do so."
-  },
-  {
-    "objectID": "people/W4Mteam/Mélanie_Pétéra.html#education",
-    "href": "people/W4Mteam/Mélanie_Pétéra.html#education",
-    "title": "Mélanie Pétéra",
-    "section": "Education",
-    "text": "Education\nMaster degree (MSc) in Statistics and data processing in 2012 (University of Clermont Auvergne - France)"
-  },
-  {
-    "objectID": "people/W4Mteam/Mélanie_Pétéra.html#experience",
-    "href": "people/W4Mteam/Mélanie_Pétéra.html#experience",
-    "title": "Mélanie Pétéra",
-    "section": "Experience",
-    "text": "Experience\nBiogemma in Chappes (France) as a research engineer (2012 - 2013)\nINRAE – PFEM – MetaboHUB-Clermont in Theix (France) as a study engineer in Statistics (2013 – present day)"
-  },
-  {
-    "objectID": "people/W4Mteam/Loic_Legregam.html#experience",
-    "href": "people/W4Mteam/Loic_Legregam.html#experience",
-    "title": "Loïc Legregam",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/W4Mteam/Isabelle_Schmitz.html",
-    "href": "people/W4Mteam/Isabelle_Schmitz.html",
-    "title": "Isabelle Schmitz",
-    "section": "",
-    "text": "Research Engineer in Mass spectrometry working on research and development projects in metabolomics based on coupling liquid chromatography / ion mobility / high resolution mass spectrometry and mass spectrometry imaging. I also swim and manage a swimming association during my free time !"
-  },
-  {
-    "objectID": "people/W4Mteam/Isabelle_Schmitz.html#education",
-    "href": "people/W4Mteam/Isabelle_Schmitz.html#education",
-    "title": "Isabelle Schmitz",
-    "section": "Education",
-    "text": "Education\nEngineer in chemistry in 1997"
-  },
-  {
-    "objectID": "people/W4Mteam/Isabelle_Schmitz.html#experience",
-    "href": "people/W4Mteam/Isabelle_Schmitz.html#experience",
-    "title": "Isabelle Schmitz",
-    "section": "Experience",
-    "text": "Experience\nCNRS – PBS Laboratory in Mont-Saint-Aignan (76) as Research Engineer in Mass Spectrometry for Metabolomics (2024 – present)\nCNRS – COBRA Laboratory in Mont-Saint-Aignan (76) as Research Engineer in Mass Spectrometry for Metabolomics. Operational manager of FTICR 12T (2014-2023)\nCNRS – ICSN Laboratory in Gif-sur-Yvette (91) as Research Engineer in Mass Spectrometry for Metabolomics of natural plant extracts. (2002-2014)\nUSDA – Agricultural Research Service Beltsville (USA) as Research Chemist for development of LCMS methods of environmental pollutants in biological tissues. (2000-2002)"
-  },
-  {
-    "objectID": "people/W4Mteam/Franck_Giacomoni.html#experience",
-    "href": "people/W4Mteam/Franck_Giacomoni.html#experience",
-    "title": "Franck Giacomoni",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/W4Mteam/Etienne_Thévenot.html#experience",
-    "href": "people/W4Mteam/Etienne_Thévenot.html#experience",
-    "title": "Etienne Thévenot",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/W4Mteam/Cédric_Delporte.html",
-    "href": "people/W4Mteam/Cédric_Delporte.html",
-    "title": "Cédric Deplorte",
-    "section": "",
-    "text": "Associate professor at the Faculty of Pharmacy at ULB in Brussels, in analytical chemistry and biological therapeutics. I’m specialized in metabolomics based on LC-MS(/MS) but also un glycosylation analysis of glycoproteins, including pharmaceutical biotherapeutics."
-  },
-  {
-    "objectID": "people/W4Mteam/Cédric_Delporte.html#education",
-    "href": "people/W4Mteam/Cédric_Delporte.html#education",
-    "title": "Cédric Deplorte",
-    "section": "Education",
-    "text": "Education\nMaster degree in Pharmacy in 2008 (ULB, Belgium)\nPh D in Pharmaceutical Sciences in 2012 (ULB, Belgium)"
-  },
-  {
-    "objectID": "people/W4Mteam/Cédric_Delporte.html#experience",
-    "href": "people/W4Mteam/Cédric_Delporte.html#experience",
-    "title": "Cédric Deplorte",
-    "section": "Experience",
-    "text": "Experience\nULB PhD on posttranslational modification analysis by LC-MSMS in Brussels, Faculty of Pharmacy, (2008-2012).\nNIBRT in Dublin, Postdoc on glycomics (2012-2013).\nULB postdoc on glycomics in Brussels, Faculty of Pharmacy (2013-2017.)\nLille postdoc on glycomics (2014).\nULB premier assistant (2017-2022) and then associate professor (2022- now), at ULB, Phaculty of Pharmacy."
-  },
-  {
-    "objectID": "people/W4Mteam/Charlotte_Joly.html",
-    "href": "people/W4Mteam/Charlotte_Joly.html",
-    "title": "Charlotte Joly",
-    "section": "",
-    "text": "Assistant Engineer in mass spectrometry applied to metabolomics. I carry out metabolomics studies including : sample preparation, analyte extraction, LC-MS acquisition and data processing. Biomarker annotation and quantification is a motivating challenge that I am trying to answer. On my free time I play handball and I’m also a firefighter."
-  },
-  {
-    "objectID": "people/W4Mteam/Charlotte_Joly.html#education",
-    "href": "people/W4Mteam/Charlotte_Joly.html#education",
-    "title": "Charlotte Joly",
-    "section": "Education",
-    "text": "Education"
-  },
-  {
-    "objectID": "people/W4Mteam/Charlotte_Joly.html#experience",
-    "href": "people/W4Mteam/Charlotte_Joly.html#experience",
-    "title": "Charlotte Joly",
-    "section": "Experience",
-    "text": "Experience\nINRAE - UNH  in Theix (France) as Analytical Chemist Techincian (2006-2007)\nINRAE - UNH - PFEM - MetaboHUB-Clermont  in Theix (France) as Assistant engineer in biomolecule analysis (from 2007)"
-  },
-  {
-    "objectID": "people/old_w4m/Sophie_Goulitquer.html#experience",
-    "href": "people/old_w4m/Sophie_Goulitquer.html#experience",
-    "title": "Sophie Goulitquer",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/old_w4m/Pierrick_Roge_Mele.html#experience",
-    "href": "people/old_w4m/Pierrick_Roge_Mele.html#experience",
-    "title": "Pierrick Roge-Mele",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/old_w4m/Natacha_Lenuzza.html#experience",
-    "href": "people/old_w4m/Natacha_Lenuzza.html#experience",
-    "title": "Natacha Lenuzza",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/old_w4m/Marion_Landi.html#experience",
-    "href": "people/old_w4m/Marion_Landi.html#experience",
-    "title": "Marion Landi",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/old_w4m/JeanFrançois_Martin.html#experience",
-    "href": "people/old_w4m/JeanFrançois_Martin.html#experience",
-    "title": "Jean-François Martin",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/old_w4m/Christophe_Duperier.html#experience",
-    "href": "people/old_w4m/Christophe_Duperier.html#experience",
-    "title": "Christophe Duperier",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "listing_team.html",
-    "href": "listing_team.html",
-    "title": "W4M team",
-    "section": "",
-    "text": "Here are all the participants for the development of a beautiful and usefull W4M Galaxy.\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\nData processing biologist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nGalaxy\n\n\nPeakForest\n\n\n\nAssistant engineer in biomolecule analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\n\nAssociate Professor (ULB, Belgium)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nStatistics\n\n\n\nMetabolomics Research Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\n\nResearch Engineer in Mass Spectrometry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nBioinformatic Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nFluxomics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\nStatistics\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nStatistics\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\n\nEngineer in chemical ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\n\n??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\nMetabolomics facility manager\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "listing_team.html#current-w4m-team",
-    "href": "listing_team.html#current-w4m-team",
-    "title": "W4M team",
-    "section": "",
-    "text": "Here are all the participants for the development of a beautiful and usefull W4M Galaxy.\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\nData processing biologist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nGalaxy\n\n\nPeakForest\n\n\n\nAssistant engineer in biomolecule analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\n\nAssociate Professor (ULB, Belgium)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nStatistics\n\n\n\nMetabolomics Research Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\n\nResearch Engineer in Mass Spectrometry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nBioinformatic Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nFluxomics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\nStatistics\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nStatistics\n\n\nWrapper (XML)\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\n\nEngineer in chemical ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nMSMS\n\n\nWrapper (XML)\n\n\nHPC\n\n\nBioinfo/ToolsDev\n\n\n\n??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nBioinfo/ToolsDev\n\n\nGalaxy\n\n\nPeakForest\n\n\n\nMetabolomics facility manager\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "listing_team.html#previous-collaborators",
-    "href": "listing_team.html#previous-collaborators",
-    "title": "W4M team",
-    "section": "Previous collaborators",
-    "text": "Previous collaborators\nHere are all the previous collaborators we had the chance to share with\n\n\n\n\n\n\n\n\n\n\nChristophe Duperier\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEric Venot\n\n\n\nLCMS\n\n\nGCMS\n\n\nMSMS\n\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJean-François Martin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLain Pavot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarion Landi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMisharl Monsoor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNatacha Lenuzza\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPierre Péricard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPierrick Roge-Mele\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRomain Dallet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSophie Goulitquer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "listing_team.html#contributors",
-    "href": "listing_team.html#contributors",
-    "title": "W4M team",
-    "section": "Contributors",
-    "text": "Contributors\nThanks to all these people that contributed to the workflow4metabolomics experience."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The ,  in short, is a French infrastructure offering software tool processing, analyzing and annotating metabolomics data. It is based on the Galaxy platform. It was created in 2012 by Metabomer and Abims labs in order to provide an integrated analysis environment for Metabolomics. Since, other contributors joins us and now we are actually an international team of dozen of peoples from several Labs.\nIn a collaborative efforts between metabolomics (  French infrastructure ) and bioinformatics platforms (  Institut Français de Bioinformatique ), we’ve crafted comprehensive LC/MS, GC/MS, and NMR pipelines using the robust  framework. Our pipelines cover the entire spectrum of data analysis, encompassing preprocessing, normalization, quality control, statistical analysis, and annotation steps.\nThese modular and adaptable workflows are carefully assembled with a combination of established components (such as XCMS and CAMERA packages) and a suite of tools developed by the  team members. Our implementation, accessible through a user-friendly web interface, ensures the completeness of parameter settings and reproducibility. Leveraging the advanced capabilities of  , we seamlessly integrate components from diverse sources and types.\nThis integration has facilitated the creation of an extensible Virtual Research Environment (VRE) tailored for metabolomics communities, including platforms and end-users. Our VRE offers preconfigured workflows for newcomers while catering to experts in the field. This collaborative approach not only ensures accessibility but also encourages knowledge-sharing and enhances the overall research experience."
-  },
-  {
-    "objectID": "about.html#our-project",
-    "href": "about.html#our-project",
-    "title": "About",
-    "section": "",
-    "text": "The ,  in short, is a French infrastructure offering software tool processing, analyzing and annotating metabolomics data. It is based on the Galaxy platform. It was created in 2012 by Metabomer and Abims labs in order to provide an integrated analysis environment for Metabolomics. Since, other contributors joins us and now we are actually an international team of dozen of peoples from several Labs.\nIn a collaborative efforts between metabolomics (  French infrastructure ) and bioinformatics platforms (  Institut Français de Bioinformatique ), we’ve crafted comprehensive LC/MS, GC/MS, and NMR pipelines using the robust  framework. Our pipelines cover the entire spectrum of data analysis, encompassing preprocessing, normalization, quality control, statistical analysis, and annotation steps.\nThese modular and adaptable workflows are carefully assembled with a combination of established components (such as XCMS and CAMERA packages) and a suite of tools developed by the  team members. Our implementation, accessible through a user-friendly web interface, ensures the completeness of parameter settings and reproducibility. Leveraging the advanced capabilities of  , we seamlessly integrate components from diverse sources and types.\nThis integration has facilitated the creation of an extensible Virtual Research Environment (VRE) tailored for metabolomics communities, including platforms and end-users. Our VRE offers preconfigured workflows for newcomers while catering to experts in the field. This collaborative approach not only ensures accessibility but also encourages knowledge-sharing and enhances the overall research experience."
-  },
-  {
-    "objectID": "about.html#galaxy",
-    "href": "about.html#galaxy",
-    "title": "About",
-    "section": "Galaxy",
-    "text": "Galaxy\n is an open, web-based platform for data intensive biomedical research. Whether on the free public server or your own instance, you can perform, reproduce, and share complete analyses.\nThe main features of this platform are:\n\nA real benefit to users with results traceability and storage\nThe ability to share results between users/labs/platforms\nThe possibility to use a complete analysis workflow managing environment\nInteractive step-by-step tutorials called  Galaxy training"
-  },
-  {
-    "objectID": "about.html#citation",
-    "href": "about.html#citation",
-    "title": "About",
-    "section": "Citation",
-    "text": "Citation\nGuitton et al. (2017)\nGiacomoni et al. (2014)"
-  },
-  {
-    "objectID": "contribute.html",
-    "href": "contribute.html",
-    "title": "How to contribute for W4M ?",
-    "section": "",
-    "text": "Push your tools / W4M as a Showcase Your tools can be installed, integrated and hosted within the main W4M instance Tools.\nQuality standards However, the tools must stick to the IUC standards in order to be easily integrated:\nAvailable in a GitHub repository Conda dependencies Functional tests using Planemo Available in the Main ToolShed In the first place, your tools will be displayed in the Contribution section of the tool panel. And eventually, it should be promoted among the other tools.\nAdvanced mode In order to be fully integrated in our reference workflows, your tools must follow your exchange formats between tools (for more information, contact us).\nA collaboration should be established if help is needed!\nSupport / HelpDesk In all cases, the tools must be maintained by the developers themselves. A tool can be removed if this after sales service isn’t done.\nGuidelines Writing a tool"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Workflow4Metabolomics",
-    "section": "",
-    "text": "Important\n\n\n\nWorkflow4experimenters () course 2025 : Registration are now closed !\n\n\nWelcome to the collaborative portal of  dedicated to metabolomics data processing, analysis and annotation for the Metabolomics community. On this website you will find information on our main missions as well as users and developpers guides.\n\nKeep in touch\nYou can subscribe to our newsletter to get updated on new events !\n\n\nFast access\n\n\n\n\n\n\n\n\n\n\nGalaxy instance\n\n\nHere is the Galaxy workflow4metabolomics website\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching school\n\n\nLet’s check the teaching school of W4M\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nResources\n\n\n  \n    \n    \n      Newcomer\n      I'm a newcomer and I want to know more about , visit our Introduction section and Guide for Users\n    \n  \n  \n    \n    \n      Want to learn\n      \n      \n        Go to our teaching school event  section\n        Consult our user page here\n        Or directly go to our official Galaxy training guides \n      \n      \n    \n  \n\n\n  \n    \n    \n      Contributers\n      \n      \n        A tutor to help people understand how to process metabolomics data see here\n        A developper to propose or add new tools to the community:\n          \n            Check our Guides and how-to\n            I need help:  create an issue\n          \n        \n        \n        I don't know but I want to help: workflow4metabolomics@proton.me\n      \n      \n    \n  \n  \n    \n    \n      Reporters\n      \n        \n          The galaxy instance, post an issue on the IFB Communit Support\n          On this website, post an issue on Github website\n        \n      \n    \n  \n\n\n\nI want to know who is behind all of these, go to our team member section.\n\n\nOur sponsors\n\n\n\n\n\n\n\n\n\n\nMetaboHub\n\n\nThe National Infrastructure of Metabolomics and Fluxomics\n\n\n\n\n\n\n\n\n\n\n\n\n\nIFB\n\n\nThe French Institute of Bioinformatics\n\n\n\n\n\n\n\n\n\n\n\n\n\nRFMF\n\n\nThe French Network of Metabolomic and Fluxomic\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nWhere are we working ?"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Workflow4ExperimentersTrainings\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nyear\n\n\nplace\n\n\nTitle\n\n\n\n\n\n\n2025\n\n\nRouen, France\n\n\nWorkflow4Experimenters 2025\n\n\n\n\n2024\n\n\nGrenoble, France\n\n\nWorkflow4Experimenters 2024\n\n\n\n\n2023\n\n\nParis, France\n\n\nWorkflow4Experimenters 2023\n\n\n\n\n2021\n\n\nToulouse, France\n\n\nWorkflow4Experimenters 2021\n\n\n\n\n2020\n\n\nBrussels, Belgium\n\n\nWorkflow4Experimenters 2020\n\n\n\n\n2018\n\n\nParis, France\n\n\nWorkflow4Experimenters 2018\n\n\n\n\n2017\n\n\nParis, France\n\n\nWorkflow4Experimenters 2017\n\n\n\n\n2016\n\n\nRoscoff, France\n\n\nWorkflow4Experimenters 2016\n\n\n\n\n2015\n\n\nRoscoff, France\n\n\nWorkflow4Experimenters 2015\n\n\n\n\n2014\n\n\nLyon, France\n\n\nWorkflow4Experimenters 2014\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYear\nPlace\nDate\nEvent\nTraining\nSpeaker\n\n\n\n\n2024\nSt Malo, France\n3-6 June\nRFMF\nAtelier\n\n\n\n2022\nSète, France\n17-20 October\nChemomics\n3rd School =&gt; Bar camp ChemFlow / W4M\n\n\n\n2021\nOnline Session\n15-19 March\nChemomics\n2nd School =&gt; Bar camp ChemFlow / W4M\n\n\n\n2020\nBreda, NDL\n5-6 November\nAvans Galaxy workshop\nIntroduction of to XCMS, Analyzing LC-MS data with Galaxy by XCMS functions\nYann Guitton\n\n\n2020\nToulouse, France\n21 January\nRFMF\nInteractive tutorial, How to process LC-MS data with workflow4metabolomics.org\nY Guitton, M. Tremblay-Franco, F. Giacomoni\n\n\n2019\nSète, France\n18-22 November\nChemomics\n1st =&gt; Bar camp ChemFlow / W4M\n\n\n\n2019\nSt Etienne, France\n16-21 June\nETEC\nApproches “Omiques” en ecologie chimique - Atelier Metabolomique avec W4M\nBinta Dieme\n\n\n2018\nEBI, UK\n21-23 March\nEMBL-EBI Training\nIntroduction to Metabolomics Analysis\nEtienne Thevenot\n\n\n2017\nPula, Italy\n11-15 September\nCloudMET\n1st scientific school on Cloud-based Metabolomics Data Analysis and Collaboration\n\n\n\n2017\nLausanne, Switzerland\n12-15 June\nMetabolomics : from data to publication\nLC-MS data pre-processing/MS data processing\nYann Guitton\n\n\n2017\nParis, France\n6-9 June\nApplications de R pour l’analyse de données spectroscopiques\nSM et RMN : XCMS et Batman\nAlain PARIS\n\n\n2016\nToulouse, France\n8 November\nMaster in Structural and Functional Biology\nIntroduction to Statistics for Metabolomics and Proteomics\nMarie Tremblay-Franco\n\n\n2016\nSardenia, Italy\n12-16 September\n2nd Metabolomics Sardinian Scientific School: How to bridge metabolomics and genomics\nThe Workflow4Metabolomics (W4M) online infrastructure for omics analysis with Galaxy\n\n\n\n2015\nTours, France\n27 November\nworkshop Pharmaco-métabolomique et recherche de nouveaux biomarqueurs en onco-pharmacologie\nAtelier Analyses multivariées des données métabolomiques\n\n\n\n2014\nLyon, France\n19 May\nRFMF\nInitiation au traitement et à l’Analyse des données métabolomiques\n\n\n\n2014\nClermont-Ferrand, France\n19-20 March\n\nGalaxy pour l’analyse de données métabolomique\n\n\n\n2014\nRoscoff, France\n12-14 March\n\nGalaxy for developper\n\n\n\n2014\nRoscoff, France\n28 January\n\nGalaxy pour l’analyse de données métabolomique"
-  },
-  {
-    "objectID": "people/old_w4m/Eric_Venot.html#experience",
-    "href": "people/old_w4m/Eric_Venot.html#experience",
-    "title": "Eric Venot",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/old_w4m/Lain_Pavot.html#experience",
-    "href": "people/old_w4m/Lain_Pavot.html#experience",
-    "title": "Lain Pavot",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/old_w4m/Misharl_Monsoor.html#experience",
-    "href": "people/old_w4m/Misharl_Monsoor.html#experience",
-    "title": "Misharl Monsoor",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/old_w4m/Pierre_Pericard.html#experience",
-    "href": "people/old_w4m/Pierre_Pericard.html#experience",
-    "title": "Pierre Péricard",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/old_w4m/Romain_Dallet.html#experience",
-    "href": "people/old_w4m/Romain_Dallet.html#experience",
-    "title": "Romain Dallet",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/W4Mteam/Binta_Diémé.html",
-    "href": "people/W4Mteam/Binta_Diémé.html",
-    "title": "Binta Diémé",
-    "section": "",
-    "text": "I am a research engineer on the metabolism platform exploration (PFEM). I am in charge of environmental project management. We are interested in the metabolic adaptations of microorganism’s communities in different ecosystems. I contribute to the development of experimental design for metabolomics studies and I am responsible for the statistical analysis and biological interpretation of results. For that, I work in the networking of metabolic/protein biomarkers in relation to the research problematic."
-  },
-  {
-    "objectID": "people/W4Mteam/Binta_Diémé.html#education",
-    "href": "people/W4Mteam/Binta_Diémé.html#education",
-    "title": "Binta Diémé",
-    "section": "Education",
-    "text": "Education\nMaster degree in Biology in 2012\nPhD in Metabolomics in 2016"
-  },
-  {
-    "objectID": "people/W4Mteam/Binta_Diémé.html#experience",
-    "href": "people/W4Mteam/Binta_Diémé.html#experience",
-    "title": "Binta Diémé",
-    "section": "Experience",
-    "text": "Experience\nUniversité Aix-Marseille in Marseille as a project leader in Metabolomics (from 2016 to 2017)\nUCA in Clermont-Ferrand as a data processing biologist since 2017"
-  },
-  {
-    "objectID": "people/W4Mteam/Cécile_Canlet.html#experience",
-    "href": "people/W4Mteam/Cécile_Canlet.html#experience",
-    "title": "Cécile Canlet",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/W4Mteam/Céline_Dalle.html",
-    "href": "people/W4Mteam/Céline_Dalle.html",
-    "title": "Céline Dalle",
-    "section": "",
-    "text": "Since the end of my master, I work in metabolomics. In my laboratory (Analytical Development and Bioanalysis Unit), I can both be in the lab to prepare and realize samples analysis by UHPLC-HRMS and work on data processing, statistical analysis and annotation. I use Galaxy-W4M for the processing of my data since a long time ago. Participate each year to the Workflow4Experimenters training session, as tutor, is a great opportunity to share scientific and human experiences."
-  },
-  {
-    "objectID": "people/W4Mteam/Céline_Dalle.html#education",
-    "href": "people/W4Mteam/Céline_Dalle.html#education",
-    "title": "Céline Dalle",
-    "section": "Education",
-    "text": "Education\nMaster degree in Biochemistry - Metabolomics in 2013 (University of Toulouse – France)\nPh. D. in Biology & Health in 2021 (University of Clermont Auvergne – France)"
-  },
-  {
-    "objectID": "people/W4Mteam/Céline_Dalle.html#experience",
-    "href": "people/W4Mteam/Céline_Dalle.html#experience",
-    "title": "Céline Dalle",
-    "section": "Experience",
-    "text": "Experience\nINRAE – PFEM – UNH in Theix as a study engineer in metabolomics data treatment (from 2015 to 2017)\nINRAE – UNH in Theix as a PhD student and working on lipidomics profiling of oxylipins to identify candidate biomarkers of metabolic syndrome and its relationships with diet (from 2017 to 2021)\nIRBA – UDAB in Brétigny-sur-Orge as a research engineer in metabolomics analysis (from 2021)"
-  },
-  {
-    "objectID": "people/W4Mteam/Florence_Souard.html#experience",
-    "href": "people/W4Mteam/Florence_Souard.html#experience",
-    "title": "Florence Souard",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/W4Mteam/Gildas_LeCorguillé.html#experience",
-    "href": "people/W4Mteam/Gildas_LeCorguillé.html#experience",
-    "title": "Gildas Le Corguillé",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html",
-    "href": "people/W4Mteam/Julien_Saint-Vanne.html",
-    "title": "Julien Saint-Vanne",
-    "section": "",
-    "text": "Young bioinformatician (yet) working on development of Shiny applications as principal activity. I love the development part of a tool because it is always a new challenge to share with diferent biologist and send them the tool that they need.\nI also play a lot of volley-ball and snow volley-ball during my free time ! I’m also the happy father of a little boy since 3 months and don’t sleep a lot since but I’m full of love."
-  },
-  {
-    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html#education",
-    "href": "people/W4Mteam/Julien_Saint-Vanne.html#education",
-    "title": "Julien Saint-Vanne",
-    "section": "Education",
-    "text": "Education\nTechnical certificate in laboratory analysis in 2012\nMaster degree in BioInfomatic in 2017"
-  },
-  {
-    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html#experience",
-    "href": "people/W4Mteam/Julien_Saint-Vanne.html#experience",
-    "title": "Julien Saint-Vanne",
-    "section": "Experience",
-    "text": "Experience\nCNRS in Roscoff as a developper of Galaxy W4M tools for MSMS analysis (from 2018 to 2019)\nONIRIS - LABERCA in Nantes as a reasearch engineer in development of Shiny application for specific compounds (2020)\nEFS - UMR1236 in Rennes as a reasearch engineer to develop application to analyze multiparametric data in cytometry\nONIRIS - LABERCA in Nantes as a research engineer to develop Shiny application, add a visualisation part in Galaxy and make some geek things in my lab."
-  },
-  {
-    "objectID": "people/W4Mteam/Marie_Tremblay-Franco.html",
-    "href": "people/W4Mteam/Marie_Tremblay-Franco.html",
-    "title": "Marie Tremblay-Franco",
-    "section": "",
-    "text": "Research engineer in Statistics working on development of methods for metabolomic data statistical analysis (uni or multi blocks) as principal activity. I also develop NMR processing and statistical tools for W4M."
-  },
-  {
-    "objectID": "people/W4Mteam/Marie_Tremblay-Franco.html#education",
-    "href": "people/W4Mteam/Marie_Tremblay-Franco.html#education",
-    "title": "Marie Tremblay-Franco",
-    "section": "Education",
-    "text": "Education\nPh.D. degree in Statistics in 2004"
-  },
-  {
-    "objectID": "people/W4Mteam/Marie_Tremblay-Franco.html#experience",
-    "href": "people/W4Mteam/Marie_Tremblay-Franco.html#experience",
-    "title": "Marie Tremblay-Franco",
-    "section": "Experience",
-    "text": "Experience\nINRAE in Toulouse as research engineer in development of statistical methods and tools for (multimodal) metabolomic data from 2010, October 1st\nC.H.U. in Montpellier as engineer to analyze data from PMSI (Programme de Médicalisation des Systèmes d’Information)."
-  },
-  {
-    "objectID": "people/W4Mteam/Nils_Paulhe.html#experience",
-    "href": "people/W4Mteam/Nils_Paulhe.html#experience",
-    "title": "Nils Paulhe",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/W4Mteam/Sylvain_Chéreau.html",
-    "href": "people/W4Mteam/Sylvain_Chéreau.html",
-    "title": "Sylvain Chéreau",
-    "section": "",
-    "text": "I am involved in metabolomic projects (from sample collection to statistics) since the begining of my carreer and specialized in mass spectrometry. I had the chance to work on many differents matrices (from biofluids to bees, oysters, and now plants) this is one of the strenght of mass spectrometry & metabolomics approaches, so versatiles ! Engineer in chemical ecology at INRAE (Rennes), I am now trying to decipher metabolic interactions in the tryptic plant – pathogen – microbiota !"
-  },
-  {
-    "objectID": "people/W4Mteam/Sylvain_Chéreau.html#education",
-    "href": "people/W4Mteam/Sylvain_Chéreau.html#education",
-    "title": "Sylvain Chéreau",
-    "section": "Education",
-    "text": "Education\nMaster degree in Analytical Chemistry in 2009"
-  },
-  {
-    "objectID": "people/W4Mteam/Sylvain_Chéreau.html#experience",
-    "href": "people/W4Mteam/Sylvain_Chéreau.html#experience",
-    "title": "Sylvain Chéreau",
-    "section": "Experience",
-    "text": "Experience\nONIRIS - LABERCA in Nantes. Development of metabolomics workflows based on LC-HRMS (2009-2014).\nINRAE – UR1264 – MycSA in Bordeaux. Responsible of the analytical plateform of the laboratory, development of metabolomic approaches to decipher the determinism of fusarium’s mycotoxins contamination in cereales. (2014-2021).\nINRAE – UR1349 – IGEPP in Rennes. Engineer in chemical ecology. Metabolomics to decipher the “chemical dialog” in the soil between plants, pathogens & microbiota."
-  },
-  {
-    "objectID": "people/W4Mteam/Yann_Guitton.html",
-    "href": "people/W4Mteam/Yann_Guitton.html",
-    "title": "Yann Guitton",
-    "section": "",
-    "text": "I am an agronomist that felt into mass spectrometry based metabolomics and even worth into bioinformatics. I am a technology lover and do think that by fully understanding how our mass spectrometers work we can achieve more. I see in Galaxy W4M a great opportunity to exchange with colleagues and create with them better basis for FAIR Science. I am also the happy father of 2 and a big fan of cuisine"
-  },
-  {
-    "objectID": "people/W4Mteam/Yann_Guitton.html#education",
-    "href": "people/W4Mteam/Yann_Guitton.html#education",
-    "title": "Yann Guitton",
-    "section": "Education",
-    "text": "Education\nPhD in plant physiology 2010\nEngineer Degree in agronomy 2004"
-  },
-  {
-    "objectID": "people/W4Mteam/Yann_Guitton.html#experience",
-    "href": "people/W4Mteam/Yann_Guitton.html#experience",
-    "title": "Yann Guitton",
-    "section": "Experience",
-    "text": "Experience\nLABERCA – UMR1329 ONIRIS/INRAE in Nantes as a metabolomics facility manager since 2015\nUniversity Labs Between 2006 and 2015 on the road from Saint-Etienne, Villeneuve d’Ascq, Nantes, Rennes as a PhD, a Post-Doct, an engineer to develop easy to use, user friendly methods and bioinformatics tools for the metabolomics community. Helping colleagues to achieve their goals in the wet and dry lab\nAgronomist in Bretagne with environment protection in mind."
-  },
-  {
-    "objectID": "people/W4Mteam/Yann_Guitton.html#networks",
-    "href": "people/W4Mteam/Yann_Guitton.html#networks",
-    "title": "Yann Guitton",
-    "section": "Networks",
-    "text": "Networks\nRFMF board from 2015 to 2023\nMetaboHUB Head of the Grand-Ouest facilities node since 2022"
-  },
-  {
-    "objectID": "resources2.html",
-    "href": "resources2.html",
-    "title": "Want to learn",
-    "section": "",
-    "text": "I want to learn how to process metabolomics data, you can either:\n\nGo to our teaching school event  section\nConsult our user page here\nOr directly go to our official Galaxy training guides"
-  },
-  {
-    "objectID": "resources4.html",
-    "href": "resources4.html",
-    "title": "Reporter",
-    "section": "",
-    "text": "I want to report a problem on:\n\nthe galaxy instance, post an issue on the IFB Communit Support\non this website, post an issue on lien repo"
-  },
-  {
-    "objectID": "tool2.html",
-    "href": "tool2.html",
-    "title": "Description of tool 2",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "tooldev.html",
-    "href": "tooldev.html",
-    "title": "Tool development",
-    "section": "",
-    "text": "In case you are not familiar with Galaxy tool development, there is plenty of supports to help you beginning and improving.\nDon’t know where to start? There are very cool and easy-to-handle tutorials hosted by the Galaxy Training Network. You can also have a look at the contribution guidelines we wrote for our W4M contributors and collaborators.\nPlease note that W4M also hosts a GitHub repository aiming to gather tools and contributors from the metabolomics world. More information available in the associated Readme"
-  },
-  {
-    "objectID": "tooldev.html#developing-galaxy-tools-in-general",
-    "href": "tooldev.html#developing-galaxy-tools-in-general",
-    "title": "Tool development",
-    "section": "",
-    "text": "In case you are not familiar with Galaxy tool development, there is plenty of supports to help you beginning and improving.\nDon’t know where to start? There are very cool and easy-to-handle tutorials hosted by the Galaxy Training Network. You can also have a look at the contribution guidelines we wrote for our W4M contributors and collaborators.\nPlease note that W4M also hosts a GitHub repository aiming to gather tools and contributors from the metabolomics world. More information available in the associated Readme"
-  },
-  {
-    "objectID": "tooldev.html#developing-tools-compatible-with-w4m-inputoutput-datasets",
-    "href": "tooldev.html#developing-tools-compatible-with-w4m-inputoutput-datasets",
-    "title": "Tool development",
-    "section": "Developing tools compatible with W4M input/output datasets",
-    "text": "Developing tools compatible with W4M input/output datasets\nDue to the diversity of tools needed to construct comprehensive metabolomic workflows, W4M chose to adopt common standards across its tools, in particular regarding data table formats.\n\nAbout the W4M standardised 3-tables format\nAs W4M provides a large variety of tools, we set a common way to handle data, in order to enable easy links between the tools, limiting format switches and ensuring users can easily find the information they seek inside their data sets.\nFor any extracted data (i.e. a single intensity value per {analytical variable; sample} pair), we settled for a standardised 3-tables format, in the form of ‘tabular’ files (as defined in Galaxy, i.e. plain text files (.txt, .tsv, .tabular) containing tables with columns separated by tabulations). One file is dedicated to the intensity values measured for each analytical variable and each sample, a second file gathers the meta-data concerning the samples, and a third file is about the meta-data of the analytical variables.\nDetailed information about this W4M 3-tables format is available here.\nFamiliar with Biobase formating from Bioconductor? The W4M 3-tables format is very similar to the ExpressionSets organisation of data, the main difference being that the dataMatrix table is a transposition of the assay data table:\n\n\n\nW4M format\nExpressionSets\n\n\n\n\ndataMatrix\ntransposed assay data (assayData)\n\n\nsampleMetadata\nphenotypic data (phenoData)\n\n\nvariableMetadata\nannotations and feature data (annotation)"
-  },
-  {
-    "objectID": "tooldev.html#developing-tools-in-a-w4m-approuved-format",
-    "href": "tooldev.html#developing-tools-in-a-w4m-approuved-format",
-    "title": "Tool development",
-    "section": "Developing tools in a W4M-approuved format",
-    "text": "Developing tools in a W4M-approuved format\nTODO blabla intro\n\nThe tool being wrapped\nTODO topo sur le user experience\nTODO Ajout de la ref à W4MRUtils dans le cas de codes en R.\n\n\nThe Galaxy XML wrapper\nAmong the possible variations for functional XML wrappers, W4M is willing to garantee […]\nTODO les reco W4M du XML\n\n\nDocumenting the Galaxy tool\nDocumentation in vital to any tool. Among the many advantages it provides, it enables potential users as well as already initiated ones to understand what the tool is meant for and how it can be relevantly used.\nAs you may already know, there are two distinct targets for documentation, that are equally important: - the developers’ community: people that may evaluate your tool in a ‘code and structure’ perspective, that may deploy it for others or themselves to use it, and that may also contribute to its development in the future - the users’ community: people that may test your tool in order to obtain results, that may use it for their routine or R&D works, and that may even use it for learning purpose.\nW4M supports Galaxy tools that combine these two aspects of documentation. Consequently, we highly recommend that any tool you share with our community is provided with at least basic documentation for both these target publics.\n\nDocumentation for developers\nTODO Mentionner les BP (comm etc) + dire que minimum un ReadMe mais aussi les tests pour exemple a rejouer\n\n\nDocumentation for users\nThere is a large variety of ways to provide user documentations, including embedded help files, online content and even live trainings’ supports.\nAs one of Galaxy’s goals is to provide a user-friendly environment and easy access to ressources, several channels exists that are especially designed to be efficient for users (easily found, convenient to use…).\nAs W4M, we highly recommend to consider at least the three following options.\n\nThe Galaxy tool Help section\nTODO Presenter les section mandatory et facultative\nAbout the format, you can find here a template of Help tag to help you initiating your writing with the recommanded sections and formats.\n\n\nOther Galaxy tool’s XML information usefull for users\nTODO les balises recommandees\n\n\nMaterials to provide through the Galaxy Training Network\nTODO Le fait que bon moyen de mettre en ontexte un outil + Lien vers GTN et howto GTN-build + le fait que ça apparaitra direct en bas de l’outil"
-  },
-  {
-    "objectID": "W4E/w4e2020.html",
-    "href": "W4E/w4e2020.html",
-    "title": "Workflow4Experimenters 2020",
-    "section": "",
-    "text": "Overview Processing, statistical analysis, and annotation of metabolomics data is a complex task for experimenters since it involves many steps and requires a good knowledge of both the methodology and software tools. The Workflow4metabolomics.org (W4M) online infrastructure provides a user-friendly and high-performance environment with advanced computational modules for building, running, and sharing complete workflows for LC-MS, GC-MS, FIA and NMR analysis. Such features are of major values for teaching computational metabolomics to experimenters, and previous courses using W4M since 2014 have been very successful.\nPre-Registration are closed now - Don’t hesitate to contact us if you have any questions or requests (contact AT workflow4metabolomics.org)\n\n\n\nW4E 2020 affiche\n\n\nGoals: During this one-week course, participants will learn how to use the W4M infrastructure to analyze their own dataset. Morning sessions will be dedicated to methodology and tools. Afternoon sessions will be devoted to tutoring.\nDate: from Monday 3th, (lunch time) to Friday Febrary 7th (lunch time) 2020\nCosts: 900 € for academic and 2000 € for private institution (to cover expenses for trainers, organization, materials and meals)\nIncluding : Lunch, coffee break, pedagogic support and the Thursday social event\nNot included : travel expenses, accomodation and 3 diners (Monday, Tuesday, Wednesday)\nTarget audience: LC-MS, GC-MS, NMR, FIA-MS and DI-MS experimenters (e.g. biologists, chemists).\nMaterials: Participants will use their laptop to perform the analysis on their W4M account. All presentations, reference datasets and workflows will be available online.\nTutors: Each participant will be paired with a duo of tutors (preprocessing / statistics experts) who will help him/her preparing data and assist him/her during each analysis step.\nLocation : Centre For Fine Arts (BOZAR), rue Royale n°10 to 1000 - Brussels (Belgium)\nLanguage: English\nNumber of attendees: 25 max.\nKeynote speakers: Dr S. Marr (Leibniz Institute of Plant Biochemistry, Germany), Dr R. Weber (Phenome Centre Birmingham, Great Britain) and Dr N. Poupin (Unité Toxalim, INRA Toulouse, France)\nSponsors: ELIXIR, French Bioinformatics Institute (IFB), French Infrastructure for Metabolomics and Fluxomics (MetaboHUB), Francophone Network for Metabolomics and Fluxomics (RFMF), Université Libre de Bruxelles (ULB) and Fonds de la Recherche Scientifique (FNRS)\nProgram\n\n\n\nPlanning 2020\n\n\nScientific committee Université Libre de Bruxelles: Cédric Delporte, K. Triqueneaux (organization)\nUniversité de Liège: Pascal De Tullio\nELIXIR-France (IFB): Gildas Le Corguillé, Valentin Saint-Leger (organization)\nMetaboHUB: Marie Tremblay-Franco, Mélanie Pétéra, Cécile Canlet, Binta Diemé, Franck Giacomoni and the W4M coreteam\nINRA Unité de Nutrition Humaine: Céline Dalle\nLABERCA Nantes: Yann Guitton\nConference Lodging We will provide a list of hotels near to the school location (Centre For Fine Arts). There is also many other hotels in Brussels!\nHosted by Université Libre de Bruxelles and Centre For Fine Arts"
-  },
-  {
-    "objectID": "W4E/w4e2023.html",
-    "href": "W4E/w4e2023.html",
-    "title": "Workflow4Experimenters 2023",
-    "section": "",
-    "text": "Since 2014, Workflow4Metabolomics organizes its own school during one week. It aims to analyze your data with Galaxy and the Workflow4metabolomics infrastructure! The 2023 Workflow4Experimenters session (W4E2023) took place in March 2023. During this one-week course (entirely in English), you learned how to use the W4M infrastructure and analyzed your own LC-MS, GC-MS, or NMR data.\nFor this 2023 new session, format changed:\n• From March, 6th to 10th (10am to 12pm): online theoretical sessions (methods and tools)\n\n\n\nW4E2023 first week\n\n\nInvited online speaker: Callum Martin (EMBL-EBI Metabolights, United Kingdom), ‘MetaboLights: the home for metabolomics experiments and derived information’.\n• From March, 20th to 24th: tutoring on your own data, at Institut des systèmes complexes (Paris). Practical information - access map\n\n\n\nW4E2023 second week\n\n\nInvited speaker: Helge Hecht (Masaryk University, République Tchèque)\nScientific comitee: C. Delporte (ULB, Bruxelles), C. Dalle (U.DAB IRBA, Brétigny-sur-Orge), Y. Guitton (Laberca, Nantes), C. Joly, M. Pétéra, F. Giacomoni (PFEM INRA, Clermont-Ferrand), G. Le Corguillé, (Abims, Roscoff), B. Diémé (PFEM Université Clermont Auvergne), F. Souard (ULB, Bruxelles & Université de Grenoble), C. Canlet, M. Tremblay-Franco (Toxalim INRA, Toulouse), Ralf Weber (University of Birmingham)\nContact: contact@workflow4metabolomics.org\nCosts: 1200€ for academic and 2500 € for private institution (to cover expenses for trainers, organization, materials and meals). Including: Lunch, coffee break, pedagogic support and the Thursday social event. Not included: travel expenses, accommodation and 3 diners (Monday, Tuesday, Wednesday).\nTarget audience: LC-MS, GC-MS, NMR, FIA-MS and DI-MS experimenters (e.g. biologists, chemists).\nMaterials: Participants will use their own laptop to perform the analysis on their W4M account. All presentations, reference datasets and workflows will be available online.\nTutors: Each participant will be paired with a duo of tutors (preprocessing / statistics experts) who will help him/her preparing data and assist him/her during each analysis step.\nLocation: Institute of Complex Systems, Paris (France) Language: English Number of attendees: 25 max.\nSponsor : W4M est conjointement développé et maintenu par l’Institut Français de Bioinformatique (IFB, nœud Elixir) et l’Infrastructure pour la Métabolomique et la Fluxomique (MetaboHUB).\nFinancial support: this course received the support of the Francophone Network of Metabolomics and Fluxomics (RFMF) and of Institut des Systèmes Complexes\nRFMF\nSee you soon in Paris!\nProgram (updated 22/02/2023)\nWebinars\nOn-site training\nFor any requests, please contact the team: support * AT * workflow4metabolomics.org\nPrivacy policy"
-  },
-  {
-    "objectID": "W4E/w4e2025.html",
-    "href": "W4E/w4e2025.html",
-    "title": "Workflow4Experimenters 2025",
-    "section": "",
-    "text": "Analyze your data with  and the  infrastructure!\nThe next Workflow4Experimenters session (2025) will take place from in May 2025. During this one-week course (entirely in English), you will learn how to use the  infrastructure and analyze your own LC-MS, GC-MS, or NMR data.\nFor this new session, format changed:\n\nFrom April, 28th to 30th: online theoreticalsessions (methods and tools). This session is only accessible to person who will be present in Rouen for the onsite session.\nFrom May, 12th to 16th: tutoring on your own data, PBS Laboratory Rouen (Rouen University, Campus de Mont Saint-Aignan, France, close to Paris).\n\n\n\n\n\n\n\nImportant\n\n\n\nPreregistration are now closed !! Thanks to all ! We are now selecting participants…\n\n\nCosts: 1300€ for academic and 2500 € for private institution (to cover expenses for trainers, organization, materials and meals). A special discount of 100€ is offered for  members 2025.\nInvited speaker:\nUltra-high resolution mass spectrometry and metabolomics, by Hélène Lavanant (COBRA, Univ Rouen) & Isabelle Schmitz (PBS, CNRS, Rouen)\n\n\n\nMap of Rouen\n\n\nProgram:\n\n\n\n\nW4E Webinar: from 28th to 30th of April\n\n\n\n\n\n\nW4E Webinar: Monday 28th April 2025\n\n\n\n\n\n\n10:00 - 10:30\n\n\nINTRODUCTION\n\n\nWelcome and presentation of the webinar and the speakers\n\n\n\n\n\n\n10:30 - 12:00\n\n\nPRESENTATION\n\n\nGalaxy session: Initiation and data management M. Pétéra, Y. Guitton and G. Le Corguillé\n\n\n\n\n\n\n14:00 - 16:00\n\n\nPRESENTATION\n\n\n[MS] Data Preprocessing M. Pétéra, Y. Guitton\n\n\n\n\n14:00 - 16:00\n\n\nPRESENTATION\n\n\n[NMR] Data Preprocessing C. Canlet, M. Tremblay-Franco\n\n\n\n\n16:00 - 16:30\n\n\nPRESENTATION\n\n\nSignal Drift and Batch-Effect Correction M. Pétéra\n\n\n\n\n\n\nW4E Webinar: Tuesday 29th April 2025\n\n\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\nStatistical analysis M. Pétéra, M. Tremblay-Franco\n\n\n\n\n\n\n14:00 - 16:00\n\n\nPRESENTATION\n\n\n[MS] Annotation Y. Guitton, R. Weber\n\n\n\n\n14:00 - 16:00\n\n\nPRESENTATION\n\n\n[NMR] Annotation C. Canlet\n\n\n\n\n\n\nW4E Webinar: Wednesday 30th 2025\n\n\n\n\n\n\n10:00 - 12:00\n\n\nPRESENTATION\n\n\nReal-Time Insights: Focusing on Your Key Topics\n\n\n\n\n \n\n\n\n\nW4E School: from 12th to 16th of May\n\n\n\n\n\n\n\n\n\n\n\nScientific comitee: C. Delporte (ULB, Bruxelles), C. Dalle (U.DAB IRBA, Brétigny-sur-Orge), Y. Guitton & J. Saint Vanne (Laberca Oniris/INRAE, Nantes), C. Joly & M. Pétéra (PFEM INRAE, Clermont-Ferrand), G. Le Corguillé (Abims, Roscoff), B. Diémé (PFEM Université Clermont Auvergne), F. Souard (ULB, Bruxelles & Université de Grenoble), C. Canlet, M. Tremblay-Franco (Toxalim INRAE, Toulouse), I. Schmitz (PBS, CNRS, Rouen), S. Chéreau (INRAE, Rennes), H. Hecht (RECETOX, Brno), R.Weber (University of Birmingham), S. Dechaumet (CEA, Saclay)\nContact: workflow4metabolomics@proton.me\nSponsor:  is jointly developed and maintained by the French Bioinformatics Infrastructure (IFB, Elixir), the French Infrastructure for Metabolomics and Fluxomics (MetaboHUB) and the Réseau Français de Métabolomique et Fluxomique (RFMF).\nSee you soon in Rouen!"
-  },
-  {
-    "objectID": "W4M_datasets/NMRMusmusculus.html",
-    "href": "W4M_datasets/NMRMusmusculus.html",
-    "title": "NMR Mus musculus dataset",
-    "section": "",
-    "text": "Study: This study used metabolomics—a method for determining metabolic changes in response to nutritional, pharmacological, or toxic stimuli—to examine metabolic shifts induced in vivo by perinatal exposure to low doses of BPA in CD-1 mice (see Cabaton et al. (2013)).\nDataset: The dataset contains brain samples from 24 mice pups:\n- Mothers exposed to BPA (25 or 250 ng / kg body weight / day)\n- Pups sacrificed at 21 days: brain collection\nNMR analysis was performed on a Bruker DRX-600-Avance spectrometer using an inverse detection 5mm cryoprobe attached to a cryoplatform; CPMG spin-echo pulse sequence. Fourier transformation was applied, then all spectra were phased and baseline corrected using TopSpin."
-  },
-  {
-    "objectID": "W4M_datasets/NMRMusmusculus.html#description",
-    "href": "W4M_datasets/NMRMusmusculus.html#description",
-    "title": "NMR Mus musculus dataset",
-    "section": "",
-    "text": "Study: This study used metabolomics—a method for determining metabolic changes in response to nutritional, pharmacological, or toxic stimuli—to examine metabolic shifts induced in vivo by perinatal exposure to low doses of BPA in CD-1 mice (see Cabaton et al. (2013)).\nDataset: The dataset contains brain samples from 24 mice pups:\n- Mothers exposed to BPA (25 or 250 ng / kg body weight / day)\n- Pups sacrificed at 21 days: brain collection\nNMR analysis was performed on a Bruker DRX-600-Avance spectrometer using an inverse detection 5mm cryoprobe attached to a cryoplatform; CPMG spin-echo pulse sequence. Fourier transformation was applied, then all spectra were phased and baseline corrected using TopSpin."
   }
 ]
