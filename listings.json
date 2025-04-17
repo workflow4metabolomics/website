@@ -1,10 +1,31 @@
 [
   {
+    "listing": "/news.html",
+    "items": [
+      "/W4E/w4e2025.html",
+      "/W4E/w4e2024.html",
+      "/W4E/w4e2023.html",
+      "/W4E/w4e2021.html",
+      "/W4E/w4e2020.html",
+      "/W4E/w4e2018.html",
+      "/W4E/w4e2017.html",
+      "/W4E/w4e2016.html",
+      "/W4E/w4e2015.html",
+      "/W4E/w4e2014.html"
+    ]
+  },
+  {
     "listing": "/tooluser.html",
     "items": [
       "/W4M_datasets/GCMSIdealg.html",
       "/W4M_datasets/NMRMusmusculus.html",
       "/W4M_datasets/sacurine.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/W4E/w4e2025.html"
     ]
   },
   {
@@ -40,27 +61,6 @@
       "/people/old_w4m/Pierrick_Roge_Mele.html",
       "/people/old_w4m/Romain_Dallet.html",
       "/people/old_w4m/Sophie_Goulitquer.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/W4E/w4e2025.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/W4E/w4e2025.html",
-      "/W4E/w4e2024.html",
-      "/W4E/w4e2023.html",
-      "/W4E/w4e2021.html",
-      "/W4E/w4e2020.html",
-      "/W4E/w4e2018.html",
-      "/W4E/w4e2017.html",
-      "/W4E/w4e2016.html",
-      "/W4E/w4e2015.html",
-      "/W4E/w4e2014.html"
     ]
   }
 ]
