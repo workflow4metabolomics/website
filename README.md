@@ -1,4 +1,4 @@
-[![example workflow](https://github.com/jsaintvanne/workflow4metabolomics/actions/workflows/publish.yml/badge.svg)](https://github.com/workflow4metabolomics/website/actions/workflows/publish.yml/badge.svg)
+![Deploy Quarto site](https://github.com/workflow4metabolomics/website/actions/workflows/publish.yml/badge.svg)
 
 
 ![workflow](/images/logo/logo-ifb-mono-metabohub_2.1_SD_150px.png)
