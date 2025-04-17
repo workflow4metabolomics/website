@@ -27,14 +27,9 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
 
 ![Map of Rouen](/images/map_rouen_w4e2025.PNG)
 
-**Program**:
-
+**Program of online session**:
+ 
 <table class="table cart table-hover table-colored">
-  <thead>
-    <tr>
-      <th colspan="5">W4E Webinar: from 28th to 30th of April</th>
-    </tr>
-  </thead>
   <thead>
     <tr>
       <th colspan="5">W4E Webinar: Monday 28th April 2025</th>
@@ -46,6 +41,7 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
       <td class="product">INTRODUCTION</td>
       <td colspan="2" class="product">Welcome and presentation of the webinar and the speakers</em>
       </td>
+      <td>PDF</td>
     </tr>
   </tbody>
   <tbody>
@@ -53,8 +49,9 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
       <td class="product">10:30 - 12:00</td>
       <td class="product">PRESENTATION</td>
       <td colspan="2" class="product">Galaxy session: Initiation and data management
-        <br/><em>M. Pétéra, Y. Guitton and G. Le Corguillé</em>
+        <br/><em>M. Pétéra, Y. Guitton</em>
       </td>
+      <td>PDF</td>
     </tr>
   </tbody>
   <tbody>
@@ -65,6 +62,7 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
         [MS] Data Preprocessing
         <br/><em>M. Pétéra, Y. Guitton</em>
       </td>
+      <td>PDF</td>
     </tr>
     <tr class="remove-data">
       <td class="product">14:00 - 16:00</td>
@@ -73,6 +71,7 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
         [NMR] Data Preprocessing
         <br/><em>C. Canlet, M. Tremblay-Franco</em>
       </td>
+      <td>PDF</td>
     </tr>
     <tr class="remove-data">
       <td class="product">16:00 - 16:30</td>
@@ -81,6 +80,7 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
         Signal Drift and Batch-Effect Correction
         <br/><em>M. Pétéra</em>
       </td>
+      <td>PDF</td>
     </tr>
   </tbody>
   <thead>
@@ -96,6 +96,7 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
         Statistical analysis
         <br/><em>M. Pétéra, M. Tremblay-Franco</em>
       </td>
+      <td>PDF</td>
     </tr>
   </tbody>
   <tbody>
@@ -106,14 +107,16 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
         [MS] Annotation
         <br/><em>Y. Guitton, R. Weber</em>
       </td>
+      <td>PDF</td>
     </tr>
     <tr class="remove-data">
       <td class="product">14:00 - 16:00</td>
       <td class="product">PRESENTATION</td>
       <td colspan="2" class="product">
         [NMR] Annotation
-        <br/><em>C. Canlet</em>
+        <br/><em>C. Canlet, M. Tremblay-Franco</em>
       </td>
+      <td>PDF</td>
     </tr>
   </tbody>
   <thead>
@@ -126,13 +129,17 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
       <td class="product">10:00 - 12:00</td>
       <td class="product">PRESENTATION</td>
       <td colspan="2" class="product">
-        Real-Time Insights: Focusing on Your Key Topics 
+        MetExplore
+        <br/><em>Nathalie Poupin</em>
       </td>
+      <td>PDF</td>
     </tr>
   </tbody>
 </table>
-<br>
-<br>
+
+
+**Program of insite session**:
+
 <table class="table cart table-hover table-colored">
   <thead>
     <tr>
