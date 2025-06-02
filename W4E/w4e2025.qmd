@@ -3,7 +3,7 @@ title: "Workflow4Experimenters 2025"
 year: 2025
 place: Rouen, France
 date: 2024/11/27
-speakers: 
+speakers:
 ---
 
 Analyze your data with ![](/images/galaxy_logo_25percent_transparent.png){height="1em"} and the ![](/images/W4M_icon.svg){height="1em"} infrastructure!
