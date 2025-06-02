@@ -28,39 +28,130 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
 
 **Program of online session**:
 
-+--------------------------------------+
-| W4E Webinar: Monday 28th April 2025  |
-+======================================+
-| 10:00 - 10:30                        |
-+--------------------------------------+
-| 10:30 - 12:00                        |
-+--------------------------------------+
-| 14:00 - 16:00                        |
-+--------------------------------------+
-| 14:00 - 16:00                        |
-+--------------------------------------+
-| 16:00 - 16:30                        |
-+--------------------------------------+
-| W4E Webinar: Tuesday 29th April 2025 |
-+--------------------------------------+
-| 10:00 - 12:00                        |
-+--------------------------------------+
-| 14:00 - 16:00                        |
-+--------------------------------------+
-| 14:00 - 16:00                        |
-+--------------------------------------+
-| W4E Webinar: Wednesday 30th 2025     |
-+--------------------------------------+
-| 10:00 - 12:00                        |
-+--------------------------------------+
+<table class="table cart table-hover table-colored">Add commentMore actions
+  <thead>
+    <tr>
+      <th colspan="5">W4E Webinar: Monday 28th April 2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="remove-data">
+      <td class="product">10:00 - 10:30</td>
+      <td class="product">INTRODUCTION</td>
+      <td colspan="2" class="product">Welcome and presentation of the webinar and the speakers</em>
+      </td>
+      <td>PDF</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr class="remove-data">
+      <td class="product">10:30 - 12:00</td>
+      <td class="product">PRESENTATION</td>
+      <td colspan="2" class="product">Galaxy session: Initiation and data management
+        <br/><em>M. Pétéra, Y. Guitton</em>
+      </td>
+      <td>PDF</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr class="remove-data">
+      <td class="product">14:00 - 16:00</td>
+      <td class="product">PRESENTATION</td>
+      <td colspan="2" class="product">
+        [MS] Data Preprocessing
+        <br/><em>M. Pétéra, Y. Guitton</em>
+      </td>
+      <td>PDF</td>
+    </tr>
+    <tr class="remove-data">
+      <td class="product">14:00 - 16:00</td>
+      <td class="product">PRESENTATION</td>
+      <td colspan="2" class="product">
+        [NMR] Data Preprocessing
+        <br/><em>C. Canlet, M. Tremblay-Franco</em>
+      </td>
+      <td>PDF</td>
+    </tr>
+    <tr class="remove-data">
+      <td class="product">16:00 - 16:30</td>
+      <td class="product">PRESENTATION</td>
+      <td colspan="2" class="product">
+        Signal Drift and Batch-Effect Correction
+        <br/><em>M. Pétéra</em>
+      </td>
+      <td>PDF</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="5">W4E Webinar: Tuesday 29th April 2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="remove-data">
+      <td class="product">10:00 - 12:00</td>
+      <td class="product">PRESENTATION</td>
+      <td colspan="2" class="product">
+        Statistical analysis
+        <br/><em>M. Pétéra, M. Tremblay-Franco</em>
+      </td>
+      <td>PDF</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr class="remove-data">
+      <td class="product">14:00 - 16:00</td>
+      <td class="product">PRESENTATION</td>
+      <td colspan="2" class="product">
+        [MS] Annotation
+        <br/><em>Y. Guitton, R. Weber</em>
+      </td>
+      <td>PDF</td>
+    </tr>
+    <tr class="remove-data">
+      <td class="product">14:00 - 16:00</td>
+      <td class="product">PRESENTATION</td>
+      <td colspan="2" class="product">
+        [NMR] Annotation
+        <br/><em>C. Canlet, M. Tremblay-Franco</em>
+      </td>
+      <td>PDF</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="5">W4E Webinar: Wednesday 30th 2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="remove-data">
+      <td class="product">10:00 - 12:00</td>
+      <td class="product">PRESENTATION</td>
+      <td colspan="2" class="product">
+        MetExplore
+        <br/><em>Nathalie Poupin</em>
+      </td>
+      <td>PDF</td>
+    </tr>
+  </tbody>
+</table>
 
 **Program of insite session**:
 
-+-----------------------------------------------------------------+
-| W4E School: from 12th to 16th of May                            |
-+=================================================================+
-| ![Coming Soon!](/images/planning_w4e25.png){alt="Coming Soon!"} |
-+-----------------------------------------------------------------+
+<table class="table cart table-hover table-colored">
+  <thead>
+    <tr>
+      <th colspan="5">W4E School: from 12th to 16th of May</th>Add commentMore actions
+    </tr>
+  </thead>
+  <thead>
+    <tr>
+      <th colspan="5">
+        <img src="/images/planning_w4e25.png" alt="Coming Soon!" style="width: 100%; max-width: 900px;" />
+      </th>
+    </tr>
+  </thead>
+</table>
 
 **Scientific comitee**: C. Delporte (ULB, Bruxelles), C. Dalle (U.DAB IRBA, Brétigny-sur-Orge), Y. Guitton & J. Saint Vanne (Laberca Oniris/INRAE, Nantes), C. Joly & M. Pétéra (PFEM INRAE, Clermont-Ferrand), G. Le Corguillé (Abims, Roscoff), B. Diémé (PFEM Université Clermont Auvergne), F. Souard (ULB, Bruxelles & Université de Grenoble), C. Canlet, M. Tremblay-Franco (Toxalim INRAE, Toulouse), I. Schmitz (PBS, CNRS, Rouen), S. Chéreau (INRAE, Rennes), H. Hecht (RECETOX, Brno), R.Weber (University of Birmingham), S. Dechaumet (CEA, Saclay)
 
