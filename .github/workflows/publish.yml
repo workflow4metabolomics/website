@@ -1,6 +1,6 @@
 # Workflow for rendering and deploying quarto site to GitHub Pages
 # Based on the GitHub example static content deploy action
-name: 🚀 Deploy Quarto site
+name: 🚀 Deploy Quarto site !
 
 on:
   workflow_dispatch:
