@@ -28,7 +28,7 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
 
 **Program of online session**:
 
-<table class="table cart table-hover table-colored">Add commentMore actions
+<table class="table cart table-hover table-colored">
   <thead>
     <tr>
       <th colspan="5">W4E Webinar: Monday 28th April 2025</th>
@@ -141,7 +141,7 @@ Preregistration are now closed !! Thanks to all ! We are now selecting participa
 <table class="table cart table-hover table-colored">
   <thead>
     <tr>
-      <th colspan="5">W4E School: from 12th to 16th of May</th>Add commentMore actions
+      <th colspan="5">W4E School: from 12th to 16th of May</th>
     </tr>
   </thead>
   <thead>
