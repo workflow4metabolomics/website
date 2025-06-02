@@ -1,1 +1,0 @@
-Sitemap: https://workflow4metabolomics.github.io/website/sitemap.xml
