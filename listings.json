@@ -23,12 +23,6 @@
     ]
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/W4E/w4e2025.html"
-    ]
-  },
-  {
     "listing": "/listing_team.html",
     "items": [
       "/people/W4Mteam/Binta_Diémé.html",
@@ -61,6 +55,12 @@
       "/people/old_w4m/Pierrick_Roge_Mele.html",
       "/people/old_w4m/Romain_Dallet.html",
       "/people/old_w4m/Sophie_Goulitquer.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/W4E/w4e2025.html"
     ]
   }
 ]
