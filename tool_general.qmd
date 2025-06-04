@@ -36,8 +36,11 @@ commercial and/or online databases.
 
 Examples of different possible workflows
 
-(![](https://raw.githubusercontent.com/workflow4metabolomics/workflow4metabolomics/refs/heads/master/images/workflow/bigpicture.png)
+![](https://raw.githubusercontent.com/workflow4metabolomics/workflow4metabolomics/refs/heads/master/images/workflow/bigpicture.png)
 
-## fffff
+## To go further
 
-Want more info? See our posters in the “Congress” section [mettre le lien de la section du site]
+Want more info? See our posters in the “Congress” section [mettre le lien de la section du site],
+or blablabla
+Blablabla @GUITTON201789 Blablabla
+Hohoho
