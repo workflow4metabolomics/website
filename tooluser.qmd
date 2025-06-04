@@ -18,9 +18,9 @@ If you have any questions or troubleshooting on Galaxy, one way to find an answe
 ## First steps
 
 Want an overview of what we are talking about at ![](/images/W4M_icon.svg){height=1em} regarding the tools and workflows? 
-Have a look at the Cheatsheet provided by our partner MetaboHUB!
+Have a look at the Cheatsheet provided by our partner [![](https://www.metabohub.fr/media/752){height=1.5em}](https://www.metabohub.fr/home.html)!
 
-<Soon to come: the link to the cheatsheet>
+Soon to come: the link to the cheatsheet
 
 ## Galaxy Training Network on Metabolomics
 
