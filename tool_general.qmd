@@ -2,4 +2,4 @@
   title: "General information about tools"
 ---
 
-(![](/images/bigpicture.png)
+(![](https://raw.githubusercontent.com/workflow4metabolomics/workflow4metabolomics/refs/heads/master/images/workflow/bigpicture.png)
