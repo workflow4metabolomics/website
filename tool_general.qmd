@@ -2,4 +2,42 @@
   title: "General information about tools"
 ---
 
+
+## Our Workflows
+
+Our W4M Galaxy instance allows to process, analyze and annotate metabolomics data (LC-MS, GC-MS and NMR). 
+A full description of the different basic protocols to treat metabolomics data is accessible in Workflow4Metabolomics (W4M): 
+a user-friendly metabolomics platform for analysis of MS and NMR data ( @W4Mpubli_2025 ). 
+Complementary interactive step-by-step tutorials 
+(![](https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png){height=1em}Galaxy Training Network) 
+are also available to help you.
+
+Briefly, LC-MS data pre-processing uses XCMS resources to extract variables 
+([![](https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png){height=1em} Mass spectrometry: LCMS preprocessing with XCMS](https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.html)). 
+Then a processing step is generally required to ensure the quality of your data before statistical analysis 
+([![](https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png){height=1em} Mass spectrometry: LC-MS data processing](https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/lcms-dataprocessing/tutorial.html)). 
+Several statistical tools (univariate and multivariate analysis, classification analysis…) enable you to 
+discriminate metabolic profiles and highlight variables of interest. Metabolites annotation or identification 
+is the last step but not the least; in-house or online databases can be used, it being for MS data only or combined to MSMS.
+
+Similarly to LC-MS data pre-processing, GC-MS features are extracted with XCMS. 
+Then using metaMS or RAMClustR tools, deconvoluted spectra are obtained and retention indices are assigned with RIAssigner. 
+Annotation steps use online databases and/or identify similar spectra with matchms 
+([![](https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png){height=1em} Mass spectrometry: GC-MS data processing (with XCMS, RAMClustR, RIAssigner, and matchms)](https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.html)). 
+Statistical tools used are the same as LC-MS data.
+
+NMR raw data are processed and realigned (PepsNMR package and CluPA algorithm), 
+then a binning and integration of NMR signals are performed. 
+As LC-MS data, the quality of the data matrix is assessed and the same statistical tools are used. 
+Annotations are based on chemical shifts, coupling patterns and constants by comparison with in-house, 
+commercial and/or online databases.
+
+## Quick overview
+
+Examples of different possible workflows
+
 (![](https://raw.githubusercontent.com/workflow4metabolomics/workflow4metabolomics/refs/heads/master/images/workflow/bigpicture.png)
+
+## fffff
+
+Want more info? See our posters in the “Congress” section [mettre le lien de la section du site]
