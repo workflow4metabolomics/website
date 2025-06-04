@@ -70,14 +70,14 @@ You can subscribe to [our newsletter](https://groupes.france-bioinformatique.fr/
 ```{=html}
 <div class="card-group">
   <div class="card">
-    <img src="/images/39-Adventurer.svg" class="card-img-top" alt="newcomer.jpg">
+    <img src="/images/39-Adventurer.png" class="card-img-top" alt="newcomer.jpg">
     <div class="card-body">
       <h4 class="card-title">Newcomer</h4>
       <p class="card-text">I'm a newcomer and I want to know more about <img src="/images/W4M_icon.svg" style="height:20px">, visit our <a href="tooluser.qmd">Introduction section</a> and <a href="tooluser.qmd">Guide for Users</a></p>
     </div>
   </div>
   <div class="card">
-    <img src="/images/106-Management-Trainee.svg" class="card-img-top" alt="...">
+    <img src="/images/106-Management-Trainee.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h4 class="card-title">Want to learn</h4>
       <p class="card-text">
@@ -92,7 +92,7 @@ You can subscribe to [our newsletter](https://groupes.france-bioinformatique.fr/
 </div>
 <div class="card-group">
   <div class="card">
-    <img src="/images/58-Teamwork.svg" class="card-img-top" alt="...">
+    <img src="/images/58-Teamwork.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h4 class="card-title">Contributers</h4>
       <p class="card-text">
@@ -111,7 +111,7 @@ You can subscribe to [our newsletter](https://groupes.france-bioinformatique.fr/
     </div>
   </div>
   <div class="card">
-    <img src="/images/121-SEO-Analysis.svg" class="card-img-top" alt="...">
+    <img src="/images/121-SEO-Analysis.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h4 class="card-title">Reporters</h4>
       <p class="card-text">
