@@ -82,9 +82,9 @@ You can subscribe to [our newsletter](https://groupes.france-bioinformatique.fr/
       <h4 class="card-title">Want to learn</h4>
       <p class="card-text">
       <ul class="list-group list-group-flush">
-        <li class="list-group-item"><small>Go to our teaching school event <a href="news.qmd"><img src="/images/W4E_icon.svg" style="height:25px"> section</a></small></li>
+        <li class="list-group-item"><small>Go to our teaching school event <img src="/images/W4E_icon.svg" style="height:20px"> (for more information visit <a href="news.qmd">the News and events section</a>)</small></li>
         <li class="list-group-item"><small>Consult our <a href="tooluser.qmd">user page here</a></small></li>
-        <li class="list-group-item"><small>Or directly go to our official <a href="https://training.galaxyproject.org/training-material/topics/metabolomics/">Galaxy training guides <img src="https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png" style="height:25px"></a></small></li>
+        <li class="list-group-item"><small>Or directly go to our official <a href="https://training.galaxyproject.org/training-material/topics/metabolomics/">Galaxy training guides hosted by the amazing <img src="https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png" style="height:25px"> Galaxy Training Network</a></small></li>
       </ul>
       </p>
     </div>
