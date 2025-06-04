@@ -30,11 +30,11 @@ listing:
     contents:
       - title: "MetaboHub"
         image: https://www.metabohub.fr/media/752
-        path: https://www.metabohub.fr/
+        path: https://www.metabohub.fr/home.html
         description: "The National Infrastructure of Metabolomics and Fluxomics"
       - title: "IFB"
         image: https://www.france-bioinformatique.fr/wp-content/uploads/logo-ifb-couleur.svg
-        path: https://www.france-bioinformatique.fr/
+        path: https://www.france-bioinformatique.fr/en/home/
         description: "The French Institute of Bioinformatics"
       - title: "RFMF"
         image: https://www.rfmf.fr/wp-content/uploads/2020/06/logo_seul.png
