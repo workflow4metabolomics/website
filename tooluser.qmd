@@ -15,6 +15,13 @@ The most effective way to master the use of our tools is by enrolling in our com
 
 If you have any questions or troubleshooting on Galaxy, one way to find an answer or solution is to visit the [IFB User Community](community.france-bioinformatique.fr/c/workflow4metabolomics/).
 
+## First steps
+
+Want an overview of what we are talking about at W4M regarding the tools and workflows? 
+Have a look at the Cheatsheet provided by our partner MetaboHUB!
+
+<Soon to come: the link to the cheatsheet>
+
 ## Galaxy Training Network on Metabolomics
 
 Access complete and interactive step-by-step guides by visiting the [![](https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png){height=1em} Galaxy Training Network on metabolomics](https://training.galaxyproject.org/training-material/topics/metabolomics/).
