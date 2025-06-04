@@ -205,8 +205,16 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#our-workflows" id="toc-our-workflows" class="nav-link active" data-scroll-target="#our-workflows">Our Workflows</a></li>
+  <li><a href="#quick-overview" id="toc-quick-overview" class="nav-link" data-scroll-target="#quick-overview">Quick overview</a></li>
+  <li><a href="#fffff" id="toc-fffff" class="nav-link" data-scroll-target="#fffff">fffff</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -230,9 +238,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="our-workflows" class="level2">
+<h2 class="anchored" data-anchor-id="our-workflows">Our Workflows</h2>
+<p>Our W4M Galaxy instance allows to process, analyze and annotate metabolomics data (LC-MS, GC-MS and NMR). A full description of the different basic protocols to treat metabolomics data is accessible in Workflow4Metabolomics (W4M): a user-friendly metabolomics platform for analysis of MS and NMR data ( <span class="citation" data-cites="W4Mpubli_2025">@W4Mpubli_2025</span> ). Complementary interactive step-by-step tutorials (<img src="https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png" style="height:1em">Galaxy Training Network) are also available to help you.</p>
+<p>Briefly, LC-MS data pre-processing uses XCMS resources to extract variables (<a href="https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.html"><img src="https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png" style="height:1em"> Mass spectrometry: LCMS preprocessing with XCMS</a>). Then a processing step is generally required to ensure the quality of your data before statistical analysis (<a href="https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/lcms-dataprocessing/tutorial.html"><img src="https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png" style="height:1em"> Mass spectrometry: LC-MS data processing</a>). Several statistical tools (univariate and multivariate analysis, classification analysis…) enable you to discriminate metabolic profiles and highlight variables of interest. Metabolites annotation or identification is the last step but not the least; in-house or online databases can be used, it being for MS data only or combined to MSMS.</p>
+<p>Similarly to LC-MS data pre-processing, GC-MS features are extracted with XCMS. Then using metaMS or RAMClustR tools, deconvoluted spectra are obtained and retention indices are assigned with RIAssigner. Annotation steps use online databases and/or identify similar spectra with matchms (<a href="https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.html"><img src="https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png" style="height:1em"> Mass spectrometry: GC-MS data processing (with XCMS, RAMClustR, RIAssigner, and matchms)</a>). Statistical tools used are the same as LC-MS data.</p>
+<p>NMR raw data are processed and realigned (PepsNMR package and CluPA algorithm), then a binning and integration of NMR signals are performed. As LC-MS data, the quality of the data matrix is assessed and the same statistical tools are used. Annotations are based on chemical shifts, coupling patterns and constants by comparison with in-house, commercial and/or online databases.</p>
+</section>
+<section id="quick-overview" class="level2">
+<h2 class="anchored" data-anchor-id="quick-overview">Quick overview</h2>
+<p>Examples of different possible workflows</p>
 <p>(<img src="https://raw.githubusercontent.com/workflow4metabolomics/workflow4metabolomics/refs/heads/master/images/workflow/bigpicture.png" class="img-fluid"></p>
+</section>
+<section id="fffff" class="level2">
+<h2 class="anchored" data-anchor-id="fffff">fffff</h2>
+<p>Want more info? See our posters in the “Congress” section [mettre le lien de la section du site]</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
