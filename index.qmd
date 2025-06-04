@@ -29,11 +29,11 @@ listing:
   - id: sponsors
     contents:
       - title: "MetaboHub"
-        image: https://www.metabohub.fr/media/752
+        image: "/images/LogoMTH_2_HB.png"
         path: https://www.metabohub.fr/home.html
         description: "The National Infrastructure of Metabolomics and Fluxomics"
       - title: "IFB"
-        image: https://www.france-bioinformatique.fr/wp-content/uploads/logo-ifb-couleur.svg
+        image: "/images/LogoIFB_1_GD.jpg"
         path: https://www.france-bioinformatique.fr/en/home/
         description: "The French Institute of Bioinformatics"
       - title: "RFMF"
