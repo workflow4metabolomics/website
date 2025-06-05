@@ -59,6 +59,8 @@
   },
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/news.html"
+    ]
   }
 ]
