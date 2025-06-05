@@ -9,7 +9,7 @@ listing:
         description: "Here is the Galaxy workflow4metabolomics website"
       - title: "Teaching school"
         image: "/images/W4E_logo_badquality.png"
-        path: "W4E/news.qmd"
+        path: "news.qmd"
         description: "Let's check the teaching school of W4M"
     type: grid
     image-height: 130px
