@@ -2,18 +2,20 @@
   title: "Tool administration"
 ---
 
-## How to include the tools supported by W4M in one's Galaxy instance?
+## How to include the tools supported by ![](/images/W4M_icon.svg){height=1em} in one's [![](https://galaxyproject.org/images/galaxy-logos/galaxy_logo_25percent.png){height=1em}](https://galaxyproject.org/) instance?
 
 As Workflow4Metabolomics, we provide and support a range of tools that are made available at workflow4metabolomics.usegalaxy.fr, 
 but that are also available on the [Main Galaxy Toolshed](https://toolshed.g2.bx.psu.edu/). 
-Thus, it is possible to install them in a variety of Galaxy instances (some are already available elsewhere),
-including locally-administrated ones. 
+Thus, it is possible to install them in a variety of 
+[![](https://galaxyproject.org/images/galaxy-logos/galaxy_logo_25percent.png){height=1em} instances](https://galaxyproject.org/use/) 
+(some are already available elsewhere), including locally-administrated ones. 
 
-Want to have the W4M workflows on your favorite Galaxy instance or one on your own? Bellow are the steps to follow.
+Want to have the ![](/images/W4M_icon.svg){height=1em} workflows on your favorite Galaxy instance or one on your own? 
+Bellow are the steps to follow.
 
-#### Identify the Galaxy instance you want to use
+#### Identify the ![](https://galaxyproject.org/images/galaxy-logos/galaxy_logo_25percent.png){height=1em} instance you want to use
 
-We, at W4M, do not provide support in Galaxy instance building and management. 
+We, at ![](/images/W4M_icon.svg){height=1em}, do not provide support in Galaxy instance building and management. 
 Consequently, if you want to use our supported Galaxy workflows elsewhere than at usegalaxy.fr, 
 you need to have access to another already existing Galaxy instance. 
 
@@ -23,23 +25,23 @@ Not sure what is needed to deploy such a Galaxy instance?
 Check the [Galaxy Training Network](https://training.galaxyproject.org/training-material/learning-pathways/admin-training.html) 
 online materials: plenty of tutorials with hands-on to learn how to do so. 
 
-#### Identify the procedure to ask for additional Galaxy tools
+#### Identify the procedure to ask for additional ![](https://galaxyproject.org/images/galaxy-logos/galaxy_logo_25percent.png){height=1em} tools
 
-If you want to use W4M workflows on a Galaxy instance you do not manage yourself, 
+If you want to use ![](/images/W4M_icon.svg){height=1em} workflows on a Galaxy instance you do not manage yourself, 
 you need to identify whether there is a procedure to ask for additional tool installation. 
 In some cases, you have specific chanels (forum, contact e-mail) where to address your installation request. 
 Always follow the recommanded procedure of the Galaxy instance you want to use!
 
 If you want to use your own Galaxy instance but do not have the corresponding administration skills, 
 you will need to find someone arround you that have such skills to help you with the tool installation. 
-We, at W4M, do not provide such assistance, as we have limited human ressources. 
+We, at ![](/images/W4M_icon.svg){height=1em}, do not provide such assistance, as we have limited human ressources. 
 
-#### Get the list of the W4M-supported Galaxy tools
+#### Get the list of the ![](/images/W4M_icon.svg){height=1em}-supported ![](https://galaxyproject.org/images/galaxy-logos/galaxy_logo_25percent.png){height=1em} tools
 
 As we deploy the Galaxy tools we support and use on usegalaxy.fr, 
 and since this Galaxy instance implementation is publicly available, 
-you will find the list of all the tools we include in our W4M subdomain on Usegalaxy.fr's GitLab repository.
+you will find the list of all the tools we include in our ![](/images/W4M_icon.svg){height=1em} subdomain on Usegalaxy.fr's GitLab repository.
 
 In particular, you will find this [yml file](https://gitlab.com/ifb-elixirfr/usegalaxy-fr/tools) where ...
 
-#### Have a nice W4M journey!
+#### Have a nice ![](/images/W4M_icon.svg){height=1em} journey!
