@@ -24,9 +24,9 @@ In particular, we provide yearly bring-your-own data trainings, and regularly pr
 
 Each year, the W4M team organize a training school dedicated to the use of W4M infrastructure and analyze your own data (LC-MS, GC-MS and NMR data). 
 This course (in English) is composed of an online theoretical part following by a one-week tutoring on-site session. 
-During this practical part, you learn how to preprocess and process your own data with help of pair of tutors.
+During this practical part, you learn how to process your own data with the help of tutors, from W4M and close partners.
 
-For more information, contact us at workflow4metabolomics@proton.me 
+For more information, contact us at workflow4metabolomics@proton.me or visit the latest W4E event page bellow. 
 
 ### Future and past training events
 
@@ -36,7 +36,7 @@ For more information, contact us at workflow4metabolomics@proton.me
 :::{#list_w4e}
 :::
 
-## Trainings
+## Workshops and co
 
 | Year | Place                    | Date            | Event                                                                                       | Training                                                                             | Speaker                                     |
 |------|--------------------------|-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------|
