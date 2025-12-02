@@ -145,7 +145,7 @@ To be defined
   <thead>
     <tr>
       <th colspan="5">
-        <img src="/images/planning_w4e26.png" alt="Coming Soon!" style="width: 100%; max-width: 900px;" />
+        <img src="/images/planning_w4e26.jpg" alt="Coming Soon!" style="width: 100%; max-width: 900px;" />
       </th>
     </tr>
   </thead>
