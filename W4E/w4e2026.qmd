@@ -16,7 +16,7 @@ For this new session, format changed:
 -   From April, 20th to 24th: tutoring on your own data, PBS Laboratory Rouen (Rouen University, Campus de Mont Saint-Aignan, France, close to Paris).
 
 ::: callout-important
-The pre-registration for the school is now open ! [Follow the link to pre-register](https://sondages.inrae.fr/index.php/576765?lang=fr).
+The pre-registration for the school is now open ! Deadline 18/01/2026 [Follow the link to pre-register](https://sondages.inrae.fr/index.php/576765?lang=fr).
 :::
 
 **Costs**: 1300€ for academic and 2500 € for private institution (to cover expenses for trainers, organization, materials and meals). A special discount of 100€ is offered for [RFMF](https://www.rfmf.fr/) members 2025.
@@ -25,113 +25,19 @@ The pre-registration for the school is now open ! [Follow the link to pre-regist
 To be defined
 
 **Previsionnal Program of online session**:
-
-<table class="table cart table-hover table-colored">
+  <table class="table cart table-hover table-colored">
   <thead>
     <tr>
       <th colspan="5">W4E Webinar: Monday 30th March 2026</th>
     </tr>
   </thead>
-  <tbody>
-    <tr class="remove-data">
-      <td class="product">10:00 - 10:30</td>
-      <td class="product">INTRODUCTION</td>
-      <td colspan="2" class="product">Welcome and presentation of the webinar and the speakers</em>
-      </td>
-      <td>PDF</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr class="remove-data">
-      <td class="product">10:30 - 12:00</td>
-      <td class="product">PRESENTATION</td>
-      <td colspan="2" class="product">Galaxy session: Initiation and data management
-        <br/><em>M. Pétéra, Y. Guitton</em>
-      </td>
-      <td>PDF</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr class="remove-data">
-      <td class="product">14:00 - 16:00</td>
-      <td class="product">PRESENTATION</td>
-      <td colspan="2" class="product">
-        [MS] Data Preprocessing
-        <br/><em>M. Pétéra, Y. Guitton</em>
-      </td>
-      <td>PDF</td>
-    </tr>
-    <tr class="remove-data">
-      <td class="product">14:00 - 16:00</td>
-      <td class="product">PRESENTATION</td>
-      <td colspan="2" class="product">
-        [NMR] Data Preprocessing
-        <br/><em>C. Canlet, M. Tremblay-Franco</em>
-      </td>
-      <td>PDF</td>
-    </tr>
-    <tr class="remove-data">
-      <td class="product">16:00 - 16:30</td>
-      <td class="product">PRESENTATION</td>
-      <td colspan="2" class="product">
-        Signal Drift and Batch-Effect Correction
-        <br/><em>M. Pétéra</em>
-      </td>
-      <td>PDF</td>
-    </tr>
-  </tbody>
   <thead>
     <tr>
-      <th colspan="5">W4E Webinar: Tuesday 31th March 2026</th>
+      <th colspan="5">
+        <img src="/images/planning_webinar_w4e_2026.png" alt="Coming Soon!" style="width: 100%; max-width: 900px;" />
+      </th>
     </tr>
   </thead>
-  <tbody>
-    <tr class="remove-data">
-      <td class="product">10:00 - 12:00</td>
-      <td class="product">PRESENTATION</td>
-      <td colspan="2" class="product">
-        Statistical analysis
-        <br/><em>M. Pétéra, M. Tremblay-Franco</em>
-      </td>
-      <td>PDF</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr class="remove-data">
-      <td class="product">14:00 - 16:00</td>
-      <td class="product">PRESENTATION</td>
-      <td colspan="2" class="product">
-        [MS] Annotation
-        <br/><em>Y. Guitton, R. Weber</em>
-      </td>
-      <td>PDF</td>
-    </tr>
-    <tr class="remove-data">
-      <td class="product">14:00 - 16:00</td>
-      <td class="product">PRESENTATION</td>
-      <td colspan="2" class="product">
-        [NMR] Annotation
-        <br/><em>C. Canlet, M. Tremblay-Franco</em>
-      </td>
-      <td>PDF</td>
-    </tr>
-  </tbody>
-  <thead>
-    <tr>
-      <th colspan="5">W4E Webinar: Wednesday 1st April 2026</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="remove-data">
-      <td class="product">10:00 - 12:00</td>
-      <td class="product">PRESENTATION</td>
-      <td colspan="2" class="product">
-        TBD
-        <br/><em>TBD</em>
-      </td>
-      <td>PDF</td>
-    </tr>
-  </tbody>
 </table>
 
 **Program of onsite session**:
