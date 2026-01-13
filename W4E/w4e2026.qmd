@@ -2,7 +2,7 @@
 title: "Workflow4Experimenters 2026"
 year: 2026
 place: Rouen, France
-date: 2025/12/02
+date: 2026/01/13
 speakers:
 ---
 
