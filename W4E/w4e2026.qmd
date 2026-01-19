@@ -2,7 +2,7 @@
 title: "Workflow4Experimenters 2026"
 year: 2026
 place: Rouen, France
-date: 2026/01/13
+date: 2026/01/19
 speakers:
 ---
 
@@ -16,7 +16,7 @@ For this new session, format changed:
 -   From April, 20th to 24th: tutoring on your own data, PBS Laboratory Rouen (Rouen University, Campus de Mont Saint-Aignan, France, close to Paris).
 
 ::: callout-important
-The pre-registration for the school is now open ! Deadline 18/01/2026 [Follow the link to pre-register](https://sondages.inrae.fr/index.php/576765?lang=fr).
+The pre-registration for the school is now open ! Deadline extension until 31/01/2026 [Follow the link to pre-register](https://sondages.inrae.fr/index.php/576765?lang=fr).
 :::
 
 **Costs**: 1300€ for academic and 2500 € for private institution (to cover expenses for trainers, organization, materials and meals). A special discount of 100€ is offered for [RFMF](https://www.rfmf.fr/) members 2025.
