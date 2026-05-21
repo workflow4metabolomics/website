@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>How to contribute for W4M ? – Workflow4Metabolomics</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -32,15 +35,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="./images/w4m.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-271b770f6bb9453e6a3bd3d16cd72101.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f4dda05aca053c49d473672dfd2972fa.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -207,8 +209,22 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#push-your-tools-w4m-as-a-showcase" id="toc-push-your-tools-w4m-as-a-showcase" class="nav-link active" data-scroll-target="#push-your-tools-w4m-as-a-showcase">Push your tools / W4M as a Showcase</a>
+  <ul class="collapse">
+  <li><a href="#quality-standards" id="toc-quality-standards" class="nav-link" data-scroll-target="#quality-standards">Quality standards</a></li>
+  <li><a href="#advanced-mode" id="toc-advanced-mode" class="nav-link" data-scroll-target="#advanced-mode">Advanced mode</a></li>
+  <li><a href="#support-helpdesk" id="toc-support-helpdesk" class="nav-link" data-scroll-target="#support-helpdesk">Support / HelpDesk</a></li>
+  <li><a href="#guidelines" id="toc-guidelines" class="nav-link" data-scroll-target="#guidelines">Guidelines</a></li>
+  </ul></li>
+  <li><a href="#contribute-as-a-tutor-in-w4e" id="toc-contribute-as-a-tutor-in-w4e" class="nav-link" data-scroll-target="#contribute-as-a-tutor-in-w4e">Contribute as a tutor in W4E</a></li>
+  <li><a href="#i-want-to-contribute-but-i-do-not-know-how" id="toc-i-want-to-contribute-but-i-do-not-know-how" class="nav-link" data-scroll-target="#i-want-to-contribute-but-i-do-not-know-how">I want to contribute but I do not know how</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -232,15 +248,46 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Push your tools / W4M as a Showcase Your tools can be installed, integrated and hosted within the main W4M instance Tools.</p>
-<p>Quality standards However, the tools must stick to the IUC standards in order to be easily integrated:</p>
-<p>Available in a GitHub repository Conda dependencies Functional tests using Planemo Available in the Main ToolShed In the first place, your tools will be displayed in the Contribution section of the tool panel. And eventually, it should be promoted among the other tools.</p>
-<p>Advanced mode In order to be fully integrated in our reference workflows, your tools must follow your exchange formats between tools (for more information, contact us).</p>
+<p>TODO: A rédiger et completer</p>
+<section id="push-your-tools-w4m-as-a-showcase" class="level2">
+<h2 class="anchored" data-anchor-id="push-your-tools-w4m-as-a-showcase">Push your tools / W4M as a Showcase</h2>
+<p>Your tools can be installed, integrated and hosted within the main W4M instance Tools. In the first place, your tools will be displayed in the Contribution section of the tool panel. And eventually, it may be promoted among the other tools.</p>
+<section id="quality-standards" class="level3">
+<h3 class="anchored" data-anchor-id="quality-standards">Quality standards</h3>
+<p>To be integrated, the tools must stick to the IUC standards in order to be easily integrated:</p>
+<ul>
+<li>Available in a GitHub repository</li>
+<li>Conda dependencies</li>
+<li>Functional tests using Planemo</li>
+<li>Available in the Main ToolShed</li>
+</ul>
+</section>
+<section id="advanced-mode" class="level3">
+<h3 class="anchored" data-anchor-id="advanced-mode">Advanced mode</h3>
+<p>In order to be fully integrated in our reference workflows, your tools must follow your exchange formats between tools (for more information, contact us).</p>
 <p>A collaboration should be established if help is needed!</p>
-<p>Support / HelpDesk In all cases, the tools must be maintained by the developers themselves. A tool can be removed if this after sales service isn’t done.</p>
-<p>Guidelines <a href="https://github.com/jsaintvanne/workflow4metabolomics/blob/doc-ju/GUIDELINES.md#writing-a-tool">Writing a tool</a></p>
+</section>
+<section id="support-helpdesk" class="level3">
+<h3 class="anchored" data-anchor-id="support-helpdesk">Support / HelpDesk</h3>
+<p>In all cases, the tools must be maintained by the developers themselves. A tool can be removed if this after sales service isn’t done.</p>
+</section>
+<section id="guidelines" class="level3">
+<h3 class="anchored" data-anchor-id="guidelines">Guidelines</h3>
+<p><a href="https://github.com/jsaintvanne/workflow4metabolomics/blob/doc-ju/GUIDELINES.md#writing-a-tool">Writing a tool</a></p>
+</section>
+</section>
+<section id="contribute-as-a-tutor-in-w4e" class="level2">
+<h2 class="anchored" data-anchor-id="contribute-as-a-tutor-in-w4e">Contribute as a tutor in W4E</h2>
+<p>You can contribute by helping people during the Workflow4Experimenters sessions. The school is organised once a year.</p>
+<p>TODO: add information</p>
+</section>
+<section id="i-want-to-contribute-but-i-do-not-know-how" class="level2">
+<h2 class="anchored" data-anchor-id="i-want-to-contribute-but-i-do-not-know-how">I want to contribute but I do not know how</h2>
+<p>Do not hesitate to contact us: there are so many things to do to help the community, you might find one that fit your will!</p>
+<p>workflow4metabolomics@proton.me</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
