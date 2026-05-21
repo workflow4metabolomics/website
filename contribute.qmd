@@ -2,25 +2,50 @@
   title: "How to contribute for W4M ?"
 ---
 
-Push your tools / W4M as a Showcase
-Your tools can be installed, integrated and hosted within the main W4M instance Tools.
+TODO: A rédiger et completer
 
-Quality standards
-However, the tools must stick to the IUC standards in order to be easily integrated:
+## Push your tools / W4M as a Showcase
 
- Available in a GitHub repository
- Conda dependencies
- Functional tests using Planemo
- Available in the Main ToolShed
-In the first place, your tools will be displayed in the Contribution section of the tool panel. And eventually, it should be promoted among the other tools.
+Your tools can be installed, integrated and hosted within the main W4M instance Tools. 
+In the first place, your tools will be displayed in the Contribution section of the tool panel. 
+And eventually, it may be promoted among the other tools.
 
-Advanced mode
+### Quality standards
+
+To be integrated, the tools must stick to the IUC standards in order to be easily integrated:
+
+- Available in a GitHub repository
+- Conda dependencies
+- Functional tests using Planemo
+- Available in the Main ToolShed
+
+
+### Advanced mode
+
 In order to be fully integrated in our reference workflows, your tools must follow your exchange formats between tools (for more information, contact us).
 
 A collaboration should be established if help is needed!
 
-Support / HelpDesk
-In all cases, the tools must be maintained by the developers themselves. A tool can be removed if this after sales service isn't done.
+### Support / HelpDesk
 
-Guidelines
+In all cases, the tools must be maintained by the developers themselves. 
+A tool can be removed if this after sales service isn't done.
+
+### Guidelines
 [Writing a tool](https://github.com/jsaintvanne/workflow4metabolomics/blob/doc-ju/GUIDELINES.md#writing-a-tool)
+
+
+## Contribute as a tutor in W4E
+
+You can contribute by helping people during the Workflow4Experimenters sessions. 
+The school is organised once a year.
+
+TODO: add information
+
+## I want to contribute but I do not know how
+
+Do not hesitate to contact us: there are so many things to do to help the community, you might find one that fit your will!
+
+workflow4metabolomics@proton.me
+
+

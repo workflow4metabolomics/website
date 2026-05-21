@@ -49,7 +49,7 @@ listing:
 ---
 
 ::: callout-important
-Workflow4experimenters (![](/images/W4E_icon.svg){height="1em"}) course 2026: Session is now open for Pre-Registration. [Follow the link](https://sondages.inrae.fr/index.php/576765?lang=fr) 
+Workflow4Metabolomics freshens up: new website, but also new logo! Ensure you keep your goodies with the old logo safe, it is now vintage :) 
 :::
 
 Welcome to the **collaborative portal of** ![](/images/W4M_icon.svg){height="1em"} dedicated to metabolomics data processing, analysis and annotation for the **Metabolomics community**. On this website you will find information on our **main missions** as well as **users** and **developpers guides**.
@@ -97,8 +97,8 @@ You can subscribe to [our newsletter](https://groupes.france-bioinformatique.fr/
       <h4 class="card-title">Contributers</h4>
       <p class="card-text">
       <ul class="list-group list-group-flush">
-        <li class="list-group-item"><small><b>A tutor</b> to help people understand how to process metabolomics data <a href="news.qmd">see here</a></small></li>
-        <li class="list-group-item"><small><b>A developper</b> to propose or add new tools to the community:
+        <li class="list-group-item"><small><b>As a tutor</b> to help people understand how to process metabolomics data during the <a href="news.qmd">W4E</a> yearly training - see <a href="contribute.qmd">here</a></small></li>
+        <li class="list-group-item"><small><b>Aa a developper</b> to propose or add new tools to the community:
           <ul>
             <li>Check our <a href="tooldev.qmd">Guides</a> and <a href="contribute.qmd">how-to</a></li>
             <li>I need help: <a href="https://github.com/workflow4metabolomics/tools-metabolomics/issues"> create an issue</a></li>
