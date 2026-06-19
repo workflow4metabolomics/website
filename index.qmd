@@ -50,9 +50,9 @@ listing:
 
 ::: callout-important
 
-![](/images/W4M-News-Breaking.png){height="1em"}
+![](/images/W4M-News-Breaking.png){height="6em"}
 
-Workflow4Metabolomics freshens up: new website, but also new logo! Ensure you keep your goodies with the old logo safe, it is now vintage :) 
+Workflow4Metabolomics freshens up: new website, but also new logo! Ensure you keep your goodies with the old logo safe, it is now vintage :)
 :::
 
 Welcome to the **collaborative portal of** ![](/images/W4M_icon.svg){height="1em"} dedicated to metabolomics data processing, analysis and annotation for the **Metabolomics community**. On this website you will find information on our **main missions** as well as **users** and **developpers guides**.
