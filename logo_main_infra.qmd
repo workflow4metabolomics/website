@@ -1,0 +1,33 @@
+```{=html}
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; width: 100%; max-width: 100%;">    
+  <style>
+    .logo-cell {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 110px;
+      overflow: hidden;
+    }
+
+    .logo-cell img {
+      max-width: 110px;
+      max-height: 110px;
+      object-fit: contain; 
+    }
+  </style>
+
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_ifb.png" alt="logo inrae" /></div>
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_inrae.png" alt="logo inrae" /></div>
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_oniris.png" alt="logo inrae" /></div>
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_IRBA.jpg" alt="logo inrae" /></div>
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_CEA.jpg" alt="logo inrae" /></div>
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_CNRS.png" alt="logo inrae" /></div>
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_Birmingham.png" alt="logo inrae" /></div>
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_Sorbonne.png" alt="logo inrae" /></div>
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_ULB.jpg" alt="logo inrae" /></div>
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_UClermontAuvergne.jpg" alt="logo inrae" /></div>
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_URouen.png" alt="logo inrae" /></div>
+  <div class="logo-cell"><img src="/images/logo/main infra/logo_Muni.png" alt="logo inrae" /></div>
+  
+</div>
+```
