@@ -287,34 +287,6 @@
     "text": "I’m a newcomer and I want to know more about , visit our about us section"
   },
   {
-    "objectID": "tool_general.html",
-    "href": "tool_general.html",
-    "title": "General information about tools",
-    "section": "",
-    "text": "TODO : trouver comment faire fonctionner la balise pour la citation"
-  },
-  {
-    "objectID": "tool_general.html#our-workflows",
-    "href": "tool_general.html#our-workflows",
-    "title": "General information about tools",
-    "section": "Our Workflows",
-    "text": "Our Workflows\nThe W4M-supported  instance allows to process, analyze and annotate metabolomics data (LC-MS, GC-MS and NMR). A full description of the different basic protocols to treat metabolomics data is accessible in Workflow4Metabolomics (): a user-friendly metabolomics platform for analysis of MS and NMR data ( @W4Mpubli_2025 ). Complementary interactive step-by-step tutorials ( Galaxy Training Network) are also available to help you.\nBriefly, LC-MS data pre-processing uses XCMS resources to extract variables ( Mass spectrometry: LCMS preprocessing with XCMS). Then a processing step is generally required to ensure the quality of your data before statistical analysis ( Mass spectrometry: LC-MS data processing). Several statistical tools (univariate and multivariate analysis, classification analysis…) enable you to discriminate metabolic profiles and highlight variables of interest. Metabolites annotation or identification is the last step but not the least; in-house or online databases can be used, it being for MS data only or combined to MSMS.\nSimilarly to LC-MS data pre-processing, GC-MS features are extracted with XCMS. Then using metaMS or RAMClustR tools, deconvoluted spectra are obtained and retention indices are assigned with RIAssigner. Annotation steps use online databases and/or identify similar spectra with matchms ( Mass spectrometry: GC-MS data processing (with XCMS, RAMClustR, RIAssigner, and matchms)). Statistical tools used are the same as LC-MS data.\nNMR raw data are processed and realigned (PepsNMR package and CluPA algorithm), then a binning and integration of NMR signals are performed. As LC-MS data, the quality of the data matrix is assessed and the same statistical tools are used. Annotations are based on chemical shifts, coupling patterns and constants by comparison with in-house, commercial and/or online databases."
-  },
-  {
-    "objectID": "tool_general.html#quick-overview",
-    "href": "tool_general.html#quick-overview",
-    "title": "General information about tools",
-    "section": "Quick overview",
-    "text": "Quick overview\nExamples of different possible workflows"
-  },
-  {
-    "objectID": "tool_general.html#to-go-further",
-    "href": "tool_general.html#to-go-further",
-    "title": "General information about tools",
-    "section": "To go further",
-    "text": "To go further\nWant more info? See our posters in the “Congress” section [mettre le lien de la section du site], or"
-  },
-  {
     "objectID": "W4M_datasets/GCMSIdealg.html",
     "href": "W4M_datasets/GCMSIdealg.html",
     "title": "GC-MS Idealg dataset",
@@ -523,6 +495,34 @@
     "title": "Sacurine",
     "section": "",
     "text": "Study: Characterization of the physiological variations of the metabolome in biofluids is critical to understand human physiology and to avoid confounding effects in cohort studies aiming at biomarker discovery.\nDataset: In this study conducted by the MetaboHUB French Infrastructure for Metabolomics, urine samples from 184 volunteers were analyzed by reversed-phase (C18) ultrahigh performance liquid chromatography (UPLC) coupled to high-resolution mass spectrometry (LTQ-Orbitrap). A total of 258 metabolites were identified at confidence levels provided by the metabolomics standards initiative (MSI) levels 1 or 2.\nWorkflow: This history describes the statistical analysis of the data set from the negative ionization mode (113 identified metabolites at MSI levels 1 or 2): correction of signal drift (loess model built on QC pools) and batch effects (two batches), variable filtering (QC coefficent of variation &lt; 30%), normalization by the sample osmolality, log10 transformation, sample filtering (Hotelling, decile and missing pvalues &gt; 0.001) resulting in the HU_096 sample being discarded, univariate hypothesis testing of significant variations with age, BMI, or between genders (FDR &lt; 0.05), and OPLS(-DA) modeling of age, BMI and gender.\nComments: The ‘sacurine’ data set (after normalization and filtering) is also available in the ropls R package from the Bioconductor repository."
+  },
+  {
+    "objectID": "tool_general.html",
+    "href": "tool_general.html",
+    "title": "General information about tools",
+    "section": "",
+    "text": "TODO : trouver comment faire fonctionner la balise pour la citation"
+  },
+  {
+    "objectID": "tool_general.html#our-workflows",
+    "href": "tool_general.html#our-workflows",
+    "title": "General information about tools",
+    "section": "Our Workflows",
+    "text": "Our Workflows\nThe W4M-supported  instance allows to process, analyze and annotate metabolomics data (LC-MS, GC-MS and NMR). A full description of the different basic protocols to treat metabolomics data is accessible in Workflow4Metabolomics (): a user-friendly metabolomics platform for analysis of MS and NMR data ( @W4Mpubli_2025 ). Complementary interactive step-by-step tutorials ( Galaxy Training Network) are also available to help you.\nBriefly, LC-MS data pre-processing uses XCMS resources to extract variables ( Mass spectrometry: LCMS preprocessing with XCMS). Then a processing step is generally required to ensure the quality of your data before statistical analysis ( Mass spectrometry: LC-MS data processing). Several statistical tools (univariate and multivariate analysis, classification analysis…) enable you to discriminate metabolic profiles and highlight variables of interest. Metabolites annotation or identification is the last step but not the least; in-house or online databases can be used, it being for MS data only or combined to MSMS.\nSimilarly to LC-MS data pre-processing, GC-MS features are extracted with XCMS. Then using metaMS or RAMClustR tools, deconvoluted spectra are obtained and retention indices are assigned with RIAssigner. Annotation steps use online databases and/or identify similar spectra with matchms ( Mass spectrometry: GC-MS data processing (with XCMS, RAMClustR, RIAssigner, and matchms)). Statistical tools used are the same as LC-MS data.\nNMR raw data are processed and realigned (PepsNMR package and CluPA algorithm), then a binning and integration of NMR signals are performed. As LC-MS data, the quality of the data matrix is assessed and the same statistical tools are used. Annotations are based on chemical shifts, coupling patterns and constants by comparison with in-house, commercial and/or online databases."
+  },
+  {
+    "objectID": "tool_general.html#quick-overview",
+    "href": "tool_general.html#quick-overview",
+    "title": "General information about tools",
+    "section": "Quick overview",
+    "text": "Quick overview\nExamples of different possible workflows"
+  },
+  {
+    "objectID": "tool_general.html#to-go-further",
+    "href": "tool_general.html#to-go-further",
+    "title": "General information about tools",
+    "section": "To go further",
+    "text": "To go further\nWant more info? See our posters in the “Congress” section [mettre le lien de la section du site], or"
   },
   {
     "objectID": "resources3.html",

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>News – Workflow4Metabolomics</title>
+<title>logo_main_infra – Workflow4Metabolomics</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,8 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/w4m.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -72,70 +70,14 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-list_w4e .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-year','listing-place','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-list_w4e'] = new List('listing-list_w4e', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="News – Workflow4Metabolomics">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://workflow4metabolomics.github.io/website/images/W4E_icon.svg">
+<meta name="twitter:title" content="Workflow4Metabolomics">
+<meta name="twitter:image" content="https://workflow4metabolomics.github.io/website/images/logo/main infra/logo_ifb.png">
+<meta name="twitter:image:alt" content="logo inrae">
+<meta name="twitter:image-height" content="179">
+<meta name="twitter:image-width" content="300">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -221,7 +163,7 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./news.html" aria-current="page"> <i class="bi bi-calendar-week" role="img">
+    <a class="nav-link" href="./news.html"> <i class="bi bi-calendar-week" role="img">
 </i> 
 <span class="menu-text">News &amp; Events</span></a>
   </li>  
@@ -267,428 +209,51 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#participations-to-conferences-and-community-events" id="toc-participations-to-conferences-and-community-events" class="nav-link active" data-scroll-target="#participations-to-conferences-and-community-events">Participations to conferences and community events</a></li>
-  <li><a href="#trainings" id="toc-trainings" class="nav-link" data-scroll-target="#trainings">Trainings</a>
-  <ul class="collapse">
-  <li><a href="#workflow4experimenters" id="toc-workflow4experimenters" class="nav-link" data-scroll-target="#workflow4experimenters">Workflow4Experimenters <img src="./images/W4E_icon.svg" style="height:1em"></a></li>
-  <li><a href="#future-and-past-training-events" id="toc-future-and-past-training-events" class="nav-link" data-scroll-target="#future-and-past-training-events">Future and past training events</a></li>
-  </ul></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
-<main class="content page-columns page-full column-page-left" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">News</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta column-page-left">
 
-    
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; width: 100%; max-width: 100%;">    
+  <style>
+    .logo-cell {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 110px;
+      overflow: hidden;
+    }
+
+    .logo-cell img {
+      max-width: 110px;
+      max-height: 110px;
+      object-fit: contain; 
+    }
+  </style>
+
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_ifb.png" alt="logo inrae"></div>
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_inrae.png" alt="logo inrae"></div>
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_oniris.png" alt="logo inrae"></div>
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_IRBA.jpg" alt="logo inrae"></div>
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_CEA.jpg" alt="logo inrae"></div>
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_CNRS.png" alt="logo inrae"></div>
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_Birmingham.png" alt="logo inrae"></div>
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_Sorbonne.png" alt="logo inrae"></div>
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_ULB.jpg" alt="logo inrae"></div>
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_UClermontAuvergne.jpg" alt="logo inrae"></div>
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_URouen.png" alt="logo inrae"></div>
+  <div class="logo-cell"><img src="./images/logo/main infra/logo_Muni.png" alt="logo inrae"></div>
   
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="participations-to-conferences-and-community-events" class="level2">
-<h2 class="anchored" data-anchor-id="participations-to-conferences-and-community-events">Participations to conferences and community events</h2>
-<p>TODO: Ajouter un tableau pour les participations aux congres</p>
-</section>
-<section id="trainings" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="trainings">Trainings</h2>
-<p><img src="./images/W4M_icon.svg" style="height:1em"> regularly provides trainings for the community. In particular, we provide yearly bring-your-own data trainings, and regularly propose workshops at conferences.</p>
-<section id="workflow4experimenters" class="level3">
-<h3 class="anchored" data-anchor-id="workflow4experimenters">Workflow4Experimenters <img src="./images/W4E_icon.svg" style="height:1em"></h3>
-<p>Each year, the W4M team organize a training school dedicated to the use of W4M infrastructure and analyze your own data (LC-MS, GC-MS and NMR data). This course (in English) is composed of an online theoretical part following by a one-week tutoring on-site session. During this practical part, you learn how to process your own data with the help of tutors, from W4M and close partners.</p>
-<p>For more information, contact us at workflow4metabolomics@proton.me or visit the latest W4E event page below.</p>
-</section>
-<section id="future-and-past-training-events" class="level3 page-columns page-full">
-<h3 class="anchored" data-anchor-id="future-and-past-training-events">Future and past training events</h3>
-<div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">Workflow4Experimenters</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">Workshops and co</a></li></ul>
-<div class="tab-content">
-<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<div id="listing-list_w4e" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
 </div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-
-<th>
-year
-</th>
-
-<th>
-place
-</th>
-
-<th>
-Title
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-listing-date-sort="1768780800000" data-listing-file-modified-sort="1781881832021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="413" data-listing-title-sort="Workflow4Experimenters 2026" data-listing-filename-sort="w4e2026.qmd">
-<td>
-<span class="listing-year">2026</span>
-</td>
-<td>
-<span class="listing-place">Rouen, France</span>
-</td>
-<td>
-<a href="./W4E/w4e2026.html" class="title listing-title">Workflow4Experimenters 2026</a>
-</td>
-
-</tr>
-
-<tr data-index="1" data-listing-date-sort="1732665600000" data-listing-file-modified-sort="1781881832021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1012" data-listing-title-sort="Workflow4Experimenters 2025" data-listing-filename-sort="w4e2025.qmd">
-<td>
-<span class="listing-year">2025</span>
-</td>
-<td>
-<span class="listing-place">Rouen, France</span>
-</td>
-<td>
-<a href="./W4E/w4e2025.html" class="title listing-title">Workflow4Experimenters 2025</a>
-</td>
-
-</tr>
-
-<tr data-index="2" data-listing-date-sort="NaN" data-listing-file-modified-sort="1781881832021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="827" data-listing-title-sort="Workflow4Experimenters 2024" data-listing-filename-sort="w4e2024.qmd">
-<td>
-<span class="listing-year">2024</span>
-</td>
-<td>
-<span class="listing-place">Grenoble, France</span>
-</td>
-<td>
-<a href="./W4E/w4e2024.html" class="title listing-title">Workflow4Experimenters 2024</a>
-</td>
-
-</tr>
-
-<tr data-index="3" data-listing-file-modified-sort="1781881832021" data-listing-reading-time-sort="2" data-listing-word-count-sort="356" data-listing-title-sort="Workflow4Experimenters 2023" data-listing-filename-sort="w4e2023.qmd">
-<td>
-<span class="listing-year">2023</span>
-</td>
-<td>
-<span class="listing-place">Paris, France</span>
-</td>
-<td>
-<a href="./W4E/w4e2023.html" class="title listing-title">Workflow4Experimenters 2023</a>
-</td>
-
-</tr>
-
-<tr data-index="4" data-listing-date-sort="1444521600000" data-listing-file-modified-sort="1781881832021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="377" data-listing-title-sort="Workflow4Experimenters 2021" data-listing-filename-sort="w4e2021.qmd">
-<td>
-<span class="listing-year">2021</span>
-</td>
-<td>
-<span class="listing-place">Toulouse, France</span>
-</td>
-<td>
-<a href="./W4E/w4e2021.html" class="title listing-title">Workflow4Experimenters 2021</a>
-</td>
-
-</tr>
-
-<tr data-index="5" data-listing-date-sort="1170460800000" data-listing-file-modified-sort="1781881832021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="413" data-listing-title-sort="Workflow4Experimenters 2020" data-listing-filename-sort="w4e2020.qmd">
-<td>
-<span class="listing-year">2020</span>
-</td>
-<td>
-<span class="listing-place">Brussels, Belgium</span>
-</td>
-<td>
-<a href="./W4E/w4e2020.html" class="title listing-title">Workflow4Experimenters 2020</a>
-</td>
-
-</tr>
-
-<tr data-index="6" data-listing-date-sort="1349654400000" data-listing-file-modified-sort="1781881832021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="355" data-listing-title-sort="Workflow4Experimenters 2018" data-listing-filename-sort="w4e2018.qmd">
-<td>
-<span class="listing-year">2018</span>
-</td>
-<td>
-<span class="listing-place">Paris, France</span>
-</td>
-<td>
-<a href="./W4E/w4e2018.html" class="title listing-title">Workflow4Experimenters 2018</a>
-</td>
-
-</tr>
-
-<tr data-index="7" data-listing-date-sort="NaN" data-listing-file-modified-sort="1781881832021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Workflow4Experimenters 2017" data-listing-filename-sort="w4e2017.qmd">
-<td>
-<span class="listing-year">2017</span>
-</td>
-<td>
-<span class="listing-place">Paris, France</span>
-</td>
-<td>
-<a href="./W4E/w4e2017.html" class="title listing-title">Workflow4Experimenters 2017</a>
-</td>
-
-</tr>
-
-<tr data-index="8" data-listing-date-sort="NaN" data-listing-file-modified-sort="1781881832021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="183" data-listing-title-sort="Workflow4Experimenters 2016" data-listing-filename-sort="w4e2016.qmd">
-<td>
-<span class="listing-year">2016</span>
-</td>
-<td>
-<span class="listing-place">Roscoff, France</span>
-</td>
-<td>
-<a href="./W4E/w4e2016.html" class="title listing-title">Workflow4Experimenters 2016</a>
-</td>
-
-</tr>
-
-<tr data-index="9" data-listing-date-sort="1758412800000" data-listing-file-modified-sort="1781881832020" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Workflow4Experimenters 2015" data-listing-filename-sort="w4e2015.qmd">
-<td>
-<span class="listing-year">2015</span>
-</td>
-<td>
-<span class="listing-place">Roscoff, France</span>
-</td>
-<td>
-<a href="./W4E/w4e2015.html" class="title listing-title">Workflow4Experimenters 2015</a>
-</td>
-
-</tr>
-
-<tr data-index="10" data-listing-date-sort="NaN" data-listing-file-modified-sort="1781881832020" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Workflow4Experimenters 2014" data-listing-filename-sort="w4e2014.qmd">
-<td>
-<span class="listing-year">2014</span>
-</td>
-<td>
-<span class="listing-place">Lyon, France</span>
-</td>
-<td>
-<a href="./W4E/w4e2014.html" class="title listing-title">Workflow4Experimenters 2014</a>
-</td>
-
-</tr>
-
-</tbody>
-</table>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</div>
-<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 2%">
-<col style="width: 9%">
-<col style="width: 6%">
-<col style="width: 34%">
-<col style="width: 31%">
-<col style="width: 16%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Year</th>
-<th>Place</th>
-<th>Date</th>
-<th>Event</th>
-<th>Training</th>
-<th>Speaker</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>2024</td>
-<td>St Malo, France</td>
-<td>3-6 June</td>
-<td>RFMF</td>
-<td>Atelier</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2022</td>
-<td>Sète, France</td>
-<td>17-20 October</td>
-<td>Chemomics</td>
-<td>3rd School =&gt; Bar camp ChemFlow / W4M</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>2021</td>
-<td>Online Session</td>
-<td>15-19 March</td>
-<td>Chemomics</td>
-<td>2nd School =&gt; Bar camp ChemFlow / W4M</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2020</td>
-<td>Breda, NDL</td>
-<td>5-6 November</td>
-<td>Avans Galaxy workshop</td>
-<td>Introduction of to XCMS, Analyzing LC-MS data with Galaxy by XCMS functions</td>
-<td>Yann Guitton</td>
-</tr>
-<tr class="odd">
-<td>2020</td>
-<td>Toulouse, France</td>
-<td>21 January</td>
-<td>RFMF</td>
-<td>Interactive tutorial, How to process LC-MS data with workflow4metabolomics.org</td>
-<td>Y Guitton, M. Tremblay-Franco, F. Giacomoni</td>
-</tr>
-<tr class="even">
-<td>2019</td>
-<td>Sète, France</td>
-<td>18-22 November</td>
-<td>Chemomics</td>
-<td>1st =&gt; Bar camp ChemFlow / W4M</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>2019</td>
-<td>St Etienne, France</td>
-<td>16-21 June</td>
-<td>ETEC</td>
-<td>Approches “Omiques” en ecologie chimique - Atelier Metabolomique avec W4M</td>
-<td>Binta Dieme</td>
-</tr>
-<tr class="even">
-<td>2018</td>
-<td>EBI, UK</td>
-<td>21-23 March</td>
-<td>EMBL-EBI Training</td>
-<td>Introduction to Metabolomics Analysis</td>
-<td>Etienne Thevenot</td>
-</tr>
-<tr class="odd">
-<td>2017</td>
-<td>Pula, Italy</td>
-<td>11-15 September</td>
-<td>CloudMET</td>
-<td>1st scientific school on Cloud-based Metabolomics Data Analysis and Collaboration</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2017</td>
-<td>Lausanne, Switzerland</td>
-<td>12-15 June</td>
-<td>Metabolomics : from data to publication</td>
-<td>LC-MS data pre-processing/MS data processing</td>
-<td>Yann Guitton</td>
-</tr>
-<tr class="odd">
-<td>2017</td>
-<td>Paris, France</td>
-<td>6-9 June</td>
-<td>Applications de R pour l’analyse de données spectroscopiques</td>
-<td>SM et RMN : XCMS et Batman</td>
-<td>Alain PARIS</td>
-</tr>
-<tr class="even">
-<td>2016</td>
-<td>Toulouse, France</td>
-<td>8 November</td>
-<td>Master in Structural and Functional Biology</td>
-<td>Introduction to Statistics for Metabolomics and Proteomics</td>
-<td>Marie Tremblay-Franco</td>
-</tr>
-<tr class="odd">
-<td>2016</td>
-<td>Sardenia, Italy</td>
-<td>12-16 September</td>
-<td>2nd Metabolomics Sardinian Scientific School: How to bridge metabolomics and genomics</td>
-<td>The Workflow4Metabolomics (W4M) online infrastructure for omics analysis with Galaxy</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2015</td>
-<td>Tours, France</td>
-<td>27 November</td>
-<td>workshop Pharmaco-métabolomique et recherche de nouveaux biomarqueurs en onco-pharmacologie</td>
-<td>Atelier Analyses multivariées des données métabolomiques</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>2014</td>
-<td>Lyon, France</td>
-<td>19 May</td>
-<td>RFMF</td>
-<td>Initiation au traitement et à l’Analyse des données métabolomiques</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2014</td>
-<td>Clermont-Ferrand, France</td>
-<td>19-20 March</td>
-<td></td>
-<td>Galaxy pour l’analyse de données métabolomique</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>2014</td>
-<td>Roscoff, France</td>
-<td>12-14 March</td>
-<td></td>
-<td>Galaxy for developper</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2014</td>
-<td>Roscoff, France</td>
-<td>28 January</td>
-<td></td>
-<td>Galaxy pour l’analyse de données métabolomique</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-<!-- ```{=html} -->
-<!-- <a  -->
-<!-- class="twitter-timeline"  -->
-<!-- href="https://twitter.com/workflow4metabo?ref_src=twsrc%5Etfw"> -->
-<!-- Tweets by workflow4metabo</a> -->
-<!-- <script async src="https://platform.twitter.com/widgets.js"  -->
-<!-- charset="utf-8"></script> -->
-<!-- ``` -->
 
 
-
-
-<div class="no-row-height column-margin column-container"><div class="">
-<iframe style="
-  width:90%;
-  height:70em;
-  border-style:none;
-  box-shadow:0px 0px 2px 2px" src="https://twitter.com/workflow4metabo" title="Tweets by @workflow4metabo"></iframe>
-</div></div></section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
