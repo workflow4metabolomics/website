@@ -16,7 +16,6 @@
     }
   </style>
 
-  <div class="logo-cell"><img src="/images/logo/main infra/logo_ifb.png" alt="logo inrae" /></div>
   <div class="logo-cell"><img src="/images/logo/main infra/logo_inrae.png" alt="logo inrae" /></div>
   <div class="logo-cell"><img src="/images/logo/main infra/logo_oniris.png" alt="logo inrae" /></div>
   <div class="logo-cell"><img src="/images/logo/main infra/logo_IRBA.jpg" alt="logo inrae" /></div>
