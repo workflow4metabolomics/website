@@ -1,9 +1,8 @@
 ---
 title: "Christophe Caron"
 image: "https://galaxyproject.org/images/news/2018-05-caron/christophe-caron.jpg"
-description: ???
+description: Engineer in computer science
 categories: 
-    - Computer science
     - W4M funding father
 
 about:
