@@ -1,0 +1,23 @@
+---
+title: "Christophe Caron"
+image: "https://galaxyproject.org/images/news/2018-05-caron/christophe-caron.jpg"
+description: ???
+categories: 
+    - Computer science
+    - W4M funding father
+
+about:
+  template: trestles
+  links: 
+    - icon: github
+      text: Github
+      href: "https://github.com/chcaron"
+---
+
+## Funding father of Workflow4Metabolomics
+
+Gone way to early, Christophe was the main lead of Workflow4Metabolomics. 
+That is putting it mildly to say that W4M could not have existed without him. 
+
+You can find a tribute to his overall contribution to science [here](https://abims.sb-roscoff.fr/node/67). 
+
