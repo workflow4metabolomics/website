@@ -2,3 +2,7 @@
 /_site/
 _freeze/
 renv/
+
+**/*.quarto_ipynb
+.Rprofile
+/docs/
