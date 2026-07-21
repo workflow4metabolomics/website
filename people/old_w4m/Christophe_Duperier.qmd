@@ -1,12 +1,9 @@
 ---
 title: "Christophe Duperier"
 image: "https://peakforest.org/sites/default/files/inline-images/duperier_ch_300%2A452_0.png"
-description: ???
+description: IT crew
 categories: 
-    - LCMS
-    - GCMS
-    - MSMS
-    - Statistics
+    - Computer science
 about:
   template: trestles
   links: 
@@ -15,6 +12,4 @@ about:
       href: "https://fr.linkedin.com/in/christophe-duperier-600391157"
 ---
 
-## Education
-
-## Experience
+Left for a new position in cybersecurity.
