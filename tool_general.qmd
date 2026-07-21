@@ -1,15 +1,14 @@
 ---
   title: "General information about tools"
+  bibliography: references.bib
 ---
-
-**TODO** : trouver comment faire fonctionner la balise pour la citation
 
 ## Our Workflows
 
 The [W4M-supported ![](https://galaxyproject.org/images/galaxy-logos/galaxy_logo_25percent.png){height=1em} instance](https://workflow4metabolomics.usegalaxy.fr/) 
 allows to process, analyze and annotate metabolomics data (LC-MS, GC-MS and NMR). 
 A full description of the different basic protocols to treat metabolomics data is accessible in Workflow4Metabolomics (![](/images/W4M_icon.svg){height=1em}): 
-a user-friendly metabolomics platform for analysis of MS and NMR data ( @W4Mpubli_2025 ). 
+a user-friendly metabolomics platform for analysis of MS and NMR data [@W4Mpubli_2025]. 
 Complementary interactive step-by-step tutorials 
 (![](https://training.galaxyproject.org/training-material/assets/images/GTN-60px.png){height=1em} Galaxy Training Network) 
 are also available to help you.
@@ -42,5 +41,6 @@ Examples of different possible workflows
 
 ## To go further
 
-Want more info? See our posters in the “Congress” section [mettre le lien de la section du site],
-or 
+Want more info? See our posters in the “Talks and posters” section of the [News and Events page](/news.qmd). 
+You can also directly navigate the tool list in the Galaxy tool panel from the 
+[![](https://galaxyproject.org/images/galaxy-logos/galaxy_logo_25percent.png){height=1em} W4M subdomain at usegalaxy.fr](https://workflow4metabolomics.usegalaxy.fr/).
