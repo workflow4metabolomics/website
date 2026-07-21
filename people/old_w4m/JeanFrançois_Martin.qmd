@@ -1,14 +1,19 @@
 ---
 title: "Jean-François Martin"
 image: "https://avatars.githubusercontent.com/u/19904093?v=4"
+description: Engineer in Statistics
+categories: 
+    - statistics
+    - bioinfo/toolsdev
 about:
   template: trestles
   links: 
     - icon: github
       text: Github
       href: "https://github.com/jfrancoismartin"
+    - icon: linkedin
+      text: Linkedin
+      href: "https://www.linkedin.com/in/jean-fran%C3%A7ois-martin-05b6142b6"
 ---
 
-## Education
-
-## Experience
+Now retired 🏖

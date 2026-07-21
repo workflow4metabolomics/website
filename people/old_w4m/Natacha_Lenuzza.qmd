@@ -1,6 +1,6 @@
 ---
 title: "Natacha Lenuzza"
-image: "https://media.licdn.com/dms/image/C4D0BAQGve9gjM89zjA/company-logo_200_200/0/1630559066145?e=2147483647&v=beta&t=nvBGhiyUMsY4JIzfUJmjZlkShS0Tam3n1yfQKIVXSDQ"
+image: "https://raw.githubusercontent.com/workflow4metabolomics/website/refs/heads/main/images/Bust_icon.png"
 about:
   template: trestles
   links: 
@@ -9,6 +9,4 @@ about:
       href: "https://fr.linkedin.com/in/natacha-lenuzza-1020639"
 ---
 
-## Education
-
-## Experience
+No longer in the W4M team.

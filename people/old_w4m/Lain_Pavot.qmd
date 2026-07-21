@@ -1,6 +1,8 @@
 ---
 title: "Lain Pavot"
 image: "https://avatars.githubusercontent.com/u/72435441?v=4"
+categories: 
+    - bioinfo/toolsdev
 about:
   template: trestles
   links: 
@@ -9,6 +11,4 @@ about:
       href: "https://github.com/Lain-inrae"
 ---
 
-## Education
-
-## Experience
+Left for a permanent position outside the metabolomic field.

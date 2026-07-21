@@ -1,20 +1,15 @@
 ---
 title: "Eric Venot"
 image: "https://joliot.cea.fr/drf/joliot/PublishingImages/Entites_de_recherche/Medicaments_technologies_sante/SPI/UIAA/Erice-Venot_large.jpg"
-description: ???
-categories: 
-    - LCMS
-    - GCMS
-    - MSMS
-    - Statistics
 about:
   template: trestles
   links: 
     - icon: researchgate
       text: Research Gate
       href: "https://www.researchgate.net/profile/Eric-Venot"
+    - icon: linkedin
+      text: Linkedin
+      href: "https://www.linkedin.com/in/eric-venot-9a420a3"
 ---
 
-## Education
-
-## Experience
+No longer in the W4M team.

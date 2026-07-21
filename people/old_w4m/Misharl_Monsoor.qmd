@@ -1,14 +1,17 @@
 ---
 title: "Misharl Monsoor"
 image: "https://avatars.githubusercontent.com/u/15906049?v=4"
+categories: 
+    - bioinfo/toolsdev
 about:
   template: trestles
   links: 
     - icon: github
       text: Github
       href: "https://github.com/mmonsoor"
+    - icon: linkedin
+      text: Linkedin
+      href: "https://www.linkedin.com/in/misharl-monsoor-a101a147"
 ---
 
-## Education
-
-## Experience
+Short-time contract - no longer in the W4M team.

@@ -1,6 +1,8 @@
 ---
 title: "Pierre Péricard"
-image: "https://media.licdn.com/dms/image/C4D03AQF2e0_pYtAcEw/profile-displayphoto-shrink_200_200/0/1611322384863?e=2147483647&v=beta&t=xRdMDUvKXnCZJoqC9ZvFZUlkJMrjHrYbv6Kzz1C0Y4Q"
+image: "https://raw.githubusercontent.com/workflow4metabolomics/website/refs/heads/main/images/Bust_icon.png"
+categories: 
+    - bioinfo/toolsdev
 about:
   template: trestles
   links: 
@@ -9,6 +11,4 @@ about:
       href: "https://fr.linkedin.com/in/pierrepericard"
 ---
 
-## Education
-
-## Experience
+Short-time contract - no longer in the W4M team.
