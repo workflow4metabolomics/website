@@ -8,7 +8,7 @@ listing:
         path: "https://workflow4metabolomics.usegalaxy.fr"
         description: "Here is the Galaxy workflow4metabolomics website"
       - title: "Teaching school"
-        image: "/images/logo/W4E_short_logo.jpg"
+        image: "/images/logo/W4E_long_logo.jpg"
         path: "news.qmd"
         description: "Let's check the teaching school of W4M"
     type: grid

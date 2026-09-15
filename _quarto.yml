@@ -14,7 +14,7 @@ website:
   #  position: below-navbar
   title: "Workflow4Metabolomics"
   #site-url: https://workflow4metabolomics.github.io/
-  favicon: images/w4m.png
+  favicon: images/logo/W4M_short_logo.jpg
   twitter-card: true
   page-footer:
     right: "This page is built with ❤️"
@@ -25,7 +25,7 @@ website:
   #   light: flatly
   #   dark: darkly
   navbar:
-    logo: images/w4m.png
+    logo: images/logo/W4M_short_logo.jpg
     href: https://workflow4metabolomics.org/
     left:
       - text: "Home"
