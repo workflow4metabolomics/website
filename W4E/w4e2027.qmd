@@ -14,7 +14,7 @@ During this one-week course (entirely in English), participants will learn how t
 For this new session, we continue with the acclaimed two-step format:
 
 -   From 5th to 9th of April: online theoretical sessions (methods and tools). This session is *only accessible to person who will be present in Rennes for the onsite session.*
--   From April, 26th to 30th: tutoring on your own data, at PNRB ([Rennes University](https://formation-continue.univ-rennes.fr/pole-sciences-et-ingenierie), France).
+-   From April, 26th to 30th: tutoring on your own data, at [PNRB](https://formation-continue.univ-rennes.fr/pole-sciences-et-ingenierie) ([Rennes University](https://goo.gl/maps/9AN5Kq24mCNBiTwi7), France).
 
 ::: callout-important
 The pre-registration is soon to be opened. As soon as it opens, you will find here the link to the pre-registration form.
@@ -35,7 +35,7 @@ To be defined
   <thead>
     <tr>
       <th colspan="5">
-        To be announced soon. You can have a peak at last year's program: 
+        To be announced soon. You can cast an eye over last year's program: 
         <img src="/images/planning_webinar_w4e_2026.png" alt="Coming Soon!" style="width: 100%; max-width: 900px;" />
       </th>
     </tr>
@@ -53,7 +53,7 @@ To be defined
   <thead>
     <tr>
       <th colspan="5">
-        To be announced soon. You can have a peak at last year's program: 
+        To be announced soon. You can cast an eye over last year's program: 
         <img src="/images/planning_w4e26.jpg" alt="Coming Soon!" style="width: 100%; max-width: 900px;" />
       </th>
     </tr>
@@ -67,4 +67,4 @@ To be defined
 **Sponsor**: ![](/images/W4M_icon.svg){height="1em"} is jointly developed and maintained by the French Bioinformatics Infrastructure (IFB, ELIXIR-FR), the French Infrastructure for Metabolomics and Fluxomics (MetaboHUB) and the Réseau Francophone de Métabolomique et Fluxomique (RFMF).
 
 
-![](/images/bandeau_w4e_rouen.PNG)
+![](/images/W4E_specific/bandeau_w4e_rennes.PNG)

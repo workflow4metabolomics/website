@@ -64,4 +64,4 @@ To be defined
 **Sponsor**: ![](/images/W4M_icon.svg){height="1em"} is jointly developed and maintained by the French Bioinformatics Infrastructure (IFB, ELIXIR-FR), the French Infrastructure for Metabolomics and Fluxomics (MetaboHUB) and the Réseau Francophone de Métabolomique et Fluxomique (RFMF).
 
 
-![](/images/bandeau_w4e_rouen.PNG)
+![](/images/W4E_specific/bandeau_w4e_rouen.PNG)
