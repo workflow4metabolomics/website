@@ -287,88 +287,116 @@
     "text": "Experience\nULB PhD on posttranslational modification analysis by LC-MSMS in Brussels, Faculty of Pharmacy, (2008-2012).\nNIBRT in Dublin, Postdoc on glycomics (2012-2013).\nULB postdoc on glycomics in Brussels, Faculty of Pharmacy (2013-2017.)\nLille postdoc on glycomics (2014).\nULB premier assistant (2017-2022) and then associate professor (2022- now), at ULB, Phaculty of Pharmacy."
   },
   {
-    "objectID": "people/old_w4m/Lain_Pavot.html",
-    "href": "people/old_w4m/Lain_Pavot.html",
-    "title": "Lain Pavot",
+    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html",
+    "href": "people/W4Mteam/Julien_Saint-Vanne.html",
+    "title": "Julien Saint-Vanne",
     "section": "",
-    "text": "Left for a permanent position outside the metabolomic field."
+    "text": "Young bioinformatician (yet) working on development of Shiny applications as principal activity. I love the development part of a tool because it is always a new challenge to share with diferent biologist and send them the tool that they need.\nI also play a lot of volley-ball and snow volley-ball during my free time ! I’m also the happy father of a little boy since 3 months and don’t sleep a lot since but I’m full of love."
   },
   {
-    "objectID": "people/old_w4m/Christophe_Caron.html",
-    "href": "people/old_w4m/Christophe_Caron.html",
-    "title": "Christophe Caron",
-    "section": "",
-    "text": "Gone way to early, Christophe was the main lead of Workflow4Metabolomics. That is putting it mildly to say that W4M could not have existed without him.\nYou can find a tribute to his overall contribution to science here."
+    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html#education",
+    "href": "people/W4Mteam/Julien_Saint-Vanne.html#education",
+    "title": "Julien Saint-Vanne",
+    "section": "Education",
+    "text": "Education\nTechnical certificate in laboratory analysis in 2012\nMaster degree in BioInfomatic in 2017"
   },
   {
-    "objectID": "people/old_w4m/Christophe_Caron.html#funding-father-of-workflow4metabolomics",
-    "href": "people/old_w4m/Christophe_Caron.html#funding-father-of-workflow4metabolomics",
-    "title": "Christophe Caron",
-    "section": "",
-    "text": "Gone way to early, Christophe was the main lead of Workflow4Metabolomics. That is putting it mildly to say that W4M could not have existed without him.\nYou can find a tribute to his overall contribution to science here."
+    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html#experience",
+    "href": "people/W4Mteam/Julien_Saint-Vanne.html#experience",
+    "title": "Julien Saint-Vanne",
+    "section": "Experience",
+    "text": "Experience\nCNRS in Roscoff as a developper of Galaxy W4M tools for MSMS analysis (from 2018 to 2019)\nONIRIS - LABERCA in Nantes as a reasearch engineer in development of Shiny application for specific compounds (2020)\nEFS - UMR1236 in Rennes as a reasearch engineer to develop application to analyze multiparametric data in cytometry\nONIRIS - LABERCA in Nantes as a research engineer to develop Shiny application, add a visualisation part in Galaxy and make some geek things in my lab."
   },
   {
-    "objectID": "people/old_w4m/Eric_Venot.html",
-    "href": "people/old_w4m/Eric_Venot.html",
-    "title": "Eric Venot",
-    "section": "",
-    "text": "No longer in the W4M team."
-  },
-  {
-    "objectID": "people/old_w4m/Natacha_Lenuzza.html",
-    "href": "people/old_w4m/Natacha_Lenuzza.html",
-    "title": "Natacha Lenuzza",
-    "section": "",
-    "text": "No longer in the W4M team."
-  },
-  {
-    "objectID": "people/old_w4m/Marion_Landi.html",
-    "href": "people/old_w4m/Marion_Landi.html",
-    "title": "Marion Landi",
+    "objectID": "people/old_w4m/Pierrick_Roge_Mele.html",
+    "href": "people/old_w4m/Pierrick_Roge_Mele.html",
+    "title": "Pierrick Roge-Mele",
     "section": "",
     "text": "Short-time contract - no longer in the W4M team."
   },
   {
-    "objectID": "people/old_w4m/Christophe_Duperier.html",
-    "href": "people/old_w4m/Christophe_Duperier.html",
-    "title": "Christophe Duperier",
+    "objectID": "people/old_w4m/Pierre_Pericard.html",
+    "href": "people/old_w4m/Pierre_Pericard.html",
+    "title": "Pierre Péricard",
     "section": "",
-    "text": "Left for a new position in cybersecurity."
+    "text": "Short-time contract - no longer in the W4M team."
   },
   {
-    "objectID": "W4M_datasets/sacurine.html",
-    "href": "W4M_datasets/sacurine.html",
-    "title": "Sacurine",
+    "objectID": "people/old_w4m/JeanFrançois_Martin.html",
+    "href": "people/old_w4m/JeanFrançois_Martin.html",
+    "title": "Jean-François Martin",
     "section": "",
-    "text": "Study: Characterization of the physiological variations of the metabolome in biofluids is critical to understand human physiology and to avoid confounding effects in cohort studies aiming at biomarker discovery.\nDataset: In this study conducted by the MetaboHUB French Infrastructure for Metabolomics, urine samples from 184 volunteers were analyzed by reversed-phase (C18) ultrahigh performance liquid chromatography (UPLC) coupled to high-resolution mass spectrometry (LTQ-Orbitrap). A total of 258 metabolites were identified at confidence levels provided by the metabolomics standards initiative (MSI) levels 1 or 2.\nWorkflow: This history describes the statistical analysis of the data set from the negative ionization mode (113 identified metabolites at MSI levels 1 or 2): correction of signal drift (loess model built on QC pools) and batch effects (two batches), variable filtering (QC coefficent of variation &lt; 30%), normalization by the sample osmolality, log10 transformation, sample filtering (Hotelling, decile and missing pvalues &gt; 0.001) resulting in the HU_096 sample being discarded, univariate hypothesis testing of significant variations with age, BMI, or between genders (FDR &lt; 0.05), and OPLS(-DA) modeling of age, BMI and gender.\nComments: The ‘sacurine’ data set (after normalization and filtering) is also available in the ropls R package from the Bioconductor repository."
+    "text": "Now retired 🏖"
   },
   {
-    "objectID": "W4M_datasets/sacurine.html#description",
-    "href": "W4M_datasets/sacurine.html#description",
-    "title": "Sacurine",
+    "objectID": "people/old_w4m/Romain_Dallet.html",
+    "href": "people/old_w4m/Romain_Dallet.html",
+    "title": "Romain Dallet",
     "section": "",
-    "text": "Study: Characterization of the physiological variations of the metabolome in biofluids is critical to understand human physiology and to avoid confounding effects in cohort studies aiming at biomarker discovery.\nDataset: In this study conducted by the MetaboHUB French Infrastructure for Metabolomics, urine samples from 184 volunteers were analyzed by reversed-phase (C18) ultrahigh performance liquid chromatography (UPLC) coupled to high-resolution mass spectrometry (LTQ-Orbitrap). A total of 258 metabolites were identified at confidence levels provided by the metabolomics standards initiative (MSI) levels 1 or 2.\nWorkflow: This history describes the statistical analysis of the data set from the negative ionization mode (113 identified metabolites at MSI levels 1 or 2): correction of signal drift (loess model built on QC pools) and batch effects (two batches), variable filtering (QC coefficent of variation &lt; 30%), normalization by the sample osmolality, log10 transformation, sample filtering (Hotelling, decile and missing pvalues &gt; 0.001) resulting in the HU_096 sample being discarded, univariate hypothesis testing of significant variations with age, BMI, or between genders (FDR &lt; 0.05), and OPLS(-DA) modeling of age, BMI and gender.\nComments: The ‘sacurine’ data set (after normalization and filtering) is also available in the ropls R package from the Bioconductor repository."
+    "text": "Short-time contract - no longer in the W4M team."
   },
   {
-    "objectID": "W4M_datasets/GCMSIdealg.html",
-    "href": "W4M_datasets/GCMSIdealg.html",
-    "title": "GC-MS Idealg dataset",
+    "objectID": "people/old_w4m/Misharl_Monsoor.html",
+    "href": "people/old_w4m/Misharl_Monsoor.html",
+    "title": "Misharl Monsoor",
     "section": "",
-    "text": "Background: Colonizations of freshwater by marine species are rare events, and little information is known about the underlying mechanisms. Brown algae are an independent lineage of photosynthetic and multicellular organisms from which few species inhabit freshwater. As a marine alga that is also found in freshwater, Ectocarpus is of particular interest for studying the transition between these habitats.\nObjective: To gain insights into mechanisms of the transition, we examined salinity tolerance and adaptations to low salinities in a freshwater strain of Ectocarpus on physiological and molecular levels.\nResults: We show that this isolate belongs to a widely distributed and highly stress-resistant clade, and differed from the genome-sequenced marine strain in its tolerance of low salinities. It also exhibited profound, but reversible, morphological, physiological, and transcriptomic changes when transferred to seawater. Although gene expression profiles were similar in both strains under identical conditions, metabolite and ion profiles differed strongly, the freshwater strain exhibiting e.g. higher cellular contents of amino acids and nitrate, higher contents of n-3 fatty acids, and lower intracellular mannitol and sodium concentrations. Moreover, several stress markers were noted in the freshwater isolate in seawater.\nConclusion: This finding suggests that, while high stress tolerance and plasticity may be prerequisites for the colonization of freshwater, genomic alterations have occurred that produced permanent changes in the metabolite profiles to stabilize the transition.\nDataset:\nThe dataset contains 12 GC-MS injection of Ectocarpus sp. (Ectocarpales, Phaeophyceae) samples.\nWorkflow:\nThe W4M workflow use XCMS Matched Filter method for peak detection."
+    "text": "Short-time contract - no longer in the W4M team."
   },
   {
-    "objectID": "W4M_datasets/GCMSIdealg.html#description",
-    "href": "W4M_datasets/GCMSIdealg.html#description",
-    "title": "GC-MS Idealg dataset",
+    "objectID": "people/old_w4m/Sophie_Goulitquer.html",
+    "href": "people/old_w4m/Sophie_Goulitquer.html",
+    "title": "Sophie Goulitquer",
     "section": "",
-    "text": "Background: Colonizations of freshwater by marine species are rare events, and little information is known about the underlying mechanisms. Brown algae are an independent lineage of photosynthetic and multicellular organisms from which few species inhabit freshwater. As a marine alga that is also found in freshwater, Ectocarpus is of particular interest for studying the transition between these habitats.\nObjective: To gain insights into mechanisms of the transition, we examined salinity tolerance and adaptations to low salinities in a freshwater strain of Ectocarpus on physiological and molecular levels.\nResults: We show that this isolate belongs to a widely distributed and highly stress-resistant clade, and differed from the genome-sequenced marine strain in its tolerance of low salinities. It also exhibited profound, but reversible, morphological, physiological, and transcriptomic changes when transferred to seawater. Although gene expression profiles were similar in both strains under identical conditions, metabolite and ion profiles differed strongly, the freshwater strain exhibiting e.g. higher cellular contents of amino acids and nitrate, higher contents of n-3 fatty acids, and lower intracellular mannitol and sodium concentrations. Moreover, several stress markers were noted in the freshwater isolate in seawater.\nConclusion: This finding suggests that, while high stress tolerance and plasticity may be prerequisites for the colonization of freshwater, genomic alterations have occurred that produced permanent changes in the metabolite profiles to stabilize the transition.\nDataset:\nThe dataset contains 12 GC-MS injection of Ectocarpus sp. (Ectocarpales, Phaeophyceae) samples.\nWorkflow:\nThe W4M workflow use XCMS Matched Filter method for peak detection."
+    "text": "No longer in the W4M team."
   },
   {
-    "objectID": "tool2.html",
-    "href": "tool2.html",
-    "title": "Description of tool 2",
+    "objectID": "W4M_datasets/NMRMusmusculus.html",
+    "href": "W4M_datasets/NMRMusmusculus.html",
+    "title": "NMR Mus musculus dataset",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Study: This study used metabolomics—a method for determining metabolic changes in response to nutritional, pharmacological, or toxic stimuli—to examine metabolic shifts induced in vivo by perinatal exposure to low doses of BPA in CD-1 mice (see Cabaton et al. (2013)).\nDataset: The dataset contains brain samples from 24 mice pups:\n- Mothers exposed to BPA (25 or 250 ng / kg body weight / day)\n- Pups sacrificed at 21 days: brain collection\nNMR analysis was performed on a Bruker DRX-600-Avance spectrometer using an inverse detection 5mm cryoprobe attached to a cryoplatform; CPMG spin-echo pulse sequence. Fourier transformation was applied, then all spectra were phased and baseline corrected using TopSpin."
+  },
+  {
+    "objectID": "W4M_datasets/NMRMusmusculus.html#description",
+    "href": "W4M_datasets/NMRMusmusculus.html#description",
+    "title": "NMR Mus musculus dataset",
+    "section": "",
+    "text": "Study: This study used metabolomics—a method for determining metabolic changes in response to nutritional, pharmacological, or toxic stimuli—to examine metabolic shifts induced in vivo by perinatal exposure to low doses of BPA in CD-1 mice (see Cabaton et al. (2013)).\nDataset: The dataset contains brain samples from 24 mice pups:\n- Mothers exposed to BPA (25 or 250 ng / kg body weight / day)\n- Pups sacrificed at 21 days: brain collection\nNMR analysis was performed on a Bruker DRX-600-Avance spectrometer using an inverse detection 5mm cryoprobe attached to a cryoplatform; CPMG spin-echo pulse sequence. Fourier transformation was applied, then all spectra were phased and baseline corrected using TopSpin."
+  },
+  {
+    "objectID": "tooldev.html",
+    "href": "tooldev.html",
+    "title": "Tool development",
+    "section": "",
+    "text": "In case you are not familiar with Galaxy tool development, there is plenty of supports to help you beginning and improving.\nDon’t know where to start? There are very cool and easy-to-handle tutorials hosted by the Galaxy Training Network. You can also have a look at the contribution guidelines we wrote for our W4M contributors and collaborators.\nPlease note that W4M also hosts a GitHub repository aiming to gather tools and contributors from the metabolomics world. More information available in the associated Readme"
+  },
+  {
+    "objectID": "tooldev.html#developing-galaxy-tools-in-general",
+    "href": "tooldev.html#developing-galaxy-tools-in-general",
+    "title": "Tool development",
+    "section": "",
+    "text": "In case you are not familiar with Galaxy tool development, there is plenty of supports to help you beginning and improving.\nDon’t know where to start? There are very cool and easy-to-handle tutorials hosted by the Galaxy Training Network. You can also have a look at the contribution guidelines we wrote for our W4M contributors and collaborators.\nPlease note that W4M also hosts a GitHub repository aiming to gather tools and contributors from the metabolomics world. More information available in the associated Readme"
+  },
+  {
+    "objectID": "tooldev.html#developing-tools-compatible-with-w4m-inputoutput-datasets",
+    "href": "tooldev.html#developing-tools-compatible-with-w4m-inputoutput-datasets",
+    "title": "Tool development",
+    "section": "Developing tools compatible with W4M input/output datasets",
+    "text": "Developing tools compatible with W4M input/output datasets\nDue to the diversity of tools needed to construct comprehensive metabolomic workflows, W4M chose to adopt common standards across its tools, in particular regarding data table formats.\n\nAbout the W4M standardised 3-tables format\nAs W4M provides a large variety of tools, we set a common way to handle data, in order to enable easy links between the tools, limiting format switches and ensuring users can easily find the information they seek inside their data sets.\nFor any extracted data (i.e. a single intensity value per {analytical variable; sample} pair), we settled for a standardised 3-tables format, in the form of ‘tabular’ files (as defined in Galaxy, i.e. plain text files (.txt, .tsv, .tabular) containing tables with columns separated by tabulations). One file is dedicated to the intensity values measured for each analytical variable and each sample, a second file gathers the meta-data concerning the samples, and a third file is about the meta-data of the analytical variables.\nDetailed information about this W4M 3-tables format is available here.\nFamiliar with Biobase formating from Bioconductor? The W4M 3-tables format is very similar to the ExpressionSets organisation of data, the main difference being that the dataMatrix table is a transposition of the assay data table:\n\n\n\nW4M format\nExpressionSets\n\n\n\n\ndataMatrix\ntransposed assay data (assayData)\n\n\nsampleMetadata\nphenotypic data (phenoData)\n\n\nvariableMetadata\nannotations and feature data (annotation)"
+  },
+  {
+    "objectID": "tooldev.html#developing-tools-in-a-w4m-approuved-format",
+    "href": "tooldev.html#developing-tools-in-a-w4m-approuved-format",
+    "title": "Tool development",
+    "section": "Developing tools in a W4M-approuved format",
+    "text": "Developing tools in a W4M-approuved format\nTODO blabla intro\n\nThe tool being wrapped\nTODO topo sur le user experience\nTODO Ajout de la ref à W4MRUtils dans le cas de codes en R.\n\n\nThe Galaxy XML wrapper\nAmong the possible variations for functional XML wrappers, W4M is willing to garantee […]\nTODO les reco W4M du XML\n\n\nDocumenting the Galaxy tool\nDocumentation in vital to any tool. Among the many advantages it provides, it enables potential users as well as already initiated ones to understand what the tool is meant for and how it can be relevantly used.\nAs you may already know, there are two distinct targets for documentation, that are equally important: - the developers’ community: people that may evaluate your tool in a ‘code and structure’ perspective, that may deploy it for others or themselves to use it, and that may also contribute to its development in the future - the users’ community: people that may test your tool in order to obtain results, that may use it for their routine or R&D works, and that may even use it for learning purpose.\nW4M supports Galaxy tools that combine these two aspects of documentation. Consequently, we highly recommend that any tool you share with our community is provided with at least basic documentation for both these target publics.\n\nDocumentation for developers\nTODO Mentionner les BP (comm etc) + dire que minimum un ReadMe mais aussi les tests pour exemple a rejouer\n\n\nDocumentation for users\nThere is a large variety of ways to provide user documentations, including embedded help files, online content and even live trainings’ supports.\nAs one of Galaxy’s goals is to provide a user-friendly environment and easy access to ressources, several channels exists that are especially designed to be efficient for users (easily found, convenient to use…).\nAs W4M, we highly recommend to consider at least the three following options.\n\nThe Galaxy tool Help section\nTODO Presenter les section mandatory et facultative\nAbout the format, you can find here a template of Help tag to help you initiating your writing with the recommanded sections and formats.\n\n\nOther Galaxy tool’s XML information usefull for users\nTODO les balises recommandees\n\n\nMaterials to provide through the Galaxy Training Network\nTODO Le fait que bon moyen de mettre en ontexte un outil + Lien vers GTN et howto GTN-build + le fait que ça apparaitra direct en bas de l’outil"
+  },
+  {
+    "objectID": "resources1.html",
+    "href": "resources1.html",
+    "title": "Newcomer",
+    "section": "",
+    "text": "I’m a newcomer and I want to know more about , visit our about us section"
   },
   {
     "objectID": "tooluser.html",
@@ -413,116 +441,109 @@
     "text": "Datasets examples\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nW4M\n\n\n\nRespository\n\n\n\ndoi-link\n\n\n\n\n\n\n\n\nGC-MS Idealg dataset\n\n\nDittami et al., 2012\n\n\nW4M00004\n\n\n \n\n\ndoi link\n\n\n\n\n\n\nNMR Mus musculus dataset\n\n\nCabaton et al., 2013\n\n\nW4M00006\n\n\n \n\n\ndoi link\n\n\n\n\n\n\nSacurine\n\n\nThevenot et al., 2015\n\n\nW4M00001\n\n\nMTBLS404\n\n\ndoi link\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "resources1.html",
-    "href": "resources1.html",
-    "title": "Newcomer",
+    "objectID": "tool2.html",
+    "href": "tool2.html",
+    "title": "Description of tool 2",
     "section": "",
-    "text": "I’m a newcomer and I want to know more about , visit our about us section"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "tooldev.html",
-    "href": "tooldev.html",
-    "title": "Tool development",
+    "objectID": "W4M_datasets/GCMSIdealg.html",
+    "href": "W4M_datasets/GCMSIdealg.html",
+    "title": "GC-MS Idealg dataset",
     "section": "",
-    "text": "In case you are not familiar with Galaxy tool development, there is plenty of supports to help you beginning and improving.\nDon’t know where to start? There are very cool and easy-to-handle tutorials hosted by the Galaxy Training Network. You can also have a look at the contribution guidelines we wrote for our W4M contributors and collaborators.\nPlease note that W4M also hosts a GitHub repository aiming to gather tools and contributors from the metabolomics world. More information available in the associated Readme"
+    "text": "Background: Colonizations of freshwater by marine species are rare events, and little information is known about the underlying mechanisms. Brown algae are an independent lineage of photosynthetic and multicellular organisms from which few species inhabit freshwater. As a marine alga that is also found in freshwater, Ectocarpus is of particular interest for studying the transition between these habitats.\nObjective: To gain insights into mechanisms of the transition, we examined salinity tolerance and adaptations to low salinities in a freshwater strain of Ectocarpus on physiological and molecular levels.\nResults: We show that this isolate belongs to a widely distributed and highly stress-resistant clade, and differed from the genome-sequenced marine strain in its tolerance of low salinities. It also exhibited profound, but reversible, morphological, physiological, and transcriptomic changes when transferred to seawater. Although gene expression profiles were similar in both strains under identical conditions, metabolite and ion profiles differed strongly, the freshwater strain exhibiting e.g. higher cellular contents of amino acids and nitrate, higher contents of n-3 fatty acids, and lower intracellular mannitol and sodium concentrations. Moreover, several stress markers were noted in the freshwater isolate in seawater.\nConclusion: This finding suggests that, while high stress tolerance and plasticity may be prerequisites for the colonization of freshwater, genomic alterations have occurred that produced permanent changes in the metabolite profiles to stabilize the transition.\nDataset:\nThe dataset contains 12 GC-MS injection of Ectocarpus sp. (Ectocarpales, Phaeophyceae) samples.\nWorkflow:\nThe W4M workflow use XCMS Matched Filter method for peak detection."
   },
   {
-    "objectID": "tooldev.html#developing-galaxy-tools-in-general",
-    "href": "tooldev.html#developing-galaxy-tools-in-general",
-    "title": "Tool development",
+    "objectID": "W4M_datasets/GCMSIdealg.html#description",
+    "href": "W4M_datasets/GCMSIdealg.html#description",
+    "title": "GC-MS Idealg dataset",
     "section": "",
-    "text": "In case you are not familiar with Galaxy tool development, there is plenty of supports to help you beginning and improving.\nDon’t know where to start? There are very cool and easy-to-handle tutorials hosted by the Galaxy Training Network. You can also have a look at the contribution guidelines we wrote for our W4M contributors and collaborators.\nPlease note that W4M also hosts a GitHub repository aiming to gather tools and contributors from the metabolomics world. More information available in the associated Readme"
+    "text": "Background: Colonizations of freshwater by marine species are rare events, and little information is known about the underlying mechanisms. Brown algae are an independent lineage of photosynthetic and multicellular organisms from which few species inhabit freshwater. As a marine alga that is also found in freshwater, Ectocarpus is of particular interest for studying the transition between these habitats.\nObjective: To gain insights into mechanisms of the transition, we examined salinity tolerance and adaptations to low salinities in a freshwater strain of Ectocarpus on physiological and molecular levels.\nResults: We show that this isolate belongs to a widely distributed and highly stress-resistant clade, and differed from the genome-sequenced marine strain in its tolerance of low salinities. It also exhibited profound, but reversible, morphological, physiological, and transcriptomic changes when transferred to seawater. Although gene expression profiles were similar in both strains under identical conditions, metabolite and ion profiles differed strongly, the freshwater strain exhibiting e.g. higher cellular contents of amino acids and nitrate, higher contents of n-3 fatty acids, and lower intracellular mannitol and sodium concentrations. Moreover, several stress markers were noted in the freshwater isolate in seawater.\nConclusion: This finding suggests that, while high stress tolerance and plasticity may be prerequisites for the colonization of freshwater, genomic alterations have occurred that produced permanent changes in the metabolite profiles to stabilize the transition.\nDataset:\nThe dataset contains 12 GC-MS injection of Ectocarpus sp. (Ectocarpales, Phaeophyceae) samples.\nWorkflow:\nThe W4M workflow use XCMS Matched Filter method for peak detection."
   },
   {
-    "objectID": "tooldev.html#developing-tools-compatible-with-w4m-inputoutput-datasets",
-    "href": "tooldev.html#developing-tools-compatible-with-w4m-inputoutput-datasets",
-    "title": "Tool development",
-    "section": "Developing tools compatible with W4M input/output datasets",
-    "text": "Developing tools compatible with W4M input/output datasets\nDue to the diversity of tools needed to construct comprehensive metabolomic workflows, W4M chose to adopt common standards across its tools, in particular regarding data table formats.\n\nAbout the W4M standardised 3-tables format\nAs W4M provides a large variety of tools, we set a common way to handle data, in order to enable easy links between the tools, limiting format switches and ensuring users can easily find the information they seek inside their data sets.\nFor any extracted data (i.e. a single intensity value per {analytical variable; sample} pair), we settled for a standardised 3-tables format, in the form of ‘tabular’ files (as defined in Galaxy, i.e. plain text files (.txt, .tsv, .tabular) containing tables with columns separated by tabulations). One file is dedicated to the intensity values measured for each analytical variable and each sample, a second file gathers the meta-data concerning the samples, and a third file is about the meta-data of the analytical variables.\nDetailed information about this W4M 3-tables format is available here.\nFamiliar with Biobase formating from Bioconductor? The W4M 3-tables format is very similar to the ExpressionSets organisation of data, the main difference being that the dataMatrix table is a transposition of the assay data table:\n\n\n\nW4M format\nExpressionSets\n\n\n\n\ndataMatrix\ntransposed assay data (assayData)\n\n\nsampleMetadata\nphenotypic data (phenoData)\n\n\nvariableMetadata\nannotations and feature data (annotation)"
-  },
-  {
-    "objectID": "tooldev.html#developing-tools-in-a-w4m-approuved-format",
-    "href": "tooldev.html#developing-tools-in-a-w4m-approuved-format",
-    "title": "Tool development",
-    "section": "Developing tools in a W4M-approuved format",
-    "text": "Developing tools in a W4M-approuved format\nTODO blabla intro\n\nThe tool being wrapped\nTODO topo sur le user experience\nTODO Ajout de la ref à W4MRUtils dans le cas de codes en R.\n\n\nThe Galaxy XML wrapper\nAmong the possible variations for functional XML wrappers, W4M is willing to garantee […]\nTODO les reco W4M du XML\n\n\nDocumenting the Galaxy tool\nDocumentation in vital to any tool. Among the many advantages it provides, it enables potential users as well as already initiated ones to understand what the tool is meant for and how it can be relevantly used.\nAs you may already know, there are two distinct targets for documentation, that are equally important: - the developers’ community: people that may evaluate your tool in a ‘code and structure’ perspective, that may deploy it for others or themselves to use it, and that may also contribute to its development in the future - the users’ community: people that may test your tool in order to obtain results, that may use it for their routine or R&D works, and that may even use it for learning purpose.\nW4M supports Galaxy tools that combine these two aspects of documentation. Consequently, we highly recommend that any tool you share with our community is provided with at least basic documentation for both these target publics.\n\nDocumentation for developers\nTODO Mentionner les BP (comm etc) + dire que minimum un ReadMe mais aussi les tests pour exemple a rejouer\n\n\nDocumentation for users\nThere is a large variety of ways to provide user documentations, including embedded help files, online content and even live trainings’ supports.\nAs one of Galaxy’s goals is to provide a user-friendly environment and easy access to ressources, several channels exists that are especially designed to be efficient for users (easily found, convenient to use…).\nAs W4M, we highly recommend to consider at least the three following options.\n\nThe Galaxy tool Help section\nTODO Presenter les section mandatory et facultative\nAbout the format, you can find here a template of Help tag to help you initiating your writing with the recommanded sections and formats.\n\n\nOther Galaxy tool’s XML information usefull for users\nTODO les balises recommandees\n\n\nMaterials to provide through the Galaxy Training Network\nTODO Le fait que bon moyen de mettre en ontexte un outil + Lien vers GTN et howto GTN-build + le fait que ça apparaitra direct en bas de l’outil"
-  },
-  {
-    "objectID": "W4M_datasets/NMRMusmusculus.html",
-    "href": "W4M_datasets/NMRMusmusculus.html",
-    "title": "NMR Mus musculus dataset",
+    "objectID": "W4M_datasets/sacurine.html",
+    "href": "W4M_datasets/sacurine.html",
+    "title": "Sacurine",
     "section": "",
-    "text": "Study: This study used metabolomics—a method for determining metabolic changes in response to nutritional, pharmacological, or toxic stimuli—to examine metabolic shifts induced in vivo by perinatal exposure to low doses of BPA in CD-1 mice (see Cabaton et al. (2013)).\nDataset: The dataset contains brain samples from 24 mice pups:\n- Mothers exposed to BPA (25 or 250 ng / kg body weight / day)\n- Pups sacrificed at 21 days: brain collection\nNMR analysis was performed on a Bruker DRX-600-Avance spectrometer using an inverse detection 5mm cryoprobe attached to a cryoplatform; CPMG spin-echo pulse sequence. Fourier transformation was applied, then all spectra were phased and baseline corrected using TopSpin."
+    "text": "Study: Characterization of the physiological variations of the metabolome in biofluids is critical to understand human physiology and to avoid confounding effects in cohort studies aiming at biomarker discovery.\nDataset: In this study conducted by the MetaboHUB French Infrastructure for Metabolomics, urine samples from 184 volunteers were analyzed by reversed-phase (C18) ultrahigh performance liquid chromatography (UPLC) coupled to high-resolution mass spectrometry (LTQ-Orbitrap). A total of 258 metabolites were identified at confidence levels provided by the metabolomics standards initiative (MSI) levels 1 or 2.\nWorkflow: This history describes the statistical analysis of the data set from the negative ionization mode (113 identified metabolites at MSI levels 1 or 2): correction of signal drift (loess model built on QC pools) and batch effects (two batches), variable filtering (QC coefficent of variation &lt; 30%), normalization by the sample osmolality, log10 transformation, sample filtering (Hotelling, decile and missing pvalues &gt; 0.001) resulting in the HU_096 sample being discarded, univariate hypothesis testing of significant variations with age, BMI, or between genders (FDR &lt; 0.05), and OPLS(-DA) modeling of age, BMI and gender.\nComments: The ‘sacurine’ data set (after normalization and filtering) is also available in the ropls R package from the Bioconductor repository."
   },
   {
-    "objectID": "W4M_datasets/NMRMusmusculus.html#description",
-    "href": "W4M_datasets/NMRMusmusculus.html#description",
-    "title": "NMR Mus musculus dataset",
+    "objectID": "W4M_datasets/sacurine.html#description",
+    "href": "W4M_datasets/sacurine.html#description",
+    "title": "Sacurine",
     "section": "",
-    "text": "Study: This study used metabolomics—a method for determining metabolic changes in response to nutritional, pharmacological, or toxic stimuli—to examine metabolic shifts induced in vivo by perinatal exposure to low doses of BPA in CD-1 mice (see Cabaton et al. (2013)).\nDataset: The dataset contains brain samples from 24 mice pups:\n- Mothers exposed to BPA (25 or 250 ng / kg body weight / day)\n- Pups sacrificed at 21 days: brain collection\nNMR analysis was performed on a Bruker DRX-600-Avance spectrometer using an inverse detection 5mm cryoprobe attached to a cryoplatform; CPMG spin-echo pulse sequence. Fourier transformation was applied, then all spectra were phased and baseline corrected using TopSpin."
+    "text": "Study: Characterization of the physiological variations of the metabolome in biofluids is critical to understand human physiology and to avoid confounding effects in cohort studies aiming at biomarker discovery.\nDataset: In this study conducted by the MetaboHUB French Infrastructure for Metabolomics, urine samples from 184 volunteers were analyzed by reversed-phase (C18) ultrahigh performance liquid chromatography (UPLC) coupled to high-resolution mass spectrometry (LTQ-Orbitrap). A total of 258 metabolites were identified at confidence levels provided by the metabolomics standards initiative (MSI) levels 1 or 2.\nWorkflow: This history describes the statistical analysis of the data set from the negative ionization mode (113 identified metabolites at MSI levels 1 or 2): correction of signal drift (loess model built on QC pools) and batch effects (two batches), variable filtering (QC coefficent of variation &lt; 30%), normalization by the sample osmolality, log10 transformation, sample filtering (Hotelling, decile and missing pvalues &gt; 0.001) resulting in the HU_096 sample being discarded, univariate hypothesis testing of significant variations with age, BMI, or between genders (FDR &lt; 0.05), and OPLS(-DA) modeling of age, BMI and gender.\nComments: The ‘sacurine’ data set (after normalization and filtering) is also available in the ropls R package from the Bioconductor repository."
   },
   {
-    "objectID": "people/old_w4m/Sophie_Goulitquer.html",
-    "href": "people/old_w4m/Sophie_Goulitquer.html",
-    "title": "Sophie Goulitquer",
+    "objectID": "people/old_w4m/Christophe_Duperier.html",
+    "href": "people/old_w4m/Christophe_Duperier.html",
+    "title": "Christophe Duperier",
+    "section": "",
+    "text": "Left for a new position in cybersecurity."
+  },
+  {
+    "objectID": "people/old_w4m/Marion_Landi.html",
+    "href": "people/old_w4m/Marion_Landi.html",
+    "title": "Marion Landi",
+    "section": "",
+    "text": "Short-time contract - no longer in the W4M team."
+  },
+  {
+    "objectID": "people/old_w4m/Natacha_Lenuzza.html",
+    "href": "people/old_w4m/Natacha_Lenuzza.html",
+    "title": "Natacha Lenuzza",
     "section": "",
     "text": "No longer in the W4M team."
   },
   {
-    "objectID": "people/old_w4m/Misharl_Monsoor.html",
-    "href": "people/old_w4m/Misharl_Monsoor.html",
-    "title": "Misharl Monsoor",
+    "objectID": "people/old_w4m/Eric_Venot.html",
+    "href": "people/old_w4m/Eric_Venot.html",
+    "title": "Eric Venot",
     "section": "",
-    "text": "Short-time contract - no longer in the W4M team."
+    "text": "No longer in the W4M team."
   },
   {
-    "objectID": "people/old_w4m/Romain_Dallet.html",
-    "href": "people/old_w4m/Romain_Dallet.html",
-    "title": "Romain Dallet",
+    "objectID": "people/old_w4m/Christophe_Caron.html",
+    "href": "people/old_w4m/Christophe_Caron.html",
+    "title": "Christophe Caron",
     "section": "",
-    "text": "Short-time contract - no longer in the W4M team."
+    "text": "Gone way to early, Christophe was the main lead of Workflow4Metabolomics. That is putting it mildly to say that W4M could not have existed without him.\nYou can find a tribute to his overall contribution to science here."
   },
   {
-    "objectID": "people/old_w4m/JeanFrançois_Martin.html",
-    "href": "people/old_w4m/JeanFrançois_Martin.html",
-    "title": "Jean-François Martin",
+    "objectID": "people/old_w4m/Christophe_Caron.html#funding-father-of-workflow4metabolomics",
+    "href": "people/old_w4m/Christophe_Caron.html#funding-father-of-workflow4metabolomics",
+    "title": "Christophe Caron",
     "section": "",
-    "text": "Now retired 🏖"
+    "text": "Gone way to early, Christophe was the main lead of Workflow4Metabolomics. That is putting it mildly to say that W4M could not have existed without him.\nYou can find a tribute to his overall contribution to science here."
   },
   {
-    "objectID": "people/old_w4m/Pierre_Pericard.html",
-    "href": "people/old_w4m/Pierre_Pericard.html",
-    "title": "Pierre Péricard",
+    "objectID": "people/old_w4m/Lain_Pavot.html",
+    "href": "people/old_w4m/Lain_Pavot.html",
+    "title": "Lain Pavot",
     "section": "",
-    "text": "Short-time contract - no longer in the W4M team."
+    "text": "Left for a permanent position outside the metabolomic field."
   },
   {
-    "objectID": "people/old_w4m/Pierrick_Roge_Mele.html",
-    "href": "people/old_w4m/Pierrick_Roge_Mele.html",
-    "title": "Pierrick Roge-Mele",
+    "objectID": "people/W4Mteam/Helge_Hecht.html",
+    "href": "people/W4Mteam/Helge_Hecht.html",
+    "title": "Helge Hecht",
     "section": "",
-    "text": "Short-time contract - no longer in the W4M team."
+    "text": "MSc in Computer Science from the Technical University of Munich, focusing on machine learning, computer vision, high-performance computing, and applications in medical procedures\nPhD at RECETOX, Masaryk University, developing advanced high-throughput data processing pipelines for functional exposomics"
   },
   {
-    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html",
-    "href": "people/W4Mteam/Julien_Saint-Vanne.html",
-    "title": "Julien Saint-Vanne",
+    "objectID": "people/W4Mteam/Helge_Hecht.html#education",
+    "href": "people/W4Mteam/Helge_Hecht.html#education",
+    "title": "Helge Hecht",
     "section": "",
-    "text": "Young bioinformatician (yet) working on development of Shiny applications as principal activity. I love the development part of a tool because it is always a new challenge to share with diferent biologist and send them the tool that they need.\nI also play a lot of volley-ball and snow volley-ball during my free time ! I’m also the happy father of a little boy since 3 months and don’t sleep a lot since but I’m full of love."
+    "text": "MSc in Computer Science from the Technical University of Munich, focusing on machine learning, computer vision, high-performance computing, and applications in medical procedures\nPhD at RECETOX, Masaryk University, developing advanced high-throughput data processing pipelines for functional exposomics"
   },
   {
-    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html#education",
-    "href": "people/W4Mteam/Julien_Saint-Vanne.html#education",
-    "title": "Julien Saint-Vanne",
-    "section": "Education",
-    "text": "Education\nTechnical certificate in laboratory analysis in 2012\nMaster degree in BioInfomatic in 2017"
-  },
-  {
-    "objectID": "people/W4Mteam/Julien_Saint-Vanne.html#experience",
-    "href": "people/W4Mteam/Julien_Saint-Vanne.html#experience",
-    "title": "Julien Saint-Vanne",
+    "objectID": "people/W4Mteam/Helge_Hecht.html#experience",
+    "href": "people/W4Mteam/Helge_Hecht.html#experience",
+    "title": "Helge Hecht",
     "section": "Experience",
-    "text": "Experience\nCNRS in Roscoff as a developper of Galaxy W4M tools for MSMS analysis (from 2018 to 2019)\nONIRIS - LABERCA in Nantes as a reasearch engineer in development of Shiny application for specific compounds (2020)\nEFS - UMR1236 in Rennes as a reasearch engineer to develop application to analyze multiparametric data in cytometry\nONIRIS - LABERCA in Nantes as a research engineer to develop Shiny application, add a visualisation part in Galaxy and make some geek things in my lab."
+    "text": "Experience\nI am a researcher at the Biomarker Analytical Laboratories at RECETOX, advancing the understanding of human metabolism and chemical exposure through computational mass spectrometry methods. My work addresses reproducibility, interoperability, and the lack of standardised workflows for complex MS data: I develop computational tools — including 65+ Galaxy tools for LC-MS and GC-MS analysis and end-to-end workflows on WorkflowHub and Dockstore — and investigate the capabilities and limitations of in silico metabolite annotation via spectra prediction using quantum chemistry and deep learning. I also contribute to data standards and community training, from Galaxy training materials and workshop tutoring to teaching across multiple study programs, and currently maintain ~30 packages on CRAN, PyPI, and Bioconda, with 39 publications."
   },
   {
     "objectID": "people/W4Mteam/Loic_Legregam.html#experience",
@@ -662,14 +683,14 @@
     "href": "listing_team.html",
     "title": "W4M team",
     "section": "",
-    "text": "Here are all the participants for the development of a beautiful and usefull W4M Galaxy.\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nStatistics\n\n\n\nData processing biologist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nGalaxy\n\nPeakForest\n\n\n\nAssistant engineer in biomolecule analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\n\n\nAssociate Professor (ULB, Belgium)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nStatistics\n\n\n\nMetabolomics Research Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\n\n\nResearch Engineer in Mass Spectrometry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nBioinformatic Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nFluxomics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\nStatistics\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nStatistics\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\n\n\nEngineer in chemical ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\n\n\n??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\nMetabolomics facility manager\n\n\n\n\n\nNo matching items"
+    "text": "Here are all the participants for the development of a beautiful and usefull W4M Galaxy.\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nStatistics\n\n\n\nData processing biologist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nGalaxy\n\nPeakForest\n\n\n\nAssistant engineer in biomolecule analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\n\n\nAssociate Professor (ULB, Belgium)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nStatistics\n\n\n\nMetabolomics Research Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nBioinfo/ToolsDev\n\nWrapper (XML)\n\nGalaxy\n\n\n\nAcademic researcher in computational mass spectrometry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\n\n\nResearch Engineer in Mass Spectrometry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nBioinformatic Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nFluxomics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\nStatistics\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nStatistics\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\n\n\nEngineer in chemical ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\n\n\n??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\nMetabolomics facility manager\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "listing_team.html#current-w4m-team",
     "href": "listing_team.html#current-w4m-team",
     "title": "W4M team",
     "section": "",
-    "text": "Here are all the participants for the development of a beautiful and usefull W4M Galaxy.\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nStatistics\n\n\n\nData processing biologist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nGalaxy\n\nPeakForest\n\n\n\nAssistant engineer in biomolecule analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\n\n\nAssociate Professor (ULB, Belgium)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nStatistics\n\n\n\nMetabolomics Research Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\n\n\nResearch Engineer in Mass Spectrometry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nBioinformatic Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nFluxomics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\nStatistics\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nStatistics\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\n\n\nEngineer in chemical ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\n\n\n??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\nMetabolomics facility manager\n\n\n\n\n\nNo matching items"
+    "text": "Here are all the participants for the development of a beautiful and usefull W4M Galaxy.\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nStatistics\n\n\n\nData processing biologist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nGalaxy\n\nPeakForest\n\n\n\nAssistant engineer in biomolecule analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\n\n\nAssociate Professor (ULB, Belgium)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nStatistics\n\n\n\nMetabolomics Research Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nStatistics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nBioinfo/ToolsDev\n\nWrapper (XML)\n\nGalaxy\n\n\n\nAcademic researcher in computational mass spectrometry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\n\n\nResearch Engineer in Mass Spectrometry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nBioinformatic Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nFluxomics\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRMN\n\nStatistics\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nStatistics\n\nWrapper (XML)\n\nBioinfo/ToolsDev\n\nGalaxy\n\n\n\nEngineer in Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\n???\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\n\n\nEngineer in chemical ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nMSMS\n\nWrapper (XML)\n\nHPC\n\nBioinfo/ToolsDev\n\n\n\n??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLCMS\n\nGCMS\n\nMSMS\n\nBioinfo/ToolsDev\n\nGalaxy\n\nPeakForest\n\n\n\nMetabolomics facility manager\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "listing_team.html#previous-collaborators",
