@@ -8,7 +8,7 @@ library(leafpop)
 library(leafem)
 
 setwd("./LABERCA/W4M/workflow4metabolomics/")
-logo <- "https://avatars.githubusercontent.com/u/17082156?s=200&v=4"
+logo <- "https://raw.githubusercontent.com/workflow4metabolomics/website/refs/heads/main/images/logo/W4M_short_logo.jpg"
 people <- read.xlsx("./people_location.xlsx")
 people$lon <- as.double(people$lon)
 people$lat <- as.double(people$lat)
@@ -26,5 +26,5 @@ map_labs <- sf_polygon(labs, x = "lon", y = "lat", polygon_id = "lab")
 #   addMarkers(~lon, ~lat)
 #popup = popupImage(img, src = "remote")) 
 
-leaflet(data = people) %>% addTiles() %>% leafem::addLogo(logo, url = "https://jsaintvanne.github.io/workflow4metabolomics/") %>%
+leaflet(data = people) %>% addTiles() %>% leafem::addLogo(logo, url = "https://workflow4metabolomics.github.io/website/") %>%
   addMarkers(~lon, ~lat, popup = paste0(people$people,"<hr>","text1<br>LAlala:", people$city))# %>% addPolygons(map_labs)
