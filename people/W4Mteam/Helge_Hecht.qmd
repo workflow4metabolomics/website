@@ -1,0 +1,30 @@
+---
+title: "Helge Hecht"
+image: "https://avatars.githubusercontent.com/u/12066490?v=4"
+description: Academic researcher in computational mass spectrometry
+categories:
+    - LCMS
+    - GCMS
+    - Bioinfo/ToolsDev
+    - Wrapper (XML)
+    - Galaxy
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: "https://www.linkedin.com/in/helge-hecht-493949192/"
+    - icon: github
+      text: Github
+      href: "https://github.com/hechth"
+---
+
+## Education
+
+**MSc in Computer Science** from the Technical University of Munich, focusing on machine learning, computer vision, high-performance computing, and applications in medical procedures
+
+**PhD** at RECETOX, Masaryk University, developing advanced high-throughput data processing pipelines for functional exposomics
+
+## Experience
+
+I am a researcher at the Biomarker Analytical Laboratories at RECETOX, advancing the understanding of human metabolism and chemical exposure through computational mass spectrometry methods. My work addresses reproducibility, interoperability, and the lack of standardised workflows for complex MS data: I develop computational tools — including 65+ Galaxy tools for LC-MS and GC-MS analysis and end-to-end workflows on WorkflowHub and Dockstore — and investigate the capabilities and limitations of *in silico* metabolite annotation via spectra prediction using quantum chemistry and deep learning. I also contribute to data standards and community training, from Galaxy training materials and workshop tutoring to teaching across multiple study programs, and currently maintain ~30 packages on CRAN, PyPI, and Bioconda, with 39 publications.
