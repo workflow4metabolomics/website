@@ -8,7 +8,7 @@ listing:
         path: "https://workflow4metabolomics.usegalaxy.fr"
         description: "Here is the Galaxy workflow4metabolomics website"
       - title: "Teaching school"
-        image: "/images/W4E_logo_badquality.png"
+        image: "/images/logo/W4E_short_logo.jpg"
         path: "news.qmd"
         description: "Let's check the teaching school of W4M"
     type: grid
@@ -50,9 +50,19 @@ listing:
 
 ::: callout-important
 
-![](/images/W4M-News-Breaking.png){height="6em"}
+![](/images/W4M-News-Breaking.png){height="4em"}
 
-Workflow4Metabolomics freshens up: new website, but also new logo! Ensure you keep your goodies with the old logo safe, it is now vintage :)
+Save the date! ![](/images/logo/W4E_long_logo.jpg){height="1em"} is back again in 2027. 
+It will take place in Rennes (France) in Spring 2027. 
+Online session: April 5 – 9th 2027. 
+On-site session: Rennes, April 26 – 30th 2027. 
+
+More information on the <a href="W4E/w4e2027.qmd">dedicated event page</a>. 
+:::
+
+::: callout-important
+
+![](/images/W4M-News-Breaking.png){height="6em"} Workflow4Metabolomics freshens up: new website, but also new logo! Ensure you keep your goodies with the old logo safe, it is now vintage :)
 :::
 
 Welcome to the **collaborative portal of** ![](/images/W4M_icon.svg){height="1em"} dedicated to metabolomics data processing, analysis and annotation for the **Metabolomics community**. On this website you will find information on our **main missions** as well as **users** and **developpers guides**.
