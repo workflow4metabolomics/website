@@ -1,7 +1,7 @@
 ---
 title: "Etienne Thévenot"
 image: "https://avatars.githubusercontent.com/u/19306842?v=4"
-description: ???
+description: No description available
 categories: 
     - LCMS
     - GCMS
@@ -15,6 +15,4 @@ about:
       href: "https://github.com/ethevenot"
 ---
 
-## Education
-
-## Experience
+No description available

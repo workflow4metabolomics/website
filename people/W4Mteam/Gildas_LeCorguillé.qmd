@@ -1,7 +1,7 @@
 ---
 title: "Gildas Le Corguillé"
 image: "https://media.licdn.com/dms/image/C5603AQEK3fH7Zkm2GA/profile-displayphoto-shrink_200_200-alternative/0/1529329339807?e=2147483647&v=beta&t=uizCs9qTJCyi9loJBDKLNP846hGfPJez2LKSDF_3TnA"
-description: ???
+description: Research Engineer, Life Sciences Computing Infrastructure Manager
 categories: 
     - Wrapper (XML)
     - HPC
@@ -16,8 +16,18 @@ about:
     - icon: github
       text: Github
       href: "https://github.com/lecorguille"
+    - icon: ORCiD
+      text: ORCiD
+      href: " https://orcid.org/0000-0003-1742-9711"
 ---
 
+As a research engineer at the Roscoff Biological Station, I specialise in providing e-infrastructure, such as offering access to HPC computing facilities. This has centred in particular on the Galaxy Framework, to which my first contribution was for the Workflow4Metabolomics project. Since then, assigned in part to the French Institute of Bioinformatics (IFB), I have been co-lead for both the IFB Core Cluster national computing infrastructure and the UseGalaxy.Fr instance. 
+
 ## Education
+Master degree in Bioinformatics in 2005
 
 ## Experience
+**Sorbonne Université – Roscoff Marine Station** in Roscoff (29) as Technical leader (ABiMS plateform) (2006 – present)
+
+**French Institute of Bioinformatics (IFB)** as Co-leader of the French National IFB Core Cluster  (2018 – present)
+

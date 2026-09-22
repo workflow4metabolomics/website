@@ -1,7 +1,7 @@
 ---
 title: "Cécile Canlet"
 image: "https://mth-metatoul.com/wp-content/uploads/2023/05/Cecile_CANLET.png"
-description: ???
+description: Research Engineer in NMR-based metabolomics
 categories: 
     - RMN
 about:
@@ -10,8 +10,21 @@ about:
     - icon: researchgate
       text: Research Gate
       href: "https://www.researchgate.net/profile/Cecile-Canlet"
+    - icon: linkedin
+      text: Linkedin
+      href: "https://www.linkedin.com/in/cecile-canlet-659092a2/"
+
 ---
+
+Research Engineer in NMR spectroscopy working on development of methods based on 1D and 2D NMR sequences for metabolomic projects in the field of food toxicology. 
 
 ## Education
 
+**Ph.D** in chemistry in 1999
+
 ## Experience
+
+**INRAE – Toxalim Laboratory** in Toulouse (31) as Research Engineer in NMR spectroscopy for Metabolomics, metabolomics facility manager since 2023 (2001 – present)
+
+**University of Oklahoma – Chemistry Service** Norma (USA) as Research Chemist in NMR of liquid crystals (1999-2000)
+
