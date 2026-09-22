@@ -1,6 +1,6 @@
 ---
 title: "Franck Giacomoni"
-image: "https://media.licdn.com/dms/image/C4E03AQF4I6WYpVlGFw/profile-displayphoto-shrink_200_200/0/1516533988638?e=2147483647&v=beta&t=TQ1qb2k25rQLA6SCCpkimD0j6upxRtIoP93RC-T_fjE"
+image: "https://media.licdn.com/dms/image/v2/C4E03AQF4I6WYpVlGFw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516533988638?e=2147483647&v=beta&t=QGmYc_j1D9m1UT8ujXQ4w2cLCks3xpjaI9Jaa3Xaw34"
 description: No description available
 categories: 
     - LCMS
