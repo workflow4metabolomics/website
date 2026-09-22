@@ -1,7 +1,7 @@
 ---
 title: "Sylvain Dechaumet"
 image: "https://avatars.githubusercontent.com/u/29856567?v=4"
-description: ??
+description: Researcher in Data Sciences
 categories: 
     - LCMS
     - MSMS
@@ -19,6 +19,14 @@ about:
       href: "https://github.com/sdechaumet"
 ---
 
-## Education
+Researcher in Data Sciences applied to Mass Spectrometry based Metabolomics with a deep focus on signal processing, data treatment, high-throughput and efficient analytical pipelines.
 
 ## Experience
+
+**2022 – now CEA / LI-MS / Odiscé** Researcher in Data Sciences
+
+**2020-2022 CEA / LI-MS / Odiscé** Post-Doc on high-throughput Metabolomics applied to liver failure ([Microb-Predict]( https://microb-predict.eu/)).
+
+**2018-2020 MedDay Pharmaceuticals** Researcher in Metabolomics and Bioinformatic team Leader
+
+**2015-2018 IGEPP (INRAE/Univ. Rennes/AgroCampus Ouest)** PhD Student [Metabolic Dissection of Leaf Senescence and Nutrient Remobilization in Oilseed Rape (Brassica napus)](https://theses.fr/2018NSARC133)

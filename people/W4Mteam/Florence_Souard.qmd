@@ -1,6 +1,6 @@
 ---
 title: "Florence Souard"
-image: "https://media.licdn.com/dms/image/C5103AQFOqvjSCvt5Iw/profile-displayphoto-shrink_100_100/0/1517427295367?e=2147483647&v=beta&t=w8f_mhWTt2CPNlqYiGLdVtRNmZkEhx71UBArIsg8ab0"
+image: "https://media.licdn.com/dms/image/v2/C5103AQFOqvjSCvt5Iw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517427295367?e=2147483647&v=beta&t=lVMB6xcg8Fkg5kj31sybGiyIdjA_NjBm21-Mqj8M7JI"
 description: No description available
 categories: 
     - LCMS

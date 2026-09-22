@@ -1,6 +1,6 @@
 ---
 title: "Sylvain Chéreau"
-image: "https://media.licdn.com/dms/image/C5603AQGFRRfn3v1PiA/profile-displayphoto-shrink_200_200/0/1618990111037?e=2147483647&v=beta&t=LBgWpLziVzgqwDy4EhmpD-69uK9xKuH37_sXP1GsajI"
+image: "https://i1.rgstatic.net/ii/profile.image/1014931612762115-1618989961884_Q512/Sylvain-Chereau.jpg"
 description: Engineer in chemical ecology
 categories: 
     - LCMS

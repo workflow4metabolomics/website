@@ -1,0 +1,29 @@
+---
+title: "Etienne Jules"
+image: "https://media.licdn.com/dms/image/v2/C5603AQFDhq2Q7vlYng/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517811738298?e=2147483647&v=beta&t=wGxCRf2iThELY0WjjuNj6CSpVDuJQYau_3q-wv9vvBY"
+description: Research engineer in data science for mass spectrometry metabolomics
+categories: 
+    - LCMS
+    - Statistics
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: Linkedin
+      href: "https://www.linkedin.com/in/etienne-jules-7b0b92110/"
+
+---
+
+Research engineer in data science for mass spectrometry metabolomics working on research projects in metabolomics mainly for human nutrition science. Focused on improving data preprocessing, statistical analysis and developping new methods for the analysis of longitudinal metabolomics studies data. 
+## Education
+
+**Engineer** in computer and data science in 2018
+**Phd** in computer science in 2024
+
+## Experience
+
+**INRAE** in Saint-Genes-Champanelle (63) as Research engineer in data science for mass spectrometry metabolomics (2024 – present)
+
+**Institut Pascal** in Aubière (63) as PhD student in computer science : Machine Learning-Based Multivariate Time Series Analysis For Health Monitoring And Prognostics Of Complex Systems (2020 - 2024)
+
+**Spectral** in Amsterdam (NL- Noord-Holland) as full stack software engineer and data scientist (2018 - 2020)
