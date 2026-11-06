@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.11.9">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -40,14 +40,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8b4acc9e858250717d89728bfb1b0732.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a37a097b08b17b5726a4d7cb674dbc08.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -97,12 +98,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
@@ -125,12 +120,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   </script>
 <link href="site_libs/htmltools-fill-0.5.9/fill.css" rel="stylesheet">
 <script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
@@ -190,16 +179,14 @@ window.Quarto = {
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://workflow4metabolomics.github.io/website/images/logo/main infra/logo_inrae.png">
 <meta name="twitter:image:alt" content="logo inrae">
-<meta name="twitter:image-height" content="442">
-<meta name="twitter:image-width" content="1225">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark" aria-label="Site">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
@@ -210,8 +197,7 @@ window.Quarto = {
     <span class="navbar-title">Workflow4Metabolomics</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -319,6 +305,7 @@ window.Quarto = {
       </ul>
     </div>
 </div>
+            <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -327,7 +314,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+        <nav id="TOC" role="doc-toc" aria-labelledby="toc-title" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
@@ -341,7 +328,7 @@ window.Quarto = {
 </nav>
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(34)</span></div><div class="category" data-category="QWRtaW4=">Admin <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QmlvaW5mbyUyRlRvb2xzRGV2">Bioinfo/ToolsDev <span class="quarto-category-count">(9)</span></div><div class="category" data-category="YmlvaW5mbyUyRnRvb2xzZGV2">bioinfo/toolsdev <span class="quarto-category-count">(7)</span></div><div class="category" data-category="YmlvbG9neQ==">biology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29tcHV0ZXIlMjBzY2llbmNl">Computer science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2FsYXh5">Galaxy <span class="quarto-category-count">(9)</span></div><div class="category" data-category="R0NNUw==">GCMS <span class="quarto-category-count">(6)</span></div><div class="category" data-category="SFBD">HPC <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TENNUw==">LCMS <span class="quarto-category-count">(15)</span></div><div class="category" data-category="TVNNUw==">MSMS <span class="quarto-category-count">(10)</span></div><div class="category" data-category="UGVha0ZvcmVzdA==">PeakForest <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Uk1O">RMN <span class="quarto-category-count">(2)</span></div><div class="category" data-category="U3RhdGlzdGljcw==">Statistics <span class="quarto-category-count">(6)</span></div><div class="category" data-category="c3RhdGlzdGljcw==">statistics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VzRNJTIwZnVuZGluZyUyMGZhdGhlcg==">W4M funding father <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V3JhcHBlciUyMChYTUwp">Wrapper (XML) <span class="quarto-category-count">(7)</span></div></div></div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content" tabindex="-1">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -367,8 +354,8 @@ window.Quarto = {
 <p>Here are all the participants for the development of a beautiful and usefull W4M Galaxy.</p>
 <div id="listing-current" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1790094971300" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="./people/W4Mteam/Axelle_Bourez.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="./people/W4Mteam/Axelle_Bourez.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://raw.githubusercontent.com/workflow4metabolomics/website/refs/heads/main/images/Bust_icon.png" class="thumbnail-image card-img" style="height: 200px;">
@@ -377,14 +364,14 @@ window.Quarto = {
 <h5 class="no-anchor card-title listing-title">
 Axelle Bourez
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 No description available
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TENNUyUyQ01TTVMlMkNTdGF0aXN0aWNz" data-listing-file-modified-sort="1790094971300" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
-<a href="./people/W4Mteam/Binta_Diémé.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="TENNUyUyQ01TTVMlMkNTdGF0aXN0aWNz" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<a href="./people/W4Mteam/Binta_Diémé.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://media.licdn.com/dms/image/v2/D4D03AQGX1sj9kJl8LA/profile-displayphoto-shrink_200_200/B4DZSJP4vYG4Ac-/0/1737469431123?e=2147483647&amp;v=beta&amp;t=dxIJtO8KFdh8tv3j1PvbS1YKtT9nfF1JHNCocOMvhHg" class="thumbnail-image card-img" style="height: 200px;">
@@ -402,14 +389,14 @@ Binta Diémé
 <div class="listing-category" onclick="window.quartoListingCategory('U3RhdGlzdGljcw=='); return false;">Statistics</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Data processing biologist</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="TENNUyUyQ01TTVMlMkNHYWxheHklMkNQZWFrRm9yZXN0" data-listing-file-modified-sort="1790094971300" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
-<a href="./people/W4Mteam/Charlotte_Joly.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-categories="TENNUyUyQ01TTVMlMkNHYWxheHklMkNQZWFrRm9yZXN0" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
+<a href="./people/W4Mteam/Charlotte_Joly.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://media.licdn.com/dms/image/v2/C5603AQEKReXck6r6SA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516787788025?e=2147483647&amp;v=beta&amp;t=cBBfare0dZDeNkNxCY69cRrRdUzwCunHaXuJfNHisBE" class="thumbnail-image card-img" style="height: 200px;">
@@ -429,14 +416,14 @@ Charlotte Joly
 <div class="listing-category" onclick="window.quartoListingCategory('UGVha0ZvcmVzdA=='); return false;">PeakForest</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Assistant engineer in biomolecule analysis</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="Uk1O" data-listing-file-modified-sort="1790094971300" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
-<a href="./people/W4Mteam/Cécile_Canlet.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-categories="Uk1O" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
+<a href="./people/W4Mteam/Cécile_Canlet.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://mth-metatoul.com/wp-content/uploads/2023/05/Cecile_CANLET.png" class="thumbnail-image card-img" style="height: 200px;">
@@ -450,14 +437,14 @@ Cécile Canlet
 <div class="listing-category" onclick="window.quartoListingCategory('Uk1O'); return false;">RMN</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Research Engineer in NMR-based metabolomics</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="TENNUyUyQ01TTVM=" data-listing-file-modified-sort="1790094971300" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
-<a href="./people/W4Mteam/Cédric_Delporte.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-categories="TENNUyUyQ01TTVM=" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
+<a href="./people/W4Mteam/Cédric_Delporte.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://i1.rgstatic.net/ii/profile.image/272359223459887-1441946908011_Q512/Cedric-Delporte.jpg" class="thumbnail-image card-img" style="height: 200px;">
@@ -473,14 +460,14 @@ Cédric Deplorte
 <div class="listing-category" onclick="window.quartoListingCategory('TVNNUw=='); return false;">MSMS</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Associate Professor (ULB, Belgium)</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="TENNUyUyQ1N0YXRpc3RpY3M=" data-listing-file-modified-sort="1790094971300" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
-<a href="./people/W4Mteam/Céline_Dalle.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-categories="TENNUyUyQ1N0YXRpc3RpY3M=" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
+<a href="./people/W4Mteam/Céline_Dalle.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://media.licdn.com/dms/image/v2/C5103AQEamNwKi--fAg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517340697546?e=2147483647&amp;v=beta&amp;t=y5_T4sTyHHGUdXWZBogWUFI4EnNX5V3zA2qhrAz5JBc" class="thumbnail-image card-img" style="height: 200px;">
@@ -496,14 +483,14 @@ Céline Dalle
 <div class="listing-category" onclick="window.quartoListingCategory('U3RhdGlzdGljcw=='); return false;">Statistics</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Metabolomics Research Engineer</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="QWRtaW4=" data-listing-file-modified-sort="1790094971300" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="./people/W4Mteam/David_Benaben.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="6" data-categories="QWRtaW4=" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="./people/W4Mteam/David_Benaben.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://raw.githubusercontent.com/workflow4metabolomics/website/refs/heads/main/images/Bust_icon.png" class="thumbnail-image card-img" style="height: 200px;">
@@ -517,14 +504,14 @@ David Benaben
 <div class="listing-category" onclick="window.quartoListingCategory('QWRtaW4='); return false;">Admin</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 IFB-related IT support
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="TENNUyUyQ1N0YXRpc3RpY3M=" data-listing-file-modified-sort="1790094971300" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
-<a href="./people/W4Mteam/Etienne_Jules.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="7" data-categories="TENNUyUyQ1N0YXRpc3RpY3M=" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
+<a href="./people/W4Mteam/Etienne_Jules.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://media.licdn.com/dms/image/v2/C5603AQFDhq2Q7vlYng/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517811738298?e=2147483647&amp;v=beta&amp;t=wGxCRf2iThELY0WjjuNj6CSpVDuJQYau_3q-wv9vvBY" class="thumbnail-image card-img" style="height: 200px;">
@@ -540,14 +527,14 @@ Etienne Jules
 <div class="listing-category" onclick="window.quartoListingCategory('U3RhdGlzdGljcw=='); return false;">Statistics</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Research engineer in data science for mass spectrometry metabolomics</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="TENNUyUyQ0dDTVMlMkNNU01TJTJDU3RhdGlzdGljcw==" data-listing-file-modified-sort="1790094971300" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="./people/W4Mteam/Etienne_Thévenot.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="8" data-categories="TENNUyUyQ0dDTVMlMkNNU01TJTJDU3RhdGlzdGljcw==" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="./people/W4Mteam/Etienne_Thévenot.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/19306842?v=4" class="thumbnail-image card-img" style="height: 200px;">
@@ -567,14 +554,14 @@ Etienne Thévenot
 <div class="listing-category" onclick="window.quartoListingCategory('U3RhdGlzdGljcw=='); return false;">Statistics</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>No description available</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="TENNUyUyQ0dDTVMlMkNNU01T" data-listing-file-modified-sort="1790094971300" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="./people/W4Mteam/Florence_Souard.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="9" data-categories="TENNUyUyQ0dDTVMlMkNNU01T" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="./people/W4Mteam/Florence_Souard.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://media.licdn.com/dms/image/v2/C5103AQFOqvjSCvt5Iw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517427295367?e=2147483647&amp;v=beta&amp;t=lVMB6xcg8Fkg5kj31sybGiyIdjA_NjBm21-Mqj8M7JI" class="thumbnail-image card-img" style="height: 200px;">
@@ -592,14 +579,14 @@ Florence Souard
 <div class="listing-category" onclick="window.quartoListingCategory('TVNNUw=='); return false;">MSMS</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>No description available</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="V3JhcHBlciUyMChYTUwpJTJDSFBDJTJDQmlvaW5mbyUyRlRvb2xzRGV2JTJDR2FsYXh5" data-listing-file-modified-sort="1790094971300" data-listing-reading-time-sort="1" data-listing-word-count-sort="110">
-<a href="./people/W4Mteam/Gildas_LeCorguillé.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="10" data-categories="V3JhcHBlciUyMChYTUwpJTJDSFBDJTJDQmlvaW5mbyUyRlRvb2xzRGV2JTJDR2FsYXh5" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="110">
+<a href="./people/W4Mteam/Gildas_LeCorguillé.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/11072022?v=4" class="thumbnail-image card-img" style="height: 200px;">
@@ -619,14 +606,14 @@ Gildas Le Corguillé
 <div class="listing-category" onclick="window.quartoListingCategory('R2FsYXh5'); return false;">Galaxy</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Research Engineer, Life Sciences Computing Infrastructure Manager</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="11" data-categories="TENNUyUyQ0dDTVMlMkNCaW9pbmZvJTJGVG9vbHNEZXYlMkNXcmFwcGVyJTIwKFhNTCklMkNHYWxheHk=" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="153">
-<a href="./people/W4Mteam/Helge_Hecht.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="11" data-categories="TENNUyUyQ0dDTVMlMkNCaW9pbmZvJTJGVG9vbHNEZXYlMkNXcmFwcGVyJTIwKFhNTCklMkNHYWxheHk=" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="153">
+<a href="./people/W4Mteam/Helge_Hecht.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/12066490?v=4" class="thumbnail-image card-img" style="height: 200px;">
@@ -648,14 +635,14 @@ Helge Hecht
 <div class="listing-category" onclick="window.quartoListingCategory('R2FsYXh5'); return false;">Galaxy</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Academic researcher in computational mass spectrometry</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="12" data-categories="TENNUyUyQ01TTVM=" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
-<a href="./people/W4Mteam/Isabelle_Schmitz.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="12" data-categories="TENNUyUyQ01TTVM=" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
+<a href="./people/W4Mteam/Isabelle_Schmitz.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://i1.rgstatic.net/ii/profile.image/11431281182238812-1692343501206_Q128/Isabelle-Schmitz.jpg" class="thumbnail-image card-img" style="height: 200px;">
@@ -671,14 +658,14 @@ Isabelle Schmitz
 <div class="listing-category" onclick="window.quartoListingCategory('TVNNUw=='); return false;">MSMS</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Research Engineer in Mass Spectrometry</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="13" data-categories="Uk1OJTJDU3RhdGlzdGljcyUyQ1dyYXBwZXIlMjAoWE1MKSUyQ0Jpb2luZm8lMkZUb29sc0RldiUyQ0dhbGF4eQ==" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
-<a href="./people/W4Mteam/Marie_Tremblay-Franco.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="13" data-categories="Uk1OJTJDU3RhdGlzdGljcyUyQ1dyYXBwZXIlMjAoWE1MKSUyQ0Jpb2luZm8lMkZUb29sc0RldiUyQ0dhbGF4eQ==" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
+<a href="./people/W4Mteam/Marie_Tremblay-Franco.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/17181264?v=4" class="thumbnail-image card-img" style="height: 200px;">
@@ -700,14 +687,14 @@ Marie Tremblay-Franco
 <div class="listing-category" onclick="window.quartoListingCategory('R2FsYXh5'); return false;">Galaxy</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Engineer in Statistics</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="14" data-categories="TENNUyUyQ1N0YXRpc3RpY3MlMkNXcmFwcGVyJTIwKFhNTCklMkNCaW9pbmZvJTJGVG9vbHNEZXYlMkNHYWxheHk=" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
-<a href="./people/W4Mteam/Mélanie_Pétéra.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="14" data-categories="TENNUyUyQ1N0YXRpc3RpY3MlMkNXcmFwcGVyJTIwKFhNTCklMkNCaW9pbmZvJTJGVG9vbHNEZXYlMkNHYWxheHk=" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<a href="./people/W4Mteam/Mélanie_Pétéra.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/20553061?v=4" class="thumbnail-image card-img" style="height: 200px;">
@@ -729,14 +716,14 @@ Mélanie Pétéra
 <div class="listing-category" onclick="window.quartoListingCategory('R2FsYXh5'); return false;">Galaxy</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Engineer in Statistics</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="15" data-categories="QmlvaW5mbyUyRlRvb2xzRGV2JTJDR2FsYXh5JTJDUGVha0ZvcmVzdA==" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="./people/W4Mteam/Nils_Paulhe.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="15" data-categories="QmlvaW5mbyUyRlRvb2xzRGV2JTJDR2FsYXh5JTJDUGVha0ZvcmVzdA==" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="./people/W4Mteam/Nils_Paulhe.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://peakforest.org/sites/default/files/inline-images/paulhe_nils_300%2A452.png" class="thumbnail-image card-img" style="height: 200px;">
@@ -754,14 +741,14 @@ Nils Paulhe
 <div class="listing-category" onclick="window.quartoListingCategory('UGVha0ZvcmVzdA=='); return false;">PeakForest</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>No description available</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="16" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="./people/W4Mteam/Ralf_Weber.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="16" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="./people/W4Mteam/Ralf_Weber.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://www.birmingham.ac.uk/Images/College-LES-only/biosciences/phenome-centre/team-photos/Ralf-Weber-2.png" class="thumbnail-image card-img" style="height: 200px;">
@@ -770,14 +757,14 @@ Nils Paulhe
 <h5 class="no-anchor card-title listing-title">
 Ralf Weber
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 No description available
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="17" data-categories="TENNUyUyQ0dDTVMlMkNNU01T" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="152">
-<a href="./people/W4Mteam/Sylvain_Chéreau.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="17" data-categories="TENNUyUyQ0dDTVMlMkNNU01T" data-listing-file-modified-sort="1793984830363" data-listing-reading-time-sort="1" data-listing-word-count-sort="152">
+<a href="./people/W4Mteam/Sylvain_Chéreau.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://i1.rgstatic.net/ii/profile.image/1014931612762115-1618989961884_Q512/Sylvain-Chereau.jpg" class="thumbnail-image card-img" style="height: 200px;">
@@ -795,14 +782,14 @@ Sylvain Chéreau
 <div class="listing-category" onclick="window.quartoListingCategory('TVNNUw=='); return false;">MSMS</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Engineer in chemical ecology</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="18" data-categories="TENNUyUyQ01TTVMlMkNXcmFwcGVyJTIwKFhNTCklMkNIUEMlMkNCaW9pbmZvJTJGVG9vbHNEZXY=" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
-<a href="./people/W4Mteam/Sylvain_Dechaumet.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="18" data-categories="TENNUyUyQ01TTVMlMkNXcmFwcGVyJTIwKFhNTCklMkNIUEMlMkNCaW9pbmZvJTJGVG9vbHNEZXY=" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
+<a href="./people/W4Mteam/Sylvain_Dechaumet.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/29856567?v=4" class="thumbnail-image card-img" style="height: 200px;">
@@ -824,14 +811,14 @@ Sylvain Dechaumet
 <div class="listing-category" onclick="window.quartoListingCategory('QmlvaW5mbyUyRlRvb2xzRGV2'); return false;">Bioinfo/ToolsDev</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Researcher in Data Sciences</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="19" data-categories="TENNUyUyQ0dDTVMlMkNNU01TJTJDQmlvaW5mbyUyRlRvb2xzRGV2JTJDR2FsYXh5JTJDUGVha0ZvcmVzdA==" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
-<a href="./people/W4Mteam/Yann_Guitton.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="19" data-categories="TENNUyUyQ0dDTVMlMkNNU01TJTJDQmlvaW5mbyUyRlRvb2xzRGV2JTJDR2FsYXh5JTJDUGVha0ZvcmVzdA==" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
+<a href="./people/W4Mteam/Yann_Guitton.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/5373737?v=4" class="thumbnail-image card-img" style="height: 200px;">
@@ -855,7 +842,7 @@ Yann Guitton
 <div class="listing-category" onclick="window.quartoListingCategory('UGVha0ZvcmVzdA=='); return false;">PeakForest</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Metabolomics facility manager</p>
 </div>
 </div>
@@ -868,8 +855,8 @@ Yann Guitton
 <h3 class="anchored" data-anchor-id="where-are-we-working">Where are we working ?</h3>
 <div class="cell" data-context="output">
 <div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-9a15eb70002981c57b43" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-9a15eb70002981c57b43">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addProviderTiles","args":["OpenStreetMap.Mapnik",null,null,{"errorTileUrl":"","noWrap":false,"detectRetina":false}]},{"method":"addMarkers","args":[[4.3823,45.7717170715332,45.7717170715332,43.6022883,4.3823,48.60461044311523,48.72471552437846,4.3823,45.7717170715332,48.7268,49.1936,49.45954185413736,43.6022883,45.7717170715332,45.7717170715332,52.4508,48.10940456692299,48.72471552437846,47.28953],[4.3823,3.073432922363281,3.073432922363281,1.373884,4.3823,2.322339057922363,2.148791155648477,4.3823,3.073432922363281,-3.98708,16.6033,1.071152225809878,1.373884,3.073432922363281,3.073432922363281,-1.9305,-1.793246827297961,2.148791155648477,-1.52524],{"iconUrl":{"data":"https://cdn1.iconfinder.com/data/icons/working-at-office/90/activity-work_at_office-working-people-man-23-512.png","index":0},"iconWidth":50,"iconHeight":50},null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},["<b><a href=/workflow4metabolomics/people/W4Mteam/Axelle_Bourez.html>Axelle Bourez<\/a><\/b> <br>ULB","<b><a href=/workflow4metabolomics/people/W4Mteam/Binta_Diémé.html>Binta Diémé<\/a><\/b> <br>PFEM","<b><a href=/workflow4metabolomics/people/W4Mteam/Charlotte_Joly.html>Charlotte Joly<\/a><\/b> <br>PFEM","<b><a href=/workflow4metabolomics/people/W4Mteam/Cécile_Canlet.html>Cécile Canlet<\/a><\/b> <br>TOXALIM","<b><a href=/workflow4metabolomics/people/W4Mteam/Cédric_Delporte.html>Cédric Delporte<\/a><\/b> <br>ULB","<b><a href=/workflow4metabolomics/people/W4Mteam/Céline_Dalle.html>Céline Dalle<\/a><\/b> <br>IRBA","<b><a href=/workflow4metabolomics/people/W4Mteam/Etienne_Thévenot.html>Etienne Thévenot<\/a><\/b> <br>CEA","<b><a href=/workflow4metabolomics/people/W4Mteam/Florence_Souard.html>Florence Souard<\/a><\/b> <br>ULB","<b><a href=/workflow4metabolomics/people/W4Mteam/Etienne_Jules.html>Etienne Jules<\/a><\/b> <br>PFEM","<b><a href=/workflow4metabolomics/people/W4Mteam/Gildas_LeCorguillé.html>Gildas LeCorguillé<\/a><\/b> <br>ABiMS","<b><a href=/workflow4metabolomics/people/W4Mteam/Helge_Hecht.html>Helge Hecht<\/a><\/b> <br>RECETOX","<b><a href=/workflow4metabolomics/people/W4Mteam/Isabelle_Schmitz.html>Isabelle Schmitz<\/a><\/b> <br>PBS","<b><a href=/workflow4metabolomics/people/W4Mteam/Marie_Tremblay-Franco.html>Marie Tremblay-Franco<\/a><\/b> <br>Toxalim","<b><a href=/workflow4metabolomics/people/W4Mteam/Mélanie_Pétéra.html>Mélanie Pétéra<\/a><\/b> <br>PFEM","<b><a href=/workflow4metabolomics/people/W4Mteam/Nils_Paulhe.html>Nils Paulhe<\/a><\/b> <br>PFEM","<b><a href=/workflow4metabolomics/people/W4Mteam/Ralf_Weber.html>Ralf Weber<\/a><\/b> <br>PCB","<b><a href=/workflow4metabolomics/people/W4Mteam/Sylvain_Chéreau.html>Sylvain Chéreau<\/a><\/b> <br>IGEPP","<b><a href=/workflow4metabolomics/people/W4Mteam/Sylvain_Dechaumet.html>Sylvain Dechaumet<\/a><\/b> <br>CEA","<b><a href=/workflow4metabolomics/people/W4Mteam/Yann_Guitton.html>Yann Guitton<\/a><\/b> <br>LABERCA"],null,{"showCoverageOnHover":true,"zoomToBoundsOnClick":true,"spiderfyOnMaxZoom":true,"removeOutsideVisibleBounds":true,"spiderLegPolylineOptions":{"weight":1.5,"color":"#222","opacity":0.5},"freezeAtZoom":false,"iconCreateFunction":"function (cluster) {    \n                                  var childCount = cluster.getChildCount(); \n                                  var c = ' marker-cluster-';  \n                                  if (childCount > 10) {  \n                                    c += 'large';  \n                                  } else if (childCount > 5) {  \n                                    c += 'medium';  \n                                  } else { \n                                    c += 'small';  \n                                  }    \n                                  return new L.DivIcon({ html: '<div><span>' + childCount + '<\/span><\/div>', className: 'marker-cluster' + c, iconSize: new L.Point(40, 40) });\n\n  }"},null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addEasyButton","args":[{"icon":"ion-arrow-shrink","title":"Reset View","onClick":"function(btn, map){ map.setView(map._initialCenter, map._initialZoom); }","position":"topleft"}]},{"method":"addLogo","args":["https://avatars.githubusercontent.com/u/17082156?s=200&v=4","1790095085.04842",{"alpha":1,"url":"https://jsaintvanne.github.io/workflow4metabolomics/","position":"topleft","offsetX":50,"offsetY":13,"width":60,"height":60}]}],"limits":{"lat":[4.3823,52.4508],"lng":[-3.98708,16.6033]}},"evals":["calls.1.args.8.iconCreateFunction","calls.2.args.0.onClick"],"jsHooks":{"render":[{"code":"function(el, x, data) {\n  return (\nfunction(el, x){\n  var map = this;\n  map.whenReady(function(){\n    map._initialCenter = map.getCenter();\n    map._initialZoom = map.getZoom();\n  });\n}).call(this.getMap(), el, x, data);\n}","data":null}]}}</script>
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-349c3d3a5abe4d441436" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-349c3d3a5abe4d441436">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addProviderTiles","args":["OpenStreetMap.Mapnik",null,null,{"errorTileUrl":"","noWrap":false,"detectRetina":false}]},{"method":"addMarkers","args":[[4.3823,45.7717170715332,45.7717170715332,43.6022883,4.3823,48.60461044311523,48.72471552437846,4.3823,45.7717170715332,48.7268,49.1936,49.45954185413736,43.6022883,45.7717170715332,45.7717170715332,52.4508,48.10940456692299,48.72471552437846,47.28953],[4.3823,3.073432922363281,3.073432922363281,1.373884,4.3823,2.322339057922363,2.148791155648477,4.3823,3.073432922363281,-3.98708,16.6033,1.071152225809878,1.373884,3.073432922363281,3.073432922363281,-1.9305,-1.793246827297961,2.148791155648477,-1.52524],{"iconUrl":{"data":"https://cdn1.iconfinder.com/data/icons/working-at-office/90/activity-work_at_office-working-people-man-23-512.png","index":0},"iconWidth":50,"iconHeight":50},null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},["<b><a href=/workflow4metabolomics/people/W4Mteam/Axelle_Bourez.html>Axelle Bourez<\/a><\/b> <br>ULB","<b><a href=/workflow4metabolomics/people/W4Mteam/Binta_Diémé.html>Binta Diémé<\/a><\/b> <br>PFEM","<b><a href=/workflow4metabolomics/people/W4Mteam/Charlotte_Joly.html>Charlotte Joly<\/a><\/b> <br>PFEM","<b><a href=/workflow4metabolomics/people/W4Mteam/Cécile_Canlet.html>Cécile Canlet<\/a><\/b> <br>TOXALIM","<b><a href=/workflow4metabolomics/people/W4Mteam/Cédric_Delporte.html>Cédric Delporte<\/a><\/b> <br>ULB","<b><a href=/workflow4metabolomics/people/W4Mteam/Céline_Dalle.html>Céline Dalle<\/a><\/b> <br>IRBA","<b><a href=/workflow4metabolomics/people/W4Mteam/Etienne_Thévenot.html>Etienne Thévenot<\/a><\/b> <br>CEA","<b><a href=/workflow4metabolomics/people/W4Mteam/Florence_Souard.html>Florence Souard<\/a><\/b> <br>ULB","<b><a href=/workflow4metabolomics/people/W4Mteam/Etienne_Jules.html>Etienne Jules<\/a><\/b> <br>PFEM","<b><a href=/workflow4metabolomics/people/W4Mteam/Gildas_LeCorguillé.html>Gildas LeCorguillé<\/a><\/b> <br>ABiMS","<b><a href=/workflow4metabolomics/people/W4Mteam/Helge_Hecht.html>Helge Hecht<\/a><\/b> <br>RECETOX","<b><a href=/workflow4metabolomics/people/W4Mteam/Isabelle_Schmitz.html>Isabelle Schmitz<\/a><\/b> <br>PBS","<b><a href=/workflow4metabolomics/people/W4Mteam/Marie_Tremblay-Franco.html>Marie Tremblay-Franco<\/a><\/b> <br>Toxalim","<b><a href=/workflow4metabolomics/people/W4Mteam/Mélanie_Pétéra.html>Mélanie Pétéra<\/a><\/b> <br>PFEM","<b><a href=/workflow4metabolomics/people/W4Mteam/Nils_Paulhe.html>Nils Paulhe<\/a><\/b> <br>PFEM","<b><a href=/workflow4metabolomics/people/W4Mteam/Ralf_Weber.html>Ralf Weber<\/a><\/b> <br>PCB","<b><a href=/workflow4metabolomics/people/W4Mteam/Sylvain_Chéreau.html>Sylvain Chéreau<\/a><\/b> <br>IGEPP","<b><a href=/workflow4metabolomics/people/W4Mteam/Sylvain_Dechaumet.html>Sylvain Dechaumet<\/a><\/b> <br>CEA","<b><a href=/workflow4metabolomics/people/W4Mteam/Yann_Guitton.html>Yann Guitton<\/a><\/b> <br>LABERCA"],null,{"showCoverageOnHover":true,"zoomToBoundsOnClick":true,"spiderfyOnMaxZoom":true,"removeOutsideVisibleBounds":true,"spiderLegPolylineOptions":{"weight":1.5,"color":"#222","opacity":0.5},"freezeAtZoom":false,"iconCreateFunction":"function (cluster) {    \n                                  var childCount = cluster.getChildCount(); \n                                  var c = ' marker-cluster-';  \n                                  if (childCount > 10) {  \n                                    c += 'large';  \n                                  } else if (childCount > 5) {  \n                                    c += 'medium';  \n                                  } else { \n                                    c += 'small';  \n                                  }    \n                                  return new L.DivIcon({ html: '<div><span>' + childCount + '<\/span><\/div>', className: 'marker-cluster' + c, iconSize: new L.Point(40, 40) });\n\n  }"},null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addEasyButton","args":[{"icon":"ion-arrow-shrink","title":"Reset View","onClick":"function(btn, map){ map.setView(map._initialCenter, map._initialZoom); }","position":"topleft"}]},{"method":"addLogo","args":["https://avatars.githubusercontent.com/u/17082156?s=200&v=4","1793985182.09232",{"alpha":1,"url":"https://jsaintvanne.github.io/workflow4metabolomics/","position":"topleft","offsetX":50,"offsetY":13,"width":60,"height":60}]}],"limits":{"lat":[4.3823,52.4508],"lng":[-3.98708,16.6033]}},"evals":["calls.1.args.8.iconCreateFunction","calls.2.args.0.onClick"],"jsHooks":{"render":[{"code":"function(el, x, data) {\n  return (\nfunction(el, x){\n  var map = this;\n  map.whenReady(function(){\n    map._initialCenter = map.getCenter();\n    map._initialZoom = map.getZoom();\n  });\n}).call(this.getMap(), el, x, data);\n}","data":null}]}}</script>
 </div>
 </div>
 <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; width: 100%; max-width: 100%;">    
@@ -909,8 +896,8 @@ Yann Guitton
 <p>Here are all the previous collaborators we had the chance to share with</p>
 <div id="listing-previous_collab" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-6">
-<div class="g-col-1" data-index="0" data-categories="VzRNJTIwZnVuZGluZyUyMGZhdGhlcg==" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="39">
-<a href="./people/old_w4m/Christophe_Caron.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="VzRNJTIwZnVuZGluZyUyMGZhdGhlcg==" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="39">
+<a href="./people/old_w4m/Christophe_Caron.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://galaxyproject.org/images/news/2018-05-caron/christophe-caron.jpg" class="thumbnail-image card-img" style="height: 150px;">
@@ -924,7 +911,7 @@ Christophe Caron
 <div class="listing-category" onclick="window.quartoListingCategory('VzRNJTIwZnVuZGluZyUyMGZhdGhlcg=='); return false;">W4M funding father</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Engineer in computer science</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -935,8 +922,8 @@ Christophe Caron
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Q29tcHV0ZXIlMjBzY2llbmNl" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
-<a href="./people/old_w4m/Christophe_Duperier.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="Q29tcHV0ZXIlMjBzY2llbmNl" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
+<a href="./people/old_w4m/Christophe_Duperier.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://peakforest.org/sites/default/files/inline-images/duperier_ch_300%2A452_0.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -950,7 +937,7 @@ Christophe Duperier
 <div class="listing-category" onclick="window.quartoListingCategory('Q29tcHV0ZXIlMjBzY2llbmNl'); return false;">Computer science</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>IT crew</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -961,8 +948,8 @@ Christophe Duperier
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
-<a href="./people/old_w4m/Eric_Venot.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<a href="./people/old_w4m/Eric_Venot.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://joliot.cea.fr/drf/joliot/PublishingImages/Entites_de_recherche/Medicaments_technologies_sante/SPI/UIAA/Erice-Venot_large.jpg" class="thumbnail-image card-img" style="height: 150px;">
@@ -971,7 +958,7 @@ Christophe Duperier
 <h5 class="no-anchor card-title listing-title">
 Eric Venot
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 No longer in the W4M team.
 </div>
 <div class="card-attribution card-text-small start">
@@ -982,8 +969,8 @@ No longer in the W4M team.
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="TENNUyUyQ1dyYXBwZXIlMjAoWE1MKSUyQ0hQQyUyQ0Jpb2luZm8lMkZUb29sc0RldiUyQ0dhbGF4eSUyQ1BlYWtGb3Jlc3Q=" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="./people/old_w4m/Franck_Giacomoni.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-categories="TENNUyUyQ1dyYXBwZXIlMjAoWE1MKSUyQ0hQQyUyQ0Jpb2luZm8lMkZUb29sc0RldiUyQ0dhbGF4eSUyQ1BlYWtGb3Jlc3Q=" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="./people/old_w4m/Franck_Giacomoni.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://media.licdn.com/dms/image/v2/C4E03AQF4I6WYpVlGFw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516533988638?e=2147483647&amp;v=beta&amp;t=QGmYc_j1D9m1UT8ujXQ4w2cLCks3xpjaI9Jaa3Xaw34" class="thumbnail-image card-img" style="height: 150px;">
@@ -1007,7 +994,7 @@ Franck Giacomoni
 <div class="listing-category" onclick="window.quartoListingCategory('UGVha0ZvcmVzdA=='); return false;">PeakForest</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>No description available</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -1018,8 +1005,8 @@ Franck Giacomoni
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="c3RhdGlzdGljcyUyQ2Jpb2luZm8lMkZ0b29sc2Rldg==" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="./people/old_w4m/JeanFrançois_Martin.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-categories="c3RhdGlzdGljcyUyQ2Jpb2luZm8lMkZ0b29sc2Rldg==" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="./people/old_w4m/JeanFrançois_Martin.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/19904093?v=4" class="thumbnail-image card-img" style="height: 150px;">
@@ -1035,7 +1022,7 @@ Jean-François Martin
 <div class="listing-category" onclick="window.quartoListingCategory('YmlvaW5mbyUyRnRvb2xzZGV2'); return false;">bioinfo/toolsdev</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Engineer in Statistics</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -1046,8 +1033,8 @@ Jean-François Martin
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="TENNUyUyQ0dDTVMlMkNNU01TJTJDV3JhcHBlciUyMChYTUwpJTJDQmlvaW5mbyUyRlRvb2xzRGV2JTJDR2FsYXh5" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="165">
-<a href="./people/old_w4m/Julien_Saint-Vanne.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-categories="TENNUyUyQ0dDTVMlMkNNU01TJTJDV3JhcHBlciUyMChYTUwpJTJDQmlvaW5mbyUyRlRvb2xzRGV2JTJDR2FsYXh5" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="165">
+<a href="./people/old_w4m/Julien_Saint-Vanne.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/35449860?v=4" class="thumbnail-image card-img" style="height: 150px;">
@@ -1071,7 +1058,7 @@ Julien Saint-Vanne
 <div class="listing-category" onclick="window.quartoListingCategory('R2FsYXh5'); return false;">Galaxy</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>Bioinformatic Engineer</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -1082,8 +1069,8 @@ Julien Saint-Vanne
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<a href="./people/old_w4m/Lain_Pavot.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="6" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
+<a href="./people/old_w4m/Lain_Pavot.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/72435441?v=4" class="thumbnail-image card-img" style="height: 150px;">
@@ -1097,7 +1084,7 @@ Lain Pavot
 <div class="listing-category" onclick="window.quartoListingCategory('YmlvaW5mbyUyRnRvb2xzZGV2'); return false;">bioinfo/toolsdev</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 Left for a permanent position outside the metabolomic field.
 </div>
 <div class="card-attribution card-text-small start">
@@ -1108,8 +1095,8 @@ Left for a permanent position outside the metabolomic field.
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<a href="./people/old_w4m/Marion_Landi.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="7" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
+<a href="./people/old_w4m/Marion_Landi.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://raw.githubusercontent.com/workflow4metabolomics/website/refs/heads/main/images/Bust_icon.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -1123,7 +1110,7 @@ Marion Landi
 <div class="listing-category" onclick="window.quartoListingCategory('YmlvaW5mbyUyRnRvb2xzZGV2'); return false;">bioinfo/toolsdev</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 Short-time contract - no longer in the W4M team.
 </div>
 <div class="card-attribution card-text-small start">
@@ -1134,8 +1121,8 @@ Short-time contract - no longer in the W4M team.
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<a href="./people/old_w4m/Misharl_Monsoor.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="8" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
+<a href="./people/old_w4m/Misharl_Monsoor.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/15906049?v=4" class="thumbnail-image card-img" style="height: 150px;">
@@ -1149,7 +1136,7 @@ Misharl Monsoor
 <div class="listing-category" onclick="window.quartoListingCategory('YmlvaW5mbyUyRnRvb2xzZGV2'); return false;">bioinfo/toolsdev</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 Short-time contract - no longer in the W4M team.
 </div>
 <div class="card-attribution card-text-small start">
@@ -1160,8 +1147,8 @@ Short-time contract - no longer in the W4M team.
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
-<a href="./people/old_w4m/Natacha_Lenuzza.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<a href="./people/old_w4m/Natacha_Lenuzza.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://raw.githubusercontent.com/workflow4metabolomics/website/refs/heads/main/images/Bust_icon.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -1170,7 +1157,7 @@ Short-time contract - no longer in the W4M team.
 <h5 class="no-anchor card-title listing-title">
 Natacha Lenuzza
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 No longer in the W4M team.
 </div>
 <div class="card-attribution card-text-small start">
@@ -1181,8 +1168,8 @@ No longer in the W4M team.
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<a href="./people/old_w4m/Pierre_Pericard.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="10" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
+<a href="./people/old_w4m/Pierre_Pericard.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://raw.githubusercontent.com/workflow4metabolomics/website/refs/heads/main/images/Bust_icon.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -1196,7 +1183,7 @@ Pierre Péricard
 <div class="listing-category" onclick="window.quartoListingCategory('YmlvaW5mbyUyRnRvb2xzZGV2'); return false;">bioinfo/toolsdev</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 Short-time contract - no longer in the W4M team.
 </div>
 <div class="card-attribution card-text-small start">
@@ -1207,8 +1194,8 @@ Short-time contract - no longer in the W4M team.
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="11" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<a href="./people/old_w4m/Pierrick_Roge_Mele.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="11" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
+<a href="./people/old_w4m/Pierrick_Roge_Mele.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/15377906?v=4" class="thumbnail-image card-img" style="height: 150px;">
@@ -1222,7 +1209,7 @@ Pierrick Roge-Mele
 <div class="listing-category" onclick="window.quartoListingCategory('YmlvaW5mbyUyRnRvb2xzZGV2'); return false;">bioinfo/toolsdev</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 Short-time contract - no longer in the W4M team.
 </div>
 <div class="card-attribution card-text-small start">
@@ -1233,8 +1220,8 @@ Short-time contract - no longer in the W4M team.
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="12" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<a href="./people/old_w4m/Romain_Dallet.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="12" data-categories="YmlvaW5mbyUyRnRvb2xzZGV2" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
+<a href="./people/old_w4m/Romain_Dallet.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/33418051?v=4" class="thumbnail-image card-img" style="height: 150px;">
@@ -1248,7 +1235,7 @@ Romain Dallet
 <div class="listing-category" onclick="window.quartoListingCategory('YmlvaW5mbyUyRnRvb2xzZGV2'); return false;">bioinfo/toolsdev</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 Short-time contract - no longer in the W4M team.
 </div>
 <div class="card-attribution card-text-small start">
@@ -1259,8 +1246,8 @@ Short-time contract - no longer in the W4M team.
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="13" data-categories="YmlvbG9neQ==" data-listing-file-modified-sort="1790094971301" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
-<a href="./people/old_w4m/Sophie_Goulitquer.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="13" data-categories="YmlvbG9neQ==" data-listing-file-modified-sort="1793984830364" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<a href="./people/old_w4m/Sophie_Goulitquer.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://raw.githubusercontent.com/workflow4metabolomics/website/refs/heads/main/images/Bust_icon.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -1274,7 +1261,7 @@ Sophie Goulitquer
 <div class="listing-category" onclick="window.quartoListingCategory('YmlvbG9neQ=='); return false;">biology</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 No longer in the W4M team.
 </div>
 <div class="card-attribution card-text-small start">
@@ -1376,7 +1363,8 @@ No longer in the W4M team.
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
       // Inspect non-navigation links and adorn them if external
-     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      window.quartoDecorateExternalLinks = function (root) {
+     var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
       for (var i=0; i<links.length; i++) {
         const link = links[i];
         if (!isInternal(link.href)) {
@@ -1385,8 +1373,69 @@ No longer in the W4M team.
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+          if (!link.classList.contains('no-external-icon')) {
+          }
         }
       }
+      };
+      window.quartoDecorateExternalLinks(window.document);
+    // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+    // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+    const hideOnEscAndFocusOut = {
+      name: 'hideOnEscAndFocusOut',
+      defaultValue: true,
+      fn(instance) {
+        const dismiss = () => {
+          // A show scheduled by the trigger delay would otherwise reopen it
+          instance.clearDelayTimeouts();
+          instance.hide();
+        };
+        const onKeyDown = (event) => {
+          if (event.key !== 'Escape') {
+            return;
+          }
+          // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+          // except an open reveal.js slide menu, which Esc should close too.
+          // The menu handles keys only when its keyboard option is on.
+          const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+            window.Reveal.getConfig().menu?.keyboard !== false;
+          if (!menuHandlesEsc) {
+            event.stopPropagation();
+          }
+          if (instance.popper.contains(window.document.activeElement)) {
+            // Disabled while refocusing so the focus trigger does not reopen it
+            instance.disable();
+            instance.reference.focus();
+            instance.enable();
+          }
+          dismiss();
+        };
+        const onFocusOut = (event) => {
+          const target = event.relatedTarget;
+          if (target && !instance.reference.contains(target) &&
+              !instance.popper.contains(target)) {
+            dismiss();
+          }
+        };
+        // On the trigger too: a click trigger (code-annotations: select) has no
+        // blur handling. Attached for the instance's lifetime so leaving the
+        // trigger also cancels a show still pending on the trigger delay.
+        instance.reference.addEventListener('focusout', onFocusOut);
+        return {
+          onShow() {
+            window.document.addEventListener('keydown', onKeyDown, true);
+            instance.popper.addEventListener('focusout', onFocusOut);
+          },
+          onHide() {
+            window.document.removeEventListener('keydown', onKeyDown, true);
+            instance.popper.removeEventListener('focusout', onFocusOut);
+          },
+          onDestroy() {
+            instance.reference.removeEventListener('focusout', onFocusOut);
+          },
+        };
+      },
+    };
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
       const config = {
         allowHTML: true,
@@ -1400,6 +1449,7 @@ No longer in the W4M team.
         interactiveBorder: 10,
         theme: 'quarto',
         placement: 'bottom-start',
+        plugins: [hideOnEscAndFocusOut],
       };
       if (contentFn) {
         config.content = contentFn;
@@ -1562,44 +1612,54 @@ No longer in the W4M team.
           const lineIds = lines.map((line) => {
             return targetCell + "-" + line;
           })
-          let top = null;
-          let height = null;
-          let parent = null;
+          // Each band is positioned against its own containing block, which is
+          // not the offsetParent of the lines, so place it from client rects.
+          const placeBand = (band, firstEl, lastEl, codeBlock) => {
+            const container = band.offsetParent;
+            if (container === null) {
+              return;
+            }
+            const containerRect = container.getBoundingClientRect();
+            // Reveal.js scales slides with a transform, so convert client
+            // pixels back to the CSS pixels of the container.
+            const scale = containerRect.height / container.offsetHeight || 1;
+            const firstRect = firstEl.getBoundingClientRect();
+            const lastRect = lastEl.getBoundingClientRect();
+            const top = (firstRect.top - containerRect.top) / scale - container.clientTop + container.scrollTop;
+            const height = (lastRect.bottom - firstRect.top) / scale;
+            band.style.top = top - 2 + "px";
+            band.style.height = height + 4 + "px";
+            if (codeBlock) {
+              // Without the copy button wrapper, the containing block is wider
+              // than the code block, so span the code block explicitly.
+              const blockRect = codeBlock.getBoundingClientRect();
+              band.style.left = (blockRect.left - containerRect.left) / scale - container.clientLeft + container.scrollLeft + "px";
+              band.style.width = blockRect.width / scale + "px";
+            }
+          };
           if (lineIds.length > 0) {
-              //compute the position of the single el (top and bottom and make a div)
-              const el = window.document.getElementById(lineIds[0]);
-              top = el.offsetTop;
-              height = el.offsetHeight;
-              parent = el.parentElement.parentElement;
-            if (lineIds.length > 1) {
-              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-              height = bottom - top;
+            const el = window.document.getElementById(lineIds[0]);
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const parent = el.parentElement.parentElement;
+            // cook up a div (if necessary) and position it
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
             }
-            if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
-              let div = window.document.getElementById("code-annotation-line-highlight");
-              if (div === null) {
-                div = window.document.createElement("div");
-                div.setAttribute("id", "code-annotation-line-highlight");
-                div.style.position = 'absolute';
-                parent.appendChild(div);
-              }
-              div.style.top = top - 2 + "px";
-              div.style.height = height + 4 + "px";
-              div.style.left = 0;
-              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-              if (gutterDiv === null) {
-                gutterDiv = window.document.createElement("div");
-                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-                gutterDiv.style.position = 'absolute';
-                const codeCell = window.document.getElementById(targetCell);
-                const gutter = codeCell.querySelector('.code-annotation-gutter');
-                gutter.appendChild(gutterDiv);
-              }
-              gutterDiv.style.top = top - 2 + "px";
-              gutterDiv.style.height = height + 4 + "px";
+            placeBand(div, el, lastEl, parent.closest("div.sourceCode") || parent);
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
             }
+            placeBand(gutterDiv, el, lastEl);
             selectedAnnoteEl = annoteEl;
           }
         };
@@ -1697,6 +1757,9 @@ No longer in the W4M team.
       }
     }
   });
+  </script>
+  <script type="application/javascript">
+  window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
   </script>
 </div> <!-- /content -->
 <footer class="footer">

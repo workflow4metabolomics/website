@@ -1,19 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/news.html"
-    ]
-  },
-  {
-    "listing": "/tooluser.html",
-    "items": [
-      "/W4M_datasets/GCMSIdealg.html",
-      "/W4M_datasets/NMRMusmusculus.html",
-      "/W4M_datasets/sacurine.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": [
       "/W4E/w4e2027.html",
@@ -28,6 +14,14 @@
       "/W4E/w4e2016.html",
       "/W4E/w4e2015.html",
       "/W4E/w4e2014.html"
+    ]
+  },
+  {
+    "listing": "/tooluser.html",
+    "items": [
+      "/W4M_datasets/GCMSIdealg.html",
+      "/W4M_datasets/NMRMusmusculus.html",
+      "/W4M_datasets/sacurine.html"
     ]
   },
   {
@@ -67,6 +61,12 @@
       "/people/old_w4m/Pierrick_Roge_Mele.html",
       "/people/old_w4m/Romain_Dallet.html",
       "/people/old_w4m/Sophie_Goulitquer.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news.html"
     ]
   }
 ]
