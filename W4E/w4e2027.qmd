@@ -37,8 +37,7 @@ To be defined
   <thead>
     <tr>
       <th colspan="5">
-        To be announced soon. You can cast an eye over last year's program: 
-        <img src="/images/planning_webinar_w4e_2026.png" alt="Coming Soon!" style="width: 100%; max-width: 900px;" />
+        <img src="/images/W4E_specific/planning_webinar_w4e_2027.png" alt="Coming Soon!" style="width: 100%; max-width: 900px;" />
       </th>
     </tr>
   </thead>
@@ -55,8 +54,7 @@ To be defined
   <thead>
     <tr>
       <th colspan="5">
-        To be announced soon. You can cast an eye over last year's program: 
-        <img src="/images/planning_w4e26.jpg" alt="Coming Soon!" style="width: 100%; max-width: 900px;" />
+        <img src="/images/W4E_specific/planning_w4e27.jpg" alt="Coming Soon!" style="width: 100%; max-width: 900px;" />
       </th>
     </tr>
   </thead>
